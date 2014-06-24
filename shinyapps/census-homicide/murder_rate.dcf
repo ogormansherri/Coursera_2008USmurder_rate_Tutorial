@@ -1,0 +1,4 @@
+name: murder_rate
+account: census-homicide
+bundleId: 25727
+url: http://census-homicide.shinyapps.io/murder_rate

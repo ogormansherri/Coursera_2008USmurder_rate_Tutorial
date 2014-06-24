@@ -1,0 +1,2329 @@
+"","region","subregion","region_type","violent","murder","rape","robbery","assault","property","burglary","larceny","car","arson"
+"1","alabama","bibb","metropolitan   ",20,0,2,1,17,138,54,71,13,NA
+"2","alabama","chilton","metropolitan   ",328,0,9,3,316,477,159,312,6,NA
+"3","alabama","colbert","metropolitan   ",169,0,6,4,159,563,122,418,23,NA
+"4","alabama","elmore","metropolitan   ",58,0,13,16,29,688,231,420,37,NA
+"5","alabama","geneva","metropolitan   ",28,0,5,2,21,226,82,118,26,NA
+"6","alabama","hale","metropolitan   ",63,2,3,7,51,219,86,99,34,NA
+"7","alabama","henry","metropolitan   ",22,1,2,0,19,119,34,74,11,NA
+"8","alabama","houston","metropolitan   ",31,0,10,10,11,525,103,364,58,NA
+"9","alabama","jefferson","metropolitan   ",637,5,62,282,288,5960,2358,3103,499,NA
+"10","alabama","lauderdale","metropolitan   ",61,1,13,3,44,972,323,594,55,NA
+"11","alabama","lawrence","metropolitan   ",35,0,1,3,31,505,179,310,16,NA
+"12","alabama","lee","metropolitan   ",103,3,20,24,56,1850,643,1095,112,NA
+"13","alabama","limestone","metropolitan   ",38,1,6,8,23,380,103,241,36,NA
+"14","alabama","madison","metropolitan   ",224,0,20,38,166,2506,810,1464,232,NA
+"15","alabama","mobile","metropolitan   ",223,9,24,84,106,2431,778,1385,268,NA
+"16","alabama","montgomery","metropolitan   ",52,0,6,9,37,720,225,405,90,NA
+"17","alabama","morgan","metropolitan   ",28,2,3,4,19,388,231,155,2,NA
+"18","alabama","russell","metropolitan   ",97,2,5,8,82,336,137,163,36,NA
+"19","alabama","shelby","metropolitan   ",77,0,15,15,47,1029,428,517,84,NA
+"20","alabama","st. clair","metropolitan   ",38,0,8,5,25,324,119,181,24,NA
+"21","alabama","tuscaloosa","metropolitan   ",229,2,21,32,174,1807,570,1041,196,NA
+"22","alabama","walker","metropolitan   ",46,1,8,14,23,1024,279,673,72,NA
+"23","alabama","baldwin","nonmetropolitan  ",137,3,18,22,94,1094,339,685,70,NA
+"24","alabama","barbour","nonmetropolitan  ",18,0,1,0,17,60,57,0,3,NA
+"25","alabama","butler","nonmetropolitan  ",21,0,2,1,18,226,95,124,7,NA
+"26","alabama","chambers","nonmetropolitan  ",20,0,4,3,13,186,69,108,9,NA
+"27","alabama","cherokee","nonmetropolitan  ",15,0,0,0,15,150,37,113,0,NA
+"28","alabama","clay","nonmetropolitan  ",10,0,3,0,7,128,55,66,7,NA
+"29","alabama","cleburne","nonmetropolitan  ",27,0,0,3,24,211,76,113,22,NA
+"30","alabama","conecuh","nonmetropolitan  ",7,1,0,0,6,87,37,48,2,NA
+"31","alabama","coosa","nonmetropolitan  ",24,0,3,1,20,260,100,155,5,NA
+"32","alabama","covington","nonmetropolitan  ",12,2,6,1,3,67,33,33,1,NA
+"33","alabama","crenshaw","nonmetropolitan  ",11,1,2,0,8,170,59,94,17,NA
+"34","alabama","cullman","nonmetropolitan  ",134,1,29,5,99,1249,351,828,70,NA
+"35","alabama","dale","nonmetropolitan  ",47,0,2,1,44,165,57,102,6,NA
+"36","alabama","dallas","nonmetropolitan  ",53,0,4,9,40,586,168,364,54,NA
+"37","alabama","escambia","nonmetropolitan  ",26,0,2,6,18,163,48,105,10,NA
+"38","alabama","fayette","nonmetropolitan  ",7,0,2,2,3,103,40,49,14,NA
+"39","alabama","franklin","nonmetropolitan  ",15,0,4,0,11,123,47,67,9,NA
+"40","alabama","jackson","nonmetropolitan  ",53,0,9,0,44,558,180,281,97,NA
+"41","alabama","macon","nonmetropolitan  ",53,1,5,3,44,315,131,130,54,NA
+"42","alabama","marengo","nonmetropolitan  ",20,0,3,3,14,164,54,92,18,NA
+"43","alabama","marshall","nonmetropolitan  ",64,2,13,5,44,656,244,364,48,NA
+"44","alabama","monroe","nonmetropolitan  ",34,2,0,1,31,105,54,46,5,NA
+"45","alabama","perry","nonmetropolitan  ",5,1,0,0,4,102,41,49,12,NA
+"46","alabama","pickens","nonmetropolitan  ",14,1,4,1,8,63,26,32,5,NA
+"47","alabama","pike","nonmetropolitan  ",6,0,0,3,3,85,38,43,4,NA
+"48","alabama","talladega","nonmetropolitan  ",72,0,7,24,41,1107,303,767,37,NA
+"49","alabama","washington","nonmetropolitan  ",82,0,6,2,74,164,43,112,9,NA
+"50","alabama","wilcox","nonmetropolitan  ",6,0,0,0,6,19,3,11,5,NA
+"51","alabama","winston","nonmetropolitan  ",17,0,1,0,16,235,58,169,8,NA
+"52","arizona","coconino","metropolitan  ",123,0,15,3,105,559,171,373,15,16
+"53","arizona","maricopa","metropolitan  ",1018,26,23,121,848,7260,2050,4303,907,153
+"54","arizona","mohave","metropolitan  ",191,7,16,15,153,2411,894,1303,214,22
+"55","arizona","pima","metropolitan  ",674,28,72,234,340,11987,2762,7754,1471,126
+"56","arizona","pinal","metropolitan  ",198,7,39,36,116,3930,493,2731,706,24
+"57","arizona","yavapai","metropolitan  ",302,3,20,6,273,1568,536,893,139,9
+"58","arizona","yuma2 ","metropolitan  ",96,2,5,10,79,934,394,422,118,9
+"59","arizona","apache","nonmetropolitan  ",28,0,6,0,22,234,102,126,6,0
+"60","arizona","cochise","nonmetropolitan  ",446,4,16,14,412,1027,360,527,140,10
+"61","arizona","gila","nonmetropolitan  ",66,0,2,2,62,386,130,201,55,11
+"62","arizona","graham","nonmetropolitan  ",276,0,0,0,276,248,101,131,16,16
+"63","arizona","la paz","nonmetropolitan  ",70,0,0,2,68,368,100,232,36,8
+"64","arizona","navajo","nonmetropolitan  ",58,0,10,1,47,636,323,241,72,4
+"65","arizona","santa cruz","nonmetropolitan  ",5,0,0,3,2,437,181,154,102,0
+"66","arkansas","benton","metropolitan  ",129,1,33,0,95,500,221,240,39,3
+"67","arkansas","cleveland","metropolitan  ",2,1,1,0,0,130,55,67,8,3
+"68","arkansas","craighead","metropolitan  ",21,0,1,1,19,316,134,149,33,5
+"69","arkansas","crawford","metropolitan  ",16,0,5,1,10,300,113,157,30,1
+"70","arkansas","crittenden","metropolitan  ",80,0,3,8,69,406,117,255,34,10
+"71","arkansas","faulkner","metropolitan  ",50,2,13,0,35,716,187,458,71,10
+"72","arkansas","franklin","metropolitan  ",24,0,1,0,23,196,78,107,11,2
+"73","arkansas","garland","metropolitan  ",129,3,25,14,87,2504,1152,1170,182,21
+"74","arkansas","grant","metropolitan  ",21,0,3,0,18,169,68,84,17,2
+"75","arkansas","jefferson","metropolitan  ",84,4,9,6,65,535,240,229,66,10
+"76","arkansas","lincoln","metropolitan  ",14,0,2,0,12,93,56,33,4,2
+"77","arkansas","lonoke","metropolitan  ",128,0,22,5,101,624,280,266,78,4
+"78","arkansas","madison","metropolitan  ",30,1,4,1,24,75,36,34,5,0
+"79","arkansas","perry","metropolitan  ",14,0,1,0,13,69,34,32,3,1
+"80","arkansas","poinsett","metropolitan  ",49,0,2,1,46,76,69,3,4,4
+"81","arkansas","pulaski2","metropolitan  ",374,2,22,44,306,1964,858,889,217,16
+"82","arkansas","saline","metropolitan  ",131,3,27,10,91,1044,327,668,49,6
+"83","arkansas","sebastian","metropolitan  ",79,0,6,4,69,399,147,232,20,2
+"84","arkansas","washington","metropolitan  ",132,0,15,2,115,526,200,284,42,5
+"85","arkansas","arkansas","nonmetropolitan  ",1,0,0,0,1,93,30,51,12,0
+"86","arkansas","ashley2","nonmetropolitan  ",10,0,2,2,6,201,81,113,7,4
+"87","arkansas","baxter","nonmetropolitan  ",37,1,6,1,29,607,118,459,30,1
+"88","arkansas","boone2","nonmetropolitan  ",33,0,5,0,28,238,57,179,2,7
+"89","arkansas","bradley","nonmetropolitan  ",9,1,1,0,7,51,23,18,10,0
+"90","arkansas","calhoun","nonmetropolitan  ",0,0,0,0,0,28,12,10,6,0
+"91","arkansas","carroll","nonmetropolitan  ",27,0,0,0,27,230,49,151,30,3
+"92","arkansas","chicot2","nonmetropolitan  ",8,0,0,3,5,74,43,27,4,1
+"93","arkansas","clark","nonmetropolitan  ",16,0,1,3,12,148,58,84,6,2
+"94","arkansas","cleburne","nonmetropolitan  ",60,2,7,3,48,293,129,142,22,7
+"95","arkansas","columbia","nonmetropolitan  ",26,0,1,1,24,206,81,112,13,1
+"96","arkansas","cross","nonmetropolitan  ",62,0,5,0,57,233,34,185,14,1
+"97","arkansas","dallas","nonmetropolitan  ",2,0,0,0,2,30,14,14,2,0
+"98","arkansas","drew","nonmetropolitan  ",38,0,1,1,36,177,83,81,13,7
+"99","arkansas","fulton","nonmetropolitan  ",17,1,1,0,15,108,49,51,8,1
+"100","arkansas","greene","nonmetropolitan  ",15,2,3,0,10,157,39,114,4,0
+"101","arkansas","hempstead","nonmetropolitan  ",31,3,4,0,24,207,69,100,38,1
+"102","arkansas","howard","nonmetropolitan  ",9,0,1,0,8,63,32,30,1,5
+"103","arkansas","independence2","nonmetropolitan  ",186,2,18,14,152,1199,493,616,90,18
+"104","arkansas","izard","nonmetropolitan  ",5,0,2,0,3,70,35,32,3,4
+"105","arkansas","jackson","nonmetropolitan  ",47,0,5,1,41,168,62,89,17,6
+"106","arkansas","johnson2","nonmetropolitan  ",20,0,1,0,19,194,130,64,0,9
+"107","arkansas","lawrence","nonmetropolitan  ",16,1,2,0,13,145,60,85,0,0
+"108","arkansas","little river","nonmetropolitan  ",10,0,4,0,6,55,33,19,3,0
+"109","arkansas","logan","nonmetropolitan  ",19,1,4,1,13,270,73,162,35,2
+"110","arkansas","marion","nonmetropolitan  ",43,0,2,2,39,218,74,141,3,2
+"111","arkansas","mississippi","nonmetropolitan  ",29,3,11,4,11,366,81,231,54,3
+"112","arkansas","nevada2","nonmetropolitan  ",1,0,0,0,1,19,11,4,4,0
+"113","arkansas","newton","nonmetropolitan  ",23,2,1,0,20,96,39,47,10,2
+"114","arkansas","ouachita","nonmetropolitan  ",21,1,2,1,17,122,56,58,8,0
+"115","arkansas","polk","nonmetropolitan  ",20,0,5,2,13,118,69,43,6,1
+"116","arkansas","pope","nonmetropolitan  ",29,0,11,0,18,449,183,230,36,4
+"117","arkansas","prairie","nonmetropolitan  ",1,0,0,0,1,83,25,49,9,0
+"118","arkansas","randolph","nonmetropolitan  ",0,0,0,0,0,59,3,55,1,2
+"119","arkansas","sevier","nonmetropolitan  ",26,1,1,1,23,247,115,110,22,0
+"120","arkansas","st. francis","nonmetropolitan  ",28,0,3,9,16,482,149,333,0,1
+"121","arkansas","union","nonmetropolitan  ",34,1,8,5,20,415,72,307,36,2
+"122","arkansas","white","nonmetropolitan  ",42,3,10,4,25,808,283,423,102,3
+"123","arkansas","yell","nonmetropolitan  ",40,1,6,1,32,172,94,59,19,4
+"124","california","alameda","metropolitan  ",728,5,24,287,412,2829,626,1386,817,24
+"125","california","butte","metropolitan  ",145,1,22,25,97,1373,509,850,14,13
+"126","california","contra costa","metropolitan  ",548,16,29,204,299,3359,1169,2179,11,27
+"127","california","el dorado","metropolitan  ",235,7,17,21,190,2038,738,1286,14,20
+"128","california","fresno","metropolitan  ",652,19,30,126,477,6121,1735,3472,914,280
+"129","california","imperial","metropolitan  ",121,2,7,14,98,976,315,633,28,9
+"130","california","kern","metropolitan  ",1891,23,137,461,1270,10541,3272,5814,1455,389
+"131","california","kings","metropolitan  ",177,3,8,18,148,607,213,332,62,10
+"132","california","los angeles","metropolitan  ",7362,135,232,1967,5028,19893,5311,9200,5382,417
+"133","california","madera","metropolitan  ",252,2,12,27,211,1388,520,849,19,2
+"134","california","marin","metropolitan  ",148,2,10,27,109,961,286,673,2,10
+"135","california","merced","metropolitan  ",469,5,16,55,393,2392,775,1603,14,8
+"136","california","monterey","metropolitan  ",187,6,15,53,113,1569,526,1029,14,18
+"137","california","napa","metropolitan  ",60,0,5,4,51,507,187,316,4,2
+"138","california","orange","metropolitan  ",163,0,5,27,131,1425,298,982,145,5
+"139","california","placer","metropolitan  ",296,3,21,34,238,1939,691,1209,39,9
+"140","california","riverside","metropolitan  ",1515,24,82,387,1022,13387,3577,7412,2398,43
+"141","california","sacramento","metropolitan  ",3282,47,194,1274,1767,15525,4580,10771,174,195
+"142","california","san benito","metropolitan  ",66,1,10,1,54,294,111,172,11,2
+"143","california","san bernardino","metropolitan  ",1295,23,69,206,997,6866,2153,3326,1387,130
+"144","california","san diego","metropolitan  ",1516,14,93,262,1147,7454,2010,3783,1661,43
+"145","california","san joaquin","metropolitan  ",1085,9,27,205,844,5388,1676,3576,136,24
+"146","california","san luis obispo","metropolitan  ",210,2,26,14,168,1340,474,859,7,11
+"147","california","san mateo","metropolitan  ",221,5,12,45,159,1760,190,1293,277,9
+"148","california","santa barbara","metropolitan  ",171,2,19,33,117,1884,569,1307,8,19
+"149","california","santa clara","metropolitan  ",286,1,27,46,212,1817,465,1144,208,5
+"150","california","santa cruz","metropolitan  ",332,3,32,61,236,2298,692,1595,11,27
+"151","california","shasta","metropolitan  ",447,1,33,19,394,1104,526,551,27,11
+"152","california","solano","metropolitan  ",123,1,9,26,87,418,177,231,10,13
+"153","california","sonoma","metropolitan  ",631,3,34,48,546,1628,667,940,21,19
+"154","california","stanislaus","metropolitan  ",522,4,30,118,370,3561,1315,1877,369,169
+"155","california","sutter","metropolitan  ",109,0,7,9,93,719,229,449,41,5
+"156","california","tulare3","metropolitan  ",514,24,29,88,373,NA,1040,2414,NA,58
+"157","california","ventura","metropolitan  ",212,4,20,35,153,1326,345,891,90,24
+"158","california","yolo","metropolitan  ",45,2,5,9,29,344,125,210,9,2
+"159","california","yuba","metropolitan  ",240,6,18,36,180,1177,503,658,16,11
+"160","california","alpine","nonmetropolitan  ",14,1,2,0,11,72,14,58,0,0
+"161","california","amador","nonmetropolitan  ",62,0,14,5,43,609,229,366,14,3
+"162","california","calaveras","nonmetropolitan  ",83,0,6,14,63,650,290,351,9,4
+"163","california","colusa","nonmetropolitan  ",21,0,0,5,16,254,87,163,4,3
+"164","california","del norte","nonmetropolitan  ",79,0,16,9,54,293,155,134,4,4
+"165","california","glenn","nonmetropolitan  ",8,0,0,0,8,141,51,88,2,0
+"166","california","humboldt","nonmetropolitan  ",137,1,13,20,103,954,273,654,27,8
+"167","california","inyo","nonmetropolitan  ",58,0,1,2,55,178,66,110,2,4
+"168","california","lake","nonmetropolitan  ",198,3,10,21,164,859,417,435,7,9
+"169","california","lassen","nonmetropolitan  ",34,0,7,3,24,148,54,92,2,5
+"170","california","mariposa","nonmetropolitan  ",42,1,3,0,38,257,96,159,2,2
+"171","california","mendocino","nonmetropolitan  ",336,5,16,34,281,632,297,331,4,17
+"172","california","modoc","nonmetropolitan  ",18,0,3,0,15,88,34,54,0,2
+"173","california","mono","nonmetropolitan  ",15,0,2,1,12,97,40,57,0,0
+"174","california","nevada","nonmetropolitan  ",164,1,14,11,138,538,205,327,6,1
+"175","california","plumas","nonmetropolitan  ",138,3,13,3,119,290,139,145,6,0
+"176","california","sierra","nonmetropolitan  ",6,0,0,1,5,35,19,16,0,1
+"177","california","siskiyou","nonmetropolitan  ",47,1,6,3,37,219,88,129,2,4
+"178","california","tehama","nonmetropolitan  ",212,0,6,8,198,369,230,139,0,14
+"179","california","trinity","nonmetropolitan  ",22,0,1,2,19,66,37,29,0,0
+"180","california","tuolumne","nonmetropolitan  ",114,1,20,11,82,802,356,438,8,13
+"181","colorado","adams","metropolitan  ",420,4,71,58,287,2718,685,1497,536,34
+"182","colorado","arapahoe","metropolitan  ",202,2,22,30,148,1381,325,937,119,30
+"183","colorado","boulder","metropolitan  ",46,1,11,2,32,659,199,420,40,17
+"184","colorado","clear creek","metropolitan  ",17,0,0,0,17,94,31,61,2,1
+"185","colorado","douglas","metropolitan  ",233,1,73,18,141,2098,498,1520,80,22
+"186","colorado","el paso","metropolitan  ",822,7,60,18,737,1802,638,963,201,38
+"187","colorado","gilpin","metropolitan  ",9,0,1,0,8,39,7,32,0,0
+"188","colorado","jefferson","metropolitan  ",250,0,38,17,195,2844,517,2148,179,39
+"189","colorado","larimer","metropolitan  ",118,2,29,9,78,1067,279,706,82,13
+"190","colorado","mesa","metropolitan  ",174,2,32,14,126,1394,386,895,113,10
+"191","colorado","park","metropolitan  ",20,0,0,0,20,120,55,57,8,1
+"192","colorado","pueblo","metropolitan  ",19,2,0,3,14,1383,305,1021,57,2
+"193","colorado","teller","metropolitan  ",14,0,0,0,14,74,26,44,4,2
+"194","colorado","weld","metropolitan  ",109,1,13,4,91,956,327,531,98,8
+"195","colorado","alamosa","nonmetropolitan  ",5,0,0,0,5,35,9,26,0,0
+"196","colorado","archuleta","nonmetropolitan  ",12,0,1,0,11,113,30,71,12,0
+"197","colorado","bent","nonmetropolitan  ",0,0,0,0,0,15,7,7,1,1
+"198","colorado","chaffee","nonmetropolitan  ",15,0,2,1,12,125,32,89,4,0
+"199","colorado","crowley","nonmetropolitan  ",6,0,2,0,4,0,0,0,0,0
+"200","colorado","custer","nonmetropolitan  ",14,0,4,1,9,45,10,29,6,1
+"201","colorado","delta","nonmetropolitan  ",27,0,5,1,21,158,44,107,7,2
+"202","colorado","dolores","nonmetropolitan  ",0,0,0,0,0,16,5,11,0,0
+"203","colorado","eagle","nonmetropolitan  ",56,1,2,1,52,543,67,471,5,6
+"204","colorado","fremont","nonmetropolitan  ",58,1,5,0,52,235,66,160,9,1
+"205","colorado","grand","nonmetropolitan  ",14,0,0,0,14,156,31,121,4,0
+"206","colorado","gunnison","nonmetropolitan  ",19,0,1,0,18,19,1,16,2,0
+"207","colorado","hinsdale","nonmetropolitan  ",1,1,0,0,0,10,1,8,1,0
+"208","colorado","jackson","nonmetropolitan  ",3,0,0,0,3,7,2,5,0,0
+"209","colorado","kiowa","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"210","colorado","kit carson","nonmetropolitan  ",6,0,0,0,6,29,10,18,1,0
+"211","colorado","lake","nonmetropolitan  ",6,0,0,0,6,24,9,8,7,0
+"212","colorado","la plata","nonmetropolitan  ",31,1,15,0,15,343,115,202,26,4
+"213","colorado","las animas","nonmetropolitan  ",5,0,0,0,5,4,1,3,0,0
+"214","colorado","logan","nonmetropolitan  ",6,0,1,0,5,36,7,28,1,1
+"215","colorado","mineral","nonmetropolitan  ",0,0,0,0,0,1,0,0,1,0
+"216","colorado","moffat","nonmetropolitan  ",0,0,0,0,0,29,3,25,1,1
+"217","colorado","montezuma","nonmetropolitan  ",66,1,1,1,63,181,73,86,22,2
+"218","colorado","montrose","nonmetropolitan  ",28,0,5,0,23,180,60,102,18,1
+"219","colorado","morgan","nonmetropolitan  ",2,0,0,1,1,79,12,59,8,1
+"220","colorado","ouray","nonmetropolitan  ",10,0,0,0,10,26,5,20,1,0
+"221","colorado","phillips","nonmetropolitan  ",0,0,0,0,0,5,0,4,1,0
+"222","colorado","pitkin","nonmetropolitan  ",18,0,4,0,14,111,14,82,15,0
+"223","colorado","prowers","nonmetropolitan  ",18,0,1,0,17,40,20,19,1,0
+"224","colorado","rio grande","nonmetropolitan  ",5,0,0,0,5,37,16,19,2,1
+"225","colorado","routt","nonmetropolitan  ",19,0,6,0,13,62,12,46,4,0
+"226","colorado","saguache","nonmetropolitan  ",11,0,0,0,11,25,7,15,3,0
+"227","colorado","san juan","nonmetropolitan  ",4,0,0,0,4,29,9,19,1,0
+"228","colorado","san miguel","nonmetropolitan  ",2,0,0,0,2,56,15,40,1,0
+"229","colorado","sedgwick","nonmetropolitan  ",7,0,0,0,7,22,5,14,3,0
+"230","colorado","summit","nonmetropolitan  ",48,0,3,6,39,579,63,505,11,6
+"231","colorado","washington","nonmetropolitan  ",8,0,2,0,6,56,20,31,5,1
+"232","colorado","yuma","nonmetropolitan  ",5,0,1,0,4,30,4,25,1,1
+"233","delaware","new castle county police department","metropolitan  ",1544,14,97,430,1003,7719,1992,4986,741,9
+"234","florida","alachua","metropolitan  ",878,1,46,105,726,3389,1175,2010,204,23
+"235","florida","baker","metropolitan  ",75,1,3,5,66,276,37,219,20,2
+"236","florida","bay","metropolitan  ",417,6,57,48,306,2381,611,1618,152,4
+"237","florida","brevard","metropolitan  ",1089,4,61,127,897,5709,1309,4047,353,26
+"238","florida","broward","metropolitan  ",344,4,16,114,210,1011,193,731,87,3
+"239","florida","charlotte","metropolitan  ",500,3,15,68,414,4535,1083,3234,218,2
+"240","florida","clay","metropolitan  ",819,5,51,90,673,4576,1058,3281,237,28
+"241","florida","collier","metropolitan  ",1110,6,53,224,827,5154,1258,3590,306,22
+"242","florida","escambia","metropolitan  ",2217,18,127,554,1518,9468,2417,6364,687,24
+"243","florida","flagler","metropolitan  ",214,0,13,39,162,1943,484,1358,101,6
+"244","florida","gadsden","metropolitan  ",379,1,2,24,352,802,536,248,18,2
+"245","florida","gilchrist","metropolitan  ",36,2,0,0,34,197,76,109,12,0
+"246","florida","hernando","metropolitan  ",576,2,75,77,422,5841,1662,3848,331,11
+"247","florida","hillsborough","metropolitan  ",4927,46,241,1089,3551,29113,7505,19144,2464,82
+"248","florida","indian river","metropolitan  ",327,4,30,64,229,2913,735,2063,115,5
+"249","florida","jefferson","metropolitan  ",174,0,7,6,161,125,50,67,8,2
+"250","florida","lake","metropolitan  ",897,7,56,57,777,3673,1229,2166,278,21
+"251","florida","lee","metropolitan  ",1665,28,91,450,1096,12468,4174,7394,900,98
+"252","florida","leon","metropolitan  ",343,6,16,59,262,1592,792,674,126,44
+"253","florida","manatee","metropolitan  ",2130,8,70,508,1544,11288,2870,7784,634,27
+"254","florida","marion","metropolitan  ",1438,15,109,117,1197,4908,1548,2990,370,6
+"255","florida","martin","metropolitan  ",401,1,10,142,248,3293,749,2418,126,14
+"256","florida","miami-dade","metropolitan  ",8749,95,339,2552,5763,51712,9284,36211,6217,82
+"257","florida","nassau","metropolitan  ",606,1,6,22,577,1496,482,905,109,12
+"258","florida","okaloosa","metropolitan  ",462,3,29,91,339,3769,767,2799,203,4
+"259","florida","orange","metropolitan  ",6991,74,372,2316,4229,33577,9907,19981,3689,0
+"260","florida","osceola","metropolitan  ",799,9,28,138,624,6732,2631,3716,385,0
+"261","florida","palm beach","metropolitan  ",2895,33,182,892,1788,18782,4814,12034,1934,124
+"262","florida","pasco","metropolitan  ",1497,22,111,315,1049,14588,4040,9452,1096,64
+"263","florida","pinellas","metropolitan  ",1271,8,126,245,892,8386,2077,5831,478,43
+"264","florida","polk","metropolitan  ",1525,28,86,254,1157,11265,3874,6537,854,0
+"265","florida","santa rosa","metropolitan  ",247,2,15,22,208,1513,418,992,103,5
+"266","florida","sarasota","metropolitan  ",739,7,53,173,506,8770,2195,6163,412,7
+"267","florida","seminole","metropolitan  ",735,4,33,105,593,4243,1166,2712,365,4
+"268","florida","st. johns","metropolitan  ",545,4,13,61,467,4301,945,3125,231,7
+"269","florida","st. lucie","metropolitan  ",329,4,21,70,234,1901,628,1155,118,12
+"270","florida","volusia","metropolitan  ",1044,4,88,152,800,5906,1945,3474,487,30
+"271","florida","wakulla","metropolitan  ",88,0,11,8,69,648,167,437,44,6
+"272","florida","bradford","nonmetropolitan  ",116,1,7,3,105,406,199,163,44,2
+"273","florida","calhoun","nonmetropolitan  ",21,0,2,1,18,89,32,55,2,1
+"274","florida","citrus","nonmetropolitan  ",457,7,21,55,374,2865,728,1940,197,20
+"275","florida","columbia","nonmetropolitan  ",237,2,14,20,201,1457,505,872,80,0
+"276","florida","desoto","nonmetropolitan  ",179,2,4,39,134,833,300,473,60,5
+"277","florida","dixie","nonmetropolitan  ",82,0,8,8,66,615,238,340,37,6
+"278","florida","franklin","nonmetropolitan  ",17,0,0,0,17,76,14,57,5,0
+"279","florida","glades","nonmetropolitan  ",56,0,3,3,50,330,123,170,37,3
+"280","florida","gulf","nonmetropolitan  ",53,0,2,1,50,187,42,133,12,0
+"281","florida","hamilton","nonmetropolitan  ",59,1,6,8,44,272,85,165,22,0
+"282","florida","hardee","nonmetropolitan  ",65,0,6,21,38,598,119,409,70,0
+"283","florida","hendry","nonmetropolitan  ",259,4,4,46,205,1136,504,528,104,17
+"284","florida","highlands","nonmetropolitan  ",181,5,11,21,144,1912,601,1202,109,5
+"285","florida","holmes","nonmetropolitan  ",41,0,4,0,37,271,79,154,38,0
+"286","florida","jackson","nonmetropolitan  ",193,6,13,11,163,565,221,300,44,2
+"287","florida","lafayette","nonmetropolitan  ",19,0,0,0,19,30,13,14,3,0
+"288","florida","levy","nonmetropolitan  ",205,0,26,14,165,1033,373,557,103,3
+"289","florida","madison","nonmetropolitan  ",146,0,4,9,133,359,157,183,19,1
+"290","florida","monroe","nonmetropolitan  ",182,4,13,15,150,2144,479,1580,85,3
+"291","florida","okeechobee","nonmetropolitan  ",260,2,19,26,213,1060,493,525,42,2
+"292","florida","putnam","nonmetropolitan  ",617,7,28,64,518,3003,1399,1385,219,6
+"293","florida","sumter","nonmetropolitan  ",142,2,14,22,104,842,257,529,56,1
+"294","florida","suwannee","nonmetropolitan  ",120,1,8,1,110,507,160,300,47,1
+"295","florida","taylor","nonmetropolitan  ",98,0,11,0,87,255,127,115,13,1
+"296","florida","union","nonmetropolitan  ",58,1,1,4,52,130,60,55,15,2
+"297","florida","walton","nonmetropolitan  ",163,1,9,11,142,1006,254,682,70,2
+"298","florida","washington","nonmetropolitan  ",31,0,2,2,27,241,72,143,26,0
+"299","georgia","augusta-richmond","metropolitan  ",1124,20,143,723,238,13911,3502,8755,1654,184
+"300","georgia","barrow","metropolitan  ",225,2,7,10,206,974,195,689,90,NA
+"301","georgia","bibb","metropolitan  ",176,1,16,68,91,2487,544,1705,238,NA
+"302","georgia","brooks","metropolitan  ",78,0,0,3,75,252,61,153,38,0
+"303","georgia","burke4","metropolitan  ",NA,5,0,0,NA,705,242,430,33,NA
+"304","georgia","butts","metropolitan  ",61,0,10,4,47,769,151,542,76,NA
+"305","georgia","carroll","metropolitan  ",403,1,24,21,357,1992,615,1178,199,NA
+"306","georgia","catoosa","metropolitan  ",74,3,4,9,58,1131,276,705,150,NA
+"307","georgia","cherokee","metropolitan  ",127,2,2,16,107,1605,389,1144,72,8
+"308","georgia","clayton county police department","metropolitan  ",1424,27,74,669,654,10067,4023,4602,1442,60
+"309","georgia","cobb","metropolitan  ",3,0,1,0,2,0,0,0,0,0
+"310","georgia","cobb county police department","metropolitan  ",1236,18,96,555,567,12765,3477,7969,1319,39
+"311","georgia","columbia","metropolitan  ",93,0,21,25,47,2278,346,1831,101,8
+"312","georgia","coweta","metropolitan  ",138,4,16,32,86,1425,382,900,143,NA
+"313","georgia","crawford","metropolitan  ",26,0,1,0,25,391,114,248,29,NA
+"314","georgia","dade5","metropolitan  ",NA,0,1,0,NA,197,59,112,26,NA
+"315","georgia","dawson","metropolitan  ",19,1,4,2,12,409,82,290,37,1
+"316","georgia","dekalb county police department","metropolitan  ",4600,102,180,2933,1385,37343,11461,19336,6546,216
+"317","georgia","dougherty county police department","metropolitan  ",21,0,0,5,16,511,187,279,45,NA
+"318","georgia","douglas","metropolitan  ",164,1,11,47,105,2551,753,1537,261,1
+"319","georgia","echols","metropolitan  ",11,2,0,0,9,47,25,18,4,0
+"320","georgia","fayette","metropolitan  ",33,1,3,8,21,652,213,394,45,1
+"321","georgia","floyd","metropolitan  ",18,0,0,0,18,6,2,2,2,NA
+"322","georgia","forsyth","metropolitan  ",121,5,21,23,72,1971,503,1332,136,6
+"323","georgia","fulton county police department","metropolitan  ",904,12,55,457,380,7118,2545,3405,1168,28
+"324","georgia","gwinnett county police department2","metropolitan  ",1068,33,12,726,297,18094,5726,10389,1979,103
+"325","georgia","hall","metropolitan  ",236,3,29,46,158,2448,651,1526,271,17
+"326","georgia","haralson","metropolitan  ",75,1,4,1,69,397,112,251,34,NA
+"327","georgia","heard","metropolitan  ",11,0,1,0,10,162,44,91,27,NA
+"328","georgia","henry county police department","metropolitan  ",309,3,13,130,163,4351,1035,2865,451,6
+"329","georgia","jasper","metropolitan  ",12,0,0,0,12,268,101,153,14,NA
+"330","georgia","jones","metropolitan  ",31,1,2,5,23,561,172,341,48,0
+"331","georgia","lamar","metropolitan  ",34,1,1,2,30,226,68,136,22,NA
+"332","georgia","lanier","metropolitan  ",13,0,1,0,12,166,66,89,11,NA
+"333","georgia","liberty","metropolitan  ",89,2,2,16,69,648,242,377,29,NA
+"334","georgia","long","metropolitan  ",26,2,9,2,13,260,119,118,23,NA
+"335","georgia","lowndes","metropolitan  ",111,1,10,26,74,1154,306,794,54,NA
+"336","georgia","madison","metropolitan  ",88,0,1,5,82,591,82,467,42,6
+"337","georgia","marion","metropolitan  ",7,0,1,0,6,28,6,18,4,0
+"338","georgia","mcduffie","metropolitan  ",41,4,0,13,24,350,93,222,35,0
+"339","georgia","murray","metropolitan  ",45,0,4,4,37,678,141,477,60,NA
+"340","georgia","newton","metropolitan  ",346,8,8,38,292,1985,770,992,223,NA
+"341","georgia","oglethorpe","metropolitan  ",48,1,3,1,43,447,143,274,30,0
+"342","georgia","paulding","metropolitan  ",189,0,16,25,148,2557,608,1692,257,19
+"343","georgia","rockdale","metropolitan  ",329,4,24,69,232,2548,556,1718,274,13
+"344","georgia","spalding","metropolitan  ",127,2,11,16,98,1645,477,1048,120,0
+"345","georgia","terrell","metropolitan  ",18,1,1,0,16,139,58,70,11,NA
+"346","georgia","twiggs","metropolitan  ",23,1,0,0,22,201,44,133,24,NA
+"347","georgia","walker","metropolitan  ",287,1,7,9,270,1120,346,697,77,NA
+"348","georgia","walton","metropolitan  ",110,3,9,17,81,1019,290,596,133,NA
+"349","georgia","whitfield","metropolitan  ",252,1,11,14,226,1737,417,1246,74,NA
+"350","georgia","baldwin5","nonmetropolitan  ",NA,0,5,15,NA,894,305,552,37,NA
+"351","georgia","banks","nonmetropolitan  ",129,0,3,8,118,707,130,539,38,NA
+"352","georgia","ben hill","nonmetropolitan  ",16,0,3,1,12,319,68,234,17,NA
+"353","georgia","bleckley","nonmetropolitan  ",14,2,0,1,11,99,24,68,7,0
+"354","georgia","bulloch","nonmetropolitan  ",42,0,5,10,27,783,238,481,64,NA
+"355","georgia","calhoun","nonmetropolitan  ",4,0,0,0,4,66,26,34,6,0
+"356","georgia","camden5","nonmetropolitan  ",NA,4,1,6,NA,495,166,308,21,NA
+"357","georgia","charlton","nonmetropolitan  ",7,0,1,0,6,100,28,66,6,NA
+"358","georgia","chattooga","nonmetropolitan  ",46,0,1,3,42,309,99,201,9,NA
+"359","georgia","decatur","nonmetropolitan  ",41,2,1,4,34,310,97,197,16,NA
+"360","georgia","dodge","nonmetropolitan  ",9,0,0,1,8,40,13,23,4,NA
+"361","georgia","early","nonmetropolitan  ",33,1,4,3,25,207,56,141,10,NA
+"362","georgia","evans","nonmetropolitan  ",4,0,1,1,2,167,61,80,26,NA
+"363","georgia","franklin","nonmetropolitan  ",27,0,3,3,21,405,142,205,58,NA
+"364","georgia","gordon","nonmetropolitan  ",46,0,8,5,33,649,176,440,33,NA
+"365","georgia","grady","nonmetropolitan  ",12,1,1,2,8,184,63,110,11,NA
+"366","georgia","habersham","nonmetropolitan  ",54,0,10,0,44,512,167,329,16,0
+"367","georgia","hart","nonmetropolitan  ",77,2,2,1,72,447,154,270,23,NA
+"368","georgia","irwin","nonmetropolitan  ",7,0,2,0,5,128,46,67,15,4
+"369","georgia","jackson","nonmetropolitan  ",46,0,3,4,39,1132,289,787,56,NA
+"370","georgia","jeff davis","nonmetropolitan  ",43,1,3,1,38,378,53,288,37,NA
+"371","georgia","jefferson","nonmetropolitan  ",22,0,1,2,19,188,83,81,24,NA
+"372","georgia","laurens","nonmetropolitan  ",49,1,9,3,36,598,169,364,65,NA
+"373","georgia","lincoln4","nonmetropolitan  ",5,0,0,0,5,NA,42,NA,7,NA
+"374","georgia","lumpkin","nonmetropolitan  ",49,0,10,1,38,405,99,285,21,NA
+"375","georgia","miller","nonmetropolitan  ",6,0,0,1,5,59,13,42,4,NA
+"376","georgia","mitchell","nonmetropolitan  ",41,1,0,2,38,105,30,70,5,0
+"377","georgia","polk county police department","nonmetropolitan  ",67,0,6,11,50,719,253,360,106,11
+"378","georgia","pulaski","nonmetropolitan  ",2,0,0,0,2,88,31,54,3,NA
+"379","georgia","putnam","nonmetropolitan  ",61,1,0,1,59,330,123,193,14,NA
+"380","georgia","rabun","nonmetropolitan  ",11,0,1,2,8,200,45,148,7,0
+"381","georgia","screven","nonmetropolitan  ",23,0,0,4,19,130,43,79,8,NA
+"382","georgia","seminole","nonmetropolitan  ",16,0,2,1,13,90,28,56,6,NA
+"383","georgia","stephens","nonmetropolitan  ",27,0,2,4,21,660,97,538,25,NA
+"384","georgia","taliaferro","nonmetropolitan  ",2,0,0,0,2,65,37,26,2,NA
+"385","georgia","taylor","nonmetropolitan  ",2,1,0,1,0,74,14,55,5,0
+"386","georgia","thomas4","nonmetropolitan  ",62,1,4,7,50,NA,NA,355,25,4
+"387","georgia","tift","nonmetropolitan  ",103,2,7,18,76,963,265,616,82,NA
+"388","georgia","toombs","nonmetropolitan  ",28,0,1,5,22,261,91,139,31,NA
+"389","georgia","towns","nonmetropolitan  ",11,0,0,0,11,170,52,109,9,NA
+"390","georgia","treutlen","nonmetropolitan  ",22,0,0,0,22,133,27,103,3,NA
+"391","georgia","turner","nonmetropolitan  ",9,0,2,1,6,101,21,72,8,1
+"392","georgia","upson","nonmetropolitan  ",55,0,2,4,49,409,117,278,14,NA
+"393","georgia","ware","nonmetropolitan  ",55,2,10,6,37,743,176,519,48,0
+"394","georgia","washington","nonmetropolitan  ",37,1,1,4,31,280,90,183,7,NA
+"395","georgia","wheeler","nonmetropolitan  ",1,0,0,0,1,68,22,38,8,NA
+"396","georgia","white","nonmetropolitan  ",19,2,1,2,14,296,111,156,29,NA
+"397","georgia","wilcox","nonmetropolitan  ",4,0,0,0,4,47,30,14,3,NA
+"398","georgia","wilkes","nonmetropolitan  ",1,0,0,0,1,13,5,5,3,0
+"399","hawaii","hawaii police department","nonmetropolitan  ",441,4,78,73,286,5494,1208,3796,490,67
+"400","hawaii","kauai police department","nonmetropolitan  ",208,2,52,20,134,2584,710,1718,156,10
+"401","idaho","ada","metropolitan  ",164,2,17,12,133,1068,326,693,49,8
+"402","idaho","bannock","metropolitan  ",11,0,1,1,9,127,23,100,4,2
+"403","idaho","boise","metropolitan  ",11,0,0,0,11,136,52,80,4,1
+"404","idaho","bonneville","metropolitan  ",100,1,16,3,80,858,199,605,54,5
+"405","idaho","canyon","metropolitan  ",75,1,10,3,61,675,214,392,69,9
+"406","idaho","franklin","metropolitan  ",4,0,2,0,2,43,5,35,3,2
+"407","idaho","gem","metropolitan  ",6,0,5,0,1,30,11,17,2,0
+"408","idaho","jefferson","metropolitan  ",18,0,3,0,15,204,56,135,13,0
+"409","idaho","kootenai","metropolitan  ",122,2,18,7,95,945,297,582,66,9
+"410","idaho","nez perce","metropolitan  ",5,1,1,0,3,66,17,49,0,1
+"411","idaho","owyhee","metropolitan  ",20,0,13,0,7,157,38,109,10,1
+"412","idaho","power","metropolitan  ",1,0,0,0,1,33,3,28,2,0
+"413","idaho","adams","nonmetropolitan  ",7,0,0,0,7,52,10,40,2,1
+"414","idaho","bear lake","nonmetropolitan  ",2,0,1,0,1,38,10,26,2,0
+"415","idaho","benewah","nonmetropolitan  ",17,1,1,1,14,22,7,12,3,0
+"416","idaho","bingham","nonmetropolitan  ",17,2,1,1,13,241,57,170,14,0
+"417","idaho","blaine","nonmetropolitan  ",4,0,0,0,4,48,30,16,2,0
+"418","idaho","bonner","nonmetropolitan  ",33,1,3,0,29,388,85,266,37,3
+"419","idaho","boundary","nonmetropolitan  ",6,0,1,0,5,71,25,42,4,2
+"420","idaho","butte","nonmetropolitan  ",19,0,0,3,16,9,7,1,1,0
+"421","idaho","camas","nonmetropolitan  ",1,0,0,0,1,24,8,15,1,0
+"422","idaho","caribou","nonmetropolitan  ",1,0,1,0,0,20,6,14,0,0
+"423","idaho","clark","nonmetropolitan  ",0,0,0,0,0,16,5,11,0,0
+"424","idaho","clearwater","nonmetropolitan  ",13,0,0,0,13,114,17,94,3,0
+"425","idaho","custer","nonmetropolitan  ",5,0,1,0,4,49,6,43,0,0
+"426","idaho","elmore","nonmetropolitan  ",11,0,2,0,9,77,14,58,5,0
+"427","idaho","fremont","nonmetropolitan  ",4,0,1,0,3,100,20,79,1,0
+"428","idaho","gooding","nonmetropolitan  ",13,0,5,0,8,40,13,18,9,0
+"429","idaho","idaho","nonmetropolitan  ",9,0,1,0,8,88,17,58,13,0
+"430","idaho","jerome","nonmetropolitan  ",8,1,2,0,5,120,36,74,10,1
+"431","idaho","latah","nonmetropolitan  ",21,0,2,0,19,151,65,73,13,2
+"432","idaho","lemhi","nonmetropolitan  ",2,0,0,0,2,9,4,4,1,0
+"433","idaho","lewis","nonmetropolitan  ",4,0,1,0,3,28,14,11,3,1
+"434","idaho","lincoln","nonmetropolitan  ",2,0,0,0,2,5,1,3,1,0
+"435","idaho","madison","nonmetropolitan  ",20,0,7,0,13,79,17,61,1,1
+"436","idaho","minidoka","nonmetropolitan  ",19,1,5,0,13,178,37,123,18,2
+"437","idaho","oneida","nonmetropolitan  ",7,0,0,0,7,40,8,29,3,0
+"438","idaho","payette","nonmetropolitan  ",4,0,2,0,2,62,18,35,9,0
+"439","idaho","teton","nonmetropolitan  ",10,0,0,1,9,25,7,16,2,0
+"440","idaho","twin falls","nonmetropolitan  ",41,0,4,0,37,280,109,132,39,3
+"441","idaho","valley","nonmetropolitan  ",9,0,5,0,4,88,31,50,7,2
+"442","idaho","washington","nonmetropolitan  ",3,0,0,0,3,26,10,12,4,0
+"443","indiana","allen","metropolitan  ",56,0,18,13,25,1110,219,815,76,4
+"444","indiana","bartholomew","metropolitan  ",22,1,0,1,20,394,40,333,21,0
+"445","indiana","boone","metropolitan  ",3,1,0,2,0,282,66,190,26,3
+"446","indiana","brown","metropolitan  ",3,1,0,0,2,95,26,66,3,1
+"447","indiana","carroll","metropolitan  ",7,0,0,1,6,193,55,122,16,2
+"448","indiana","clark","metropolitan  ",33,0,6,7,20,654,244,356,54,5
+"449","indiana","delaware","metropolitan  ",27,1,4,4,18,521,125,341,55,0
+"450","indiana","elkhart","metropolitan  ",58,1,23,21,13,2123,656,1236,231,19
+"451","indiana","floyd","metropolitan  ",1,0,0,1,0,733,143,538,52,0
+"452","indiana","gibson","metropolitan  ",8,0,2,0,6,196,40,151,5,0
+"453","indiana","greene","metropolitan  ",5,0,1,1,3,143,38,89,16,0
+"454","indiana","hancock","metropolitan  ",7,0,2,2,3,317,124,177,16,0
+"455","indiana","harrison","metropolitan  ",10,0,2,3,5,461,114,308,39,2
+"456","indiana","howard","metropolitan  ",41,0,4,2,35,630,243,355,32,0
+"457","indiana","johnson","metropolitan  ",10,1,0,1,8,799,119,665,15,0
+"458","indiana","lake","metropolitan  ",22,1,5,9,7,1019,160,766,93,0
+"459","indiana","la porte","metropolitan  ",22,0,5,8,9,835,288,507,40,2
+"460","indiana","monroe","metropolitan  ",50,0,9,9,32,817,277,482,58,5
+"461","indiana","newton","metropolitan  ",5,0,1,0,4,190,75,101,14,1
+"462","indiana","porter","metropolitan  ",43,1,2,1,39,1074,211,823,40,0
+"463","indiana","putnam","metropolitan  ",22,0,4,3,15,243,92,115,36,0
+"464","indiana","shelby","metropolitan  ",36,0,4,4,28,362,108,232,22,0
+"465","indiana","st. joseph","metropolitan  ",107,1,9,21,76,1990,610,1280,100,15
+"466","indiana","tippecanoe","metropolitan  ",35,0,6,3,26,889,251,593,45,11
+"467","indiana","tipton","metropolitan  ",12,0,1,2,9,140,63,73,4,0
+"468","indiana","vanderburgh","metropolitan  ",66,3,4,9,50,1318,173,1100,45,8
+"469","indiana","warrick","metropolitan  ",134,0,8,0,126,707,134,551,22,2
+"470","indiana","wells","metropolitan  ",0,0,0,0,0,135,41,82,12,2
+"471","indiana","blackford","nonmetropolitan  ",0,0,0,0,0,58,14,40,4,0
+"472","indiana","daviess","nonmetropolitan  ",5,0,0,0,5,71,20,37,14,1
+"473","indiana","grant","nonmetropolitan  ",13,0,3,3,7,429,99,290,40,0
+"474","indiana","henry","nonmetropolitan  ",3,1,2,0,0,675,258,377,40,1
+"475","indiana","huntington","nonmetropolitan  ",7,0,2,2,3,138,35,94,9,0
+"476","indiana","jackson","nonmetropolitan  ",15,0,3,2,10,382,88,285,9,0
+"477","indiana","jennings","nonmetropolitan  ",52,0,7,2,43,148,126,14,8,1
+"478","indiana","knox","nonmetropolitan  ",3,0,0,0,3,23,14,6,3,0
+"479","indiana","lagrange","nonmetropolitan  ",2,0,0,1,1,244,63,169,12,0
+"480","indiana","lawrence","nonmetropolitan  ",8,0,1,1,6,297,103,166,28,4
+"481","indiana","martin","nonmetropolitan  ",1,0,1,0,0,64,10,36,18,2
+"482","indiana","noble","nonmetropolitan  ",9,0,2,0,7,158,72,70,16,1
+"483","indiana","parke","nonmetropolitan  ",11,0,1,10,0,190,49,135,6,4
+"484","indiana","pulaski","nonmetropolitan  ",11,1,0,2,8,214,46,154,14,4
+"485","indiana","randolph","nonmetropolitan  ",13,0,13,0,0,146,51,92,3,0
+"486","indiana","ripley","nonmetropolitan  ",2,0,0,0,2,187,39,138,10,0
+"487","indiana","starke","nonmetropolitan  ",18,0,1,3,14,462,152,265,45,4
+"488","indiana","steuben","nonmetropolitan  ",14,0,6,2,6,614,136,433,45,1
+"489","indiana","wabash","nonmetropolitan  ",0,0,0,0,0,178,56,122,0,2
+"490","indiana","wayne","nonmetropolitan  ",4,0,4,0,0,134,43,77,14,0
+"491","indiana","white","nonmetropolitan  ",0,0,0,0,0,21,21,0,0,0
+"492","iowa","benton","metropolitan  ",0,0,0,0,0,98,23,74,1,0
+"493","iowa","black hawk","metropolitan  ",39,0,5,0,34,263,88,157,18,4
+"494","iowa","bremer","metropolitan  ",16,1,0,0,15,47,11,36,0,0
+"495","iowa","dallas","metropolitan  ",3,0,1,0,2,79,18,55,6,0
+"496","iowa","dubuque","metropolitan  ",60,0,4,0,56,251,82,146,23,4
+"497","iowa","grundy","metropolitan  ",1,0,0,0,1,69,14,47,8,0
+"498","iowa","guthrie","metropolitan  ",2,0,0,1,1,64,31,30,3,0
+"499","iowa","harrison","metropolitan  ",7,0,2,0,5,119,31,77,11,1
+"500","iowa","johnson","metropolitan  ",58,1,4,0,53,231,105,106,20,4
+"501","iowa","jones","metropolitan  ",2,0,2,0,0,52,15,30,7,0
+"502","iowa","linn","metropolitan  ",18,1,5,0,12,286,122,133,31,13
+"503","iowa","madison","metropolitan  ",2,0,1,0,1,21,9,10,2,0
+"504","iowa","mills","metropolitan  ",24,0,4,1,19,192,56,113,23,5
+"505","iowa","polk","metropolitan  ",91,1,10,7,73,741,175,495,71,3
+"506","iowa","pottawattamie","metropolitan  ",45,1,10,1,33,513,127,319,67,1
+"507","iowa","scott","metropolitan  ",11,1,1,1,8,214,43,154,17,1
+"508","iowa","story","metropolitan  ",11,0,3,0,8,188,82,90,16,3
+"509","iowa","warren","metropolitan  ",22,0,7,0,15,243,64,165,14,2
+"510","iowa","washington","metropolitan  ",23,0,5,0,18,123,73,41,9,0
+"511","iowa","woodbury","metropolitan  ",17,1,2,0,14,107,56,48,3,1
+"512","iowa","adair","nonmetropolitan  ",6,0,1,0,5,46,9,35,2,1
+"513","iowa","adams","nonmetropolitan  ",3,0,1,0,2,57,14,39,4,0
+"514","iowa","allamakee","nonmetropolitan  ",2,0,0,0,2,25,2,22,1,0
+"515","iowa","appanoose","nonmetropolitan  ",12,1,0,0,11,63,26,33,4,6
+"516","iowa","audubon","nonmetropolitan  ",6,0,0,0,6,15,0,12,3,0
+"517","iowa","buchanan","nonmetropolitan  ",9,1,1,0,7,89,24,61,4,2
+"518","iowa","buena vista","nonmetropolitan  ",3,0,0,0,3,69,30,34,5,0
+"519","iowa","butler","nonmetropolitan  ",4,0,0,0,4,24,8,15,1,0
+"520","iowa","calhoun","nonmetropolitan  ",6,0,0,0,6,123,37,80,6,0
+"521","iowa","carroll","nonmetropolitan  ",3,0,0,0,3,36,3,31,2,0
+"522","iowa","cass","nonmetropolitan  ",8,0,1,1,6,110,39,66,5,0
+"523","iowa","cedar","nonmetropolitan  ",16,0,0,0,16,88,19,65,4,2
+"524","iowa","cerro gordo","nonmetropolitan  ",8,0,0,0,8,107,36,65,6,0
+"525","iowa","cherokee","nonmetropolitan  ",1,0,0,0,1,37,11,26,0,0
+"526","iowa","clarke","nonmetropolitan  ",10,0,0,0,10,71,19,47,5,2
+"527","iowa","clay","nonmetropolitan  ",2,0,0,0,2,50,31,17,2,1
+"528","iowa","clayton","nonmetropolitan  ",13,0,3,0,10,45,20,21,4,1
+"529","iowa","clinton","nonmetropolitan  ",45,1,3,0,41,150,49,79,22,2
+"530","iowa","davis","nonmetropolitan  ",9,0,1,0,8,9,5,4,0,0
+"531","iowa","des moines","nonmetropolitan  ",27,0,1,1,25,184,43,122,19,2
+"532","iowa","emmet","nonmetropolitan  ",1,0,0,0,1,38,21,15,2,0
+"533","iowa","fayette","nonmetropolitan  ",15,0,2,1,12,30,9,16,5,0
+"534","iowa","floyd","nonmetropolitan  ",1,0,1,0,0,21,12,9,0,0
+"535","iowa","hamilton","nonmetropolitan  ",12,1,0,0,11,88,44,39,5,1
+"536","iowa","hancock","nonmetropolitan  ",3,0,0,0,3,76,17,57,2,0
+"537","iowa","hardin","nonmetropolitan  ",8,0,3,0,5,92,39,44,9,1
+"538","iowa","henry","nonmetropolitan  ",29,0,3,1,25,126,46,71,9,1
+"539","iowa","howard","nonmetropolitan  ",2,0,0,0,2,66,17,46,3,1
+"540","iowa","humboldt","nonmetropolitan  ",2,1,0,0,1,32,9,20,3,0
+"541","iowa","ida","nonmetropolitan  ",9,0,2,0,7,63,10,52,1,0
+"542","iowa","iowa","nonmetropolitan  ",8,0,0,0,8,105,26,72,7,1
+"543","iowa","jasper","nonmetropolitan  ",16,0,1,1,14,131,40,79,12,3
+"544","iowa","jefferson","nonmetropolitan  ",5,0,0,0,5,79,29,43,7,0
+"545","iowa","keokuk","nonmetropolitan  ",0,0,0,0,0,14,0,13,1,0
+"546","iowa","lee","nonmetropolitan  ",27,0,6,0,21,119,31,76,12,1
+"547","iowa","louisa","nonmetropolitan  ",5,1,4,0,0,33,0,28,5,2
+"548","iowa","lyon","nonmetropolitan  ",13,0,3,0,10,87,28,49,10,1
+"549","iowa","mahaska","nonmetropolitan  ",22,0,0,0,22,82,34,41,7,2
+"550","iowa","marion","nonmetropolitan  ",31,1,10,0,20,73,25,41,7,0
+"551","iowa","marshall","nonmetropolitan  ",31,2,4,0,25,93,43,42,8,1
+"552","iowa","mitchell","nonmetropolitan  ",1,0,0,0,1,8,3,3,2,0
+"553","iowa","monona","nonmetropolitan  ",0,0,0,0,0,2,0,1,1,0
+"554","iowa","monroe","nonmetropolitan  ",5,0,0,0,5,27,7,17,3,1
+"555","iowa","muscatine","nonmetropolitan  ",20,1,2,3,14,128,51,69,8,4
+"556","iowa","o'brien","nonmetropolitan  ",4,0,0,0,4,51,21,25,5,2
+"557","iowa","osceola","nonmetropolitan  ",2,0,0,0,2,11,3,8,0,0
+"558","iowa","plymouth","nonmetropolitan  ",7,0,2,0,5,45,13,26,6,0
+"559","iowa","pocahontas","nonmetropolitan  ",1,0,1,0,0,34,18,15,1,0
+"560","iowa","poweshiek","nonmetropolitan  ",9,0,3,0,6,131,45,71,15,1
+"561","iowa","sac","nonmetropolitan  ",2,0,0,0,2,44,25,17,2,0
+"562","iowa","sioux","nonmetropolitan  ",6,0,1,0,5,79,30,43,6,1
+"563","iowa","tama","nonmetropolitan  ",28,0,2,1,25,135,65,59,11,1
+"564","iowa","taylor","nonmetropolitan  ",0,0,0,0,0,46,15,29,2,0
+"565","iowa","union","nonmetropolitan  ",1,0,0,0,1,32,9,19,4,1
+"566","iowa","van buren","nonmetropolitan  ",7,0,0,1,6,98,44,52,2,0
+"567","iowa","wapello","nonmetropolitan  ",8,0,1,0,7,124,44,66,14,0
+"568","iowa","wayne","nonmetropolitan  ",9,0,1,0,8,51,20,26,5,1
+"569","iowa","webster","nonmetropolitan  ",24,0,0,1,23,238,53,151,34,3
+"570","iowa","winneshiek","nonmetropolitan  ",1,0,0,0,1,32,9,23,0,0
+"571","iowa","worth","nonmetropolitan  ",0,0,0,0,0,114,23,81,10,1
+"572","iowa","wright","nonmetropolitan  ",1,0,0,0,1,47,24,20,3,0
+"573","kansas","butler","metropolitan  ",42,1,6,1,34,524,201,278,45,2
+"574","kansas","doniphan","metropolitan  ",4,0,2,0,2,99,33,59,7,3
+"575","kansas","douglas","metropolitan  ",16,0,4,0,12,260,64,183,13,4
+"576","kansas","franklin","metropolitan  ",32,0,7,0,25,187,74,100,13,3
+"577","kansas","geary","metropolitan  ",8,0,2,0,6,43,9,33,1,2
+"578","kansas","harvey","metropolitan  ",23,0,2,0,21,94,16,73,5,2
+"579","kansas","jackson","metropolitan  ",30,0,2,0,28,173,62,99,12,1
+"580","kansas","jefferson","metropolitan  ",12,0,1,0,11,347,102,222,23,5
+"581","kansas","leavenworth","metropolitan  ",74,0,4,1,69,345,133,180,32,14
+"582","kansas","linn","metropolitan  ",19,1,4,0,14,85,26,42,17,1
+"583","kansas","miami","metropolitan  ",19,0,3,0,16,178,59,100,19,13
+"584","kansas","osage","metropolitan  ",9,0,2,0,7,77,39,32,6,5
+"585","kansas","pottawattamie","metropolitan  ",26,1,3,2,20,227,69,143,15,2
+"586","kansas","riley county police department","metropolitan  ",225,3,42,30,150,1765,336,1358,71,13
+"587","kansas","shawnee","metropolitan  ",131,0,11,7,113,1563,382,1103,78,12
+"588","kansas","sumner","metropolitan  ",16,0,1,0,15,144,50,84,10,0
+"589","kansas","wabaunsee","metropolitan  ",13,0,1,0,12,93,35,49,9,0
+"590","kansas","wyandotte","metropolitan  ",6,0,0,1,5,6,0,4,2,0
+"591","kansas","allen","nonmetropolitan  ",19,0,3,0,16,107,23,72,12,3
+"592","kansas","anderson","nonmetropolitan  ",4,0,0,1,3,48,16,30,2,1
+"593","kansas","atchison","nonmetropolitan  ",5,0,0,0,5,54,20,29,5,5
+"594","kansas","barber","nonmetropolitan  ",4,0,2,0,2,13,0,10,3,0
+"595","kansas","barton2","nonmetropolitan  ",4,0,2,0,2,136,49,80,7,0
+"596","kansas","bourbon","nonmetropolitan  ",2,0,1,0,1,55,20,30,5,1
+"597","kansas","brown","nonmetropolitan  ",24,0,1,0,23,53,17,32,4,0
+"598","kansas","chautauqua","nonmetropolitan  ",11,0,1,0,10,45,16,28,1,0
+"599","kansas","cherokee","nonmetropolitan  ",18,0,2,2,14,195,51,113,31,5
+"600","kansas","cheyenne","nonmetropolitan  ",1,0,0,0,1,17,2,14,1,0
+"601","kansas","clark","nonmetropolitan  ",1,0,0,0,1,23,10,12,1,0
+"602","kansas","clay","nonmetropolitan  ",8,0,1,0,7,54,18,27,9,0
+"603","kansas","cloud","nonmetropolitan  ",2,0,0,0,2,29,13,16,0,0
+"604","kansas","coffey","nonmetropolitan  ",12,0,4,0,8,47,11,35,1,0
+"605","kansas","cowley","nonmetropolitan  ",35,0,1,0,34,246,98,137,11,2
+"606","kansas","crawford","nonmetropolitan  ",41,0,1,1,39,296,90,189,17,12
+"607","kansas","dickinson","nonmetropolitan  ",17,0,5,0,12,132,30,96,6,3
+"608","kansas","edwards","nonmetropolitan  ",2,0,0,0,2,23,9,14,0,0
+"609","kansas","elk","nonmetropolitan  ",2,0,1,0,1,28,7,21,0,0
+"610","kansas","ellis","nonmetropolitan  ",10,0,2,0,8,75,18,53,4,1
+"611","kansas","ellsworth","nonmetropolitan  ",7,1,0,0,6,58,20,35,3,0
+"612","kansas","finney","nonmetropolitan  ",46,0,8,3,35,258,65,178,15,2
+"613","kansas","ford","nonmetropolitan  ",16,0,0,1,15,55,17,29,9,0
+"614","kansas","graham","nonmetropolitan  ",4,0,0,0,4,30,11,17,2,1
+"615","kansas","grant","nonmetropolitan  ",8,2,0,0,6,23,9,14,0,0
+"616","kansas","gray","nonmetropolitan  ",2,0,1,0,1,24,4,18,2,1
+"617","kansas","greenwood","nonmetropolitan  ",25,0,1,2,22,212,58,149,5,1
+"618","kansas","harper","nonmetropolitan  ",1,0,0,0,1,18,7,9,2,0
+"619","kansas","hodgeman","nonmetropolitan  ",5,0,0,0,5,26,9,16,1,0
+"620","kansas","kearny","nonmetropolitan  ",13,0,1,0,12,91,16,72,3,1
+"621","kansas","kingman","nonmetropolitan  ",3,0,1,0,2,55,21,28,6,2
+"622","kansas","kiowa","nonmetropolitan  ",5,0,2,0,3,36,12,21,3,0
+"623","kansas","labette","nonmetropolitan  ",15,0,1,0,14,118,44,68,6,8
+"624","kansas","lane","nonmetropolitan  ",3,0,1,0,2,22,8,12,2,0
+"625","kansas","lincoln","nonmetropolitan  ",5,0,0,0,5,45,12,31,2,1
+"626","kansas","lyon","nonmetropolitan  ",15,0,3,0,12,104,16,81,7,5
+"627","kansas","mcpherson","nonmetropolitan  ",9,0,2,1,6,99,33,63,3,2
+"628","kansas","mitchell","nonmetropolitan  ",4,0,1,0,3,60,28,27,5,2
+"629","kansas","morris","nonmetropolitan  ",2,0,1,0,1,39,16,23,0,0
+"630","kansas","morton","nonmetropolitan  ",10,0,0,0,10,39,13,23,3,0
+"631","kansas","nemaha","nonmetropolitan  ",9,0,2,0,7,52,13,38,1,0
+"632","kansas","neosho","nonmetropolitan  ",13,0,1,1,11,99,40,50,9,8
+"633","kansas","osborne","nonmetropolitan  ",4,1,0,0,3,56,25,29,2,1
+"634","kansas","ottawa","nonmetropolitan  ",9,0,1,0,8,72,29,40,3,1
+"635","kansas","pawnee","nonmetropolitan  ",15,0,2,0,13,36,14,21,1,1
+"636","kansas","phillips","nonmetropolitan  ",6,0,0,0,6,13,2,9,2,0
+"637","kansas","pratt","nonmetropolitan  ",5,0,1,0,4,50,16,30,4,3
+"638","kansas","rawlins","nonmetropolitan  ",3,0,1,0,2,17,2,14,1,0
+"639","kansas","reno","nonmetropolitan  ",39,0,4,2,33,297,111,174,12,13
+"640","kansas","republic","nonmetropolitan  ",2,0,0,0,2,55,18,33,4,1
+"641","kansas","rice","nonmetropolitan  ",9,0,1,0,8,46,16,27,3,1
+"642","kansas","rooks","nonmetropolitan  ",2,0,0,0,2,7,3,4,0,0
+"643","kansas","rush","nonmetropolitan  ",2,0,0,0,2,25,13,8,4,0
+"644","kansas","russell","nonmetropolitan  ",6,0,0,0,6,38,15,21,2,1
+"645","kansas","saline","nonmetropolitan  ",22,1,6,0,15,156,51,97,8,7
+"646","kansas","scott","nonmetropolitan  ",0,0,0,0,0,23,2,17,4,2
+"647","kansas","seward","nonmetropolitan  ",9,0,1,0,8,49,9,35,5,1
+"648","kansas","sherman","nonmetropolitan  ",9,0,0,0,9,23,6,16,1,0
+"649","kansas","smith","nonmetropolitan  ",1,0,0,0,1,24,14,8,2,0
+"650","kansas","stafford","nonmetropolitan  ",4,0,0,0,4,44,11,29,4,0
+"651","kansas","stanton","nonmetropolitan  ",1,0,0,1,0,24,4,18,2,0
+"652","kansas","thomas","nonmetropolitan  ",11,0,4,2,5,32,2,28,2,0
+"653","kansas","washington","nonmetropolitan  ",6,0,0,0,6,11,4,6,1,0
+"654","kansas","wichita","nonmetropolitan  ",10,0,0,0,10,20,2,16,2,0
+"655","kansas","wilson","nonmetropolitan  ",6,0,1,0,5,67,39,26,2,3
+"656","kansas","woodson","nonmetropolitan  ",10,0,5,0,5,39,9,29,1,1
+"657","kentucky","bourbon","metropolitan  ",2,0,0,0,2,80,25,48,7,NA
+"658","kentucky","boyd","metropolitan  ",32,0,0,15,17,316,83,207,26,NA
+"659","kentucky","bracken","metropolitan  ",5,0,1,1,3,71,29,38,4,NA
+"660","kentucky","bullitt","metropolitan  ",35,1,11,4,19,560,243,284,33,NA
+"661","kentucky","christian","metropolitan  ",24,1,4,7,12,422,173,215,34,NA
+"662","kentucky","clark","metropolitan  ",15,1,4,5,5,322,126,179,17,NA
+"663","kentucky","daviess","metropolitan  ",31,0,4,2,25,578,147,404,27,3
+"664","kentucky","edmonson","metropolitan  ",3,0,0,0,3,48,15,30,3,NA
+"665","kentucky","gallatin","metropolitan  ",1,0,1,0,0,33,10,22,1,NA
+"666","kentucky","grant","metropolitan  ",1,0,1,0,0,92,34,54,4,NA
+"667","kentucky","greenup","metropolitan  ",16,0,1,5,10,64,38,19,7,NA
+"668","kentucky","hancock","metropolitan  ",1,0,0,0,1,15,7,7,1,NA
+"669","kentucky","hardin","metropolitan  ",5,0,3,0,2,127,55,65,7,NA
+"670","kentucky","jefferson","metropolitan  ",0,0,0,0,0,12,2,9,1,NA
+"671","kentucky","jessamine","metropolitan  ",10,0,2,6,2,202,69,107,26,NA
+"672","kentucky","kenton","metropolitan  ",1,0,0,0,1,6,1,5,0,NA
+"673","kentucky","larue","metropolitan  ",12,0,3,0,9,51,17,33,1,NA
+"674","kentucky","mclean","metropolitan  ",4,0,0,0,4,16,5,8,3,NA
+"675","kentucky","meade","metropolitan  ",6,0,1,2,3,183,79,82,22,NA
+"676","kentucky","nelson","metropolitan  ",21,0,3,3,15,277,95,169,13,NA
+"677","kentucky","oldham","metropolitan  ",0,0,0,0,0,1,0,1,0,NA
+"678","kentucky","oldham county police department","metropolitan  ",26,0,12,8,6,472,117,339,16,NA
+"679","kentucky","pendleton","metropolitan  ",1,0,0,0,1,87,20,56,11,NA
+"680","kentucky","scott","metropolitan  ",17,0,2,3,12,411,134,251,26,NA
+"681","kentucky","shelby","metropolitan  ",33,0,4,7,22,399,101,276,22,NA
+"682","kentucky","spencer","metropolitan  ",3,0,1,1,1,41,24,12,5,NA
+"683","kentucky","trigg","metropolitan  ",2,0,0,0,2,92,44,37,11,NA
+"684","kentucky","trimble","metropolitan  ",0,0,0,0,0,16,1,9,6,NA
+"685","kentucky","warren","metropolitan  ",14,0,1,3,10,486,138,319,29,NA
+"686","kentucky","adair","nonmetropolitan  ",1,0,0,0,1,12,6,4,2,NA
+"687","kentucky","allen","nonmetropolitan  ",11,1,1,1,8,91,33,49,9,NA
+"688","kentucky","anderson","nonmetropolitan  ",5,0,0,2,3,57,16,37,4,NA
+"689","kentucky","ballard","nonmetropolitan  ",8,0,3,0,5,104,34,67,3,NA
+"690","kentucky","barren","nonmetropolitan  ",11,1,5,2,3,232,90,126,16,NA
+"691","kentucky","bell","nonmetropolitan  ",5,0,0,1,4,58,15,38,5,NA
+"692","kentucky","boyle","nonmetropolitan  ",5,0,1,1,3,127,38,75,14,NA
+"693","kentucky","breckinridge","nonmetropolitan  ",2,0,0,0,2,35,13,16,6,NA
+"694","kentucky","butler","nonmetropolitan  ",2,0,0,0,2,40,18,16,6,NA
+"695","kentucky","caldwell","nonmetropolitan  ",5,0,0,0,5,58,30,23,5,NA
+"696","kentucky","calloway","nonmetropolitan  ",14,1,3,1,9,448,163,250,35,NA
+"697","kentucky","carroll","nonmetropolitan  ",0,0,0,0,0,3,0,3,0,NA
+"698","kentucky","carter","nonmetropolitan  ",2,0,0,1,1,175,69,91,15,NA
+"699","kentucky","casey","nonmetropolitan  ",4,0,0,0,4,116,40,67,9,NA
+"700","kentucky","clay","nonmetropolitan  ",6,0,1,0,5,116,42,49,25,NA
+"701","kentucky","clinton","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,NA
+"702","kentucky","crittenden","nonmetropolitan  ",0,0,0,0,0,17,4,12,1,NA
+"703","kentucky","cumberland","nonmetropolitan  ",0,0,0,0,0,4,1,1,2,NA
+"704","kentucky","estill","nonmetropolitan  ",2,0,0,2,0,242,69,154,19,NA
+"705","kentucky","fleming","nonmetropolitan  ",9,0,2,0,7,46,15,18,13,NA
+"706","kentucky","floyd","nonmetropolitan  ",1,0,0,0,1,151,39,96,16,NA
+"707","kentucky","franklin","nonmetropolitan  ",20,0,3,11,6,110,57,45,8,NA
+"708","kentucky","fulton","nonmetropolitan  ",1,0,1,0,0,54,15,33,6,NA
+"709","kentucky","garrard","nonmetropolitan  ",0,0,0,0,0,133,43,86,4,NA
+"710","kentucky","graves","nonmetropolitan  ",13,2,2,1,8,143,63,71,9,NA
+"711","kentucky","grayson","nonmetropolitan  ",11,0,3,0,8,159,63,85,11,NA
+"712","kentucky","harlan","nonmetropolitan  ",14,0,1,0,13,57,23,34,0,NA
+"713","kentucky","harrison","nonmetropolitan  ",8,0,0,3,5,210,84,116,10,NA
+"714","kentucky","hart","nonmetropolitan  ",2,0,1,0,1,25,18,6,1,NA
+"715","kentucky","hopkins","nonmetropolitan  ",10,0,1,0,9,247,84,140,23,NA
+"716","kentucky","jackson","nonmetropolitan  ",3,0,1,0,2,65,21,38,6,NA
+"717","kentucky","johnson","nonmetropolitan  ",1,0,0,0,1,40,5,29,6,NA
+"718","kentucky","knott","nonmetropolitan  ",0,0,0,0,0,77,13,57,7,NA
+"719","kentucky","knox","nonmetropolitan  ",12,0,3,0,9,324,112,181,31,NA
+"720","kentucky","laurel","nonmetropolitan  ",19,0,3,3,13,430,131,240,59,NA
+"721","kentucky","lawrence","nonmetropolitan  ",3,0,0,0,3,21,11,10,0,NA
+"722","kentucky","letcher","nonmetropolitan  ",2,0,0,0,2,100,38,57,5,NA
+"723","kentucky","lewis","nonmetropolitan  ",10,0,2,5,3,67,30,31,6,NA
+"724","kentucky","lincoln","nonmetropolitan  ",4,0,0,2,2,114,58,41,15,NA
+"725","kentucky","livingston","nonmetropolitan  ",5,0,0,1,4,117,53,58,6,NA
+"726","kentucky","logan","nonmetropolitan  ",20,0,2,9,9,212,89,111,12,NA
+"727","kentucky","lyon","nonmetropolitan  ",3,0,0,0,3,34,12,19,3,NA
+"728","kentucky","madison","nonmetropolitan  ",9,1,0,0,8,342,124,199,19,NA
+"729","kentucky","magoffin","nonmetropolitan  ",2,0,0,0,2,26,8,13,5,NA
+"730","kentucky","marion","nonmetropolitan  ",0,0,0,0,0,114,31,76,7,NA
+"731","kentucky","martin","nonmetropolitan  ",2,0,1,0,1,91,33,45,13,NA
+"732","kentucky","mason","nonmetropolitan  ",14,0,1,5,8,189,75,111,3,NA
+"733","kentucky","mccracken","nonmetropolitan  ",44,0,14,10,20,601,188,360,53,NA
+"734","kentucky","mccreary","nonmetropolitan  ",6,0,0,1,5,200,71,108,21,NA
+"735","kentucky","mercer","nonmetropolitan  ",0,0,0,0,0,53,22,24,7,NA
+"736","kentucky","metcalfe","nonmetropolitan  ",3,0,0,0,3,48,15,25,8,NA
+"737","kentucky","montgomery","nonmetropolitan  ",10,0,0,2,8,456,164,269,23,NA
+"738","kentucky","muhlenberg","nonmetropolitan  ",1,0,0,0,1,38,20,13,5,NA
+"739","kentucky","nicholas","nonmetropolitan  ",0,0,0,0,0,11,4,6,1,NA
+"740","kentucky","ohio","nonmetropolitan  ",13,1,2,0,10,125,52,66,7,NA
+"741","kentucky","owen","nonmetropolitan  ",2,0,0,0,2,54,28,23,3,NA
+"742","kentucky","owsley","nonmetropolitan  ",0,0,0,0,0,21,12,8,1,NA
+"743","kentucky","perry","nonmetropolitan  ",2,0,0,0,2,26,10,12,4,NA
+"744","kentucky","pike","nonmetropolitan  ",11,0,0,1,10,50,11,35,4,NA
+"745","kentucky","pulaski","nonmetropolitan  ",44,1,5,6,32,1047,364,654,29,NA
+"746","kentucky","rockcastle","nonmetropolitan  ",7,0,1,2,4,47,23,12,12,NA
+"747","kentucky","rowan","nonmetropolitan  ",3,0,0,1,2,34,7,27,0,NA
+"748","kentucky","russell","nonmetropolitan  ",5,0,0,0,5,64,16,43,5,NA
+"749","kentucky","simpson","nonmetropolitan  ",11,0,0,9,2,144,46,84,14,NA
+"750","kentucky","taylor","nonmetropolitan  ",14,1,5,1,7,153,57,87,9,NA
+"751","kentucky","todd","nonmetropolitan  ",1,0,0,0,1,22,5,14,3,NA
+"752","kentucky","union","nonmetropolitan  ",2,0,0,0,2,59,11,48,0,NA
+"753","kentucky","washington","nonmetropolitan  ",2,0,0,0,2,49,25,20,4,NA
+"754","kentucky","wayne","nonmetropolitan  ",6,0,2,2,2,80,53,23,4,NA
+"755","kentucky","whitley","nonmetropolitan  ",2,0,0,0,2,108,47,44,17,NA
+"756","louisiana","ascension","metropolitan  ",370,3,17,33,317,2660,550,1928,182,14
+"757","louisiana","bossier","metropolitan  ",277,3,2,2,270,495,68,388,39,1
+"758","louisiana","caddo","metropolitan  ",158,0,13,14,131,959,223,635,101,12
+"759","louisiana","cameron","metropolitan  ",49,1,1,0,47,163,28,113,22,0
+"760","louisiana","east baton rouge","metropolitan  ",766,18,26,232,490,8066,2238,5390,438,37
+"761","louisiana","grant","metropolitan  ",17,0,2,0,15,272,105,139,28,2
+"762","louisiana","jefferson","metropolitan  ",2243,36,70,593,1544,15047,3675,9832,1540,136
+"763","louisiana","lafayette","metropolitan  ",363,1,21,62,279,1465,382,884,199,14
+"764","louisiana","lafourche","metropolitan  ",166,4,8,15,139,1400,146,1168,86,0
+"765","louisiana","livingston","metropolitan  ",175,5,14,15,141,2547,785,1524,238,0
+"766","louisiana","ouachita","metropolitan  ",178,0,4,33,141,3008,944,1906,158,6
+"767","louisiana","plaquemines","metropolitan  ",54,0,1,1,52,388,44,325,19,3
+"768","louisiana","pointe coupee4","metropolitan  ",56,3,2,2,49,NA,84,203,NA,4
+"769","louisiana","rapides","metropolitan  ",324,5,33,6,280,1528,346,993,189,3
+"770","louisiana","st. charles","metropolitan  ",172,4,14,31,123,1359,434,822,103,15
+"771","louisiana","st. john the baptist","metropolitan  ",161,11,6,85,59,1653,382,1108,163,NA
+"772","louisiana","st. martin","metropolitan  ",93,1,13,16,63,274,27,247,0,NA
+"773","louisiana","st. tammany","metropolitan  ",401,4,42,23,332,2914,775,1916,223,24
+"774","louisiana","terrebonne","metropolitan  ",359,5,30,59,265,2957,501,2202,254,14
+"775","louisiana","union","metropolitan  ",25,0,0,0,25,45,17,28,0,5
+"776","louisiana","west baton rouge","metropolitan  ",69,1,7,11,50,564,47,477,40,1
+"777","louisiana","west feliciana","metropolitan  ",52,0,4,2,46,125,29,80,16,1
+"778","louisiana","acadia","nonmetropolitan  ",108,0,4,1,103,609,110,437,62,0
+"779","louisiana","assumption","nonmetropolitan  ",151,0,4,1,146,375,72,271,32,0
+"780","louisiana","beauregard","nonmetropolitan  ",61,1,5,2,53,336,125,177,34,3
+"781","louisiana","caldwell","nonmetropolitan  ",62,1,0,1,60,351,116,210,25,2
+"782","louisiana","concordia","nonmetropolitan  ",78,3,11,5,59,265,106,146,13,0
+"783","louisiana","east carroll","nonmetropolitan  ",17,0,1,2,14,50,16,30,4,0
+"784","louisiana","evangeline","nonmetropolitan  ",39,0,3,1,35,419,100,299,20,1
+"785","louisiana","franklin","nonmetropolitan  ",11,0,0,3,8,159,58,93,8,0
+"786","louisiana","jackson","nonmetropolitan  ",7,2,0,0,5,146,40,91,15,1
+"787","louisiana","jefferson davis","nonmetropolitan  ",68,2,7,3,56,378,52,297,29,0
+"788","louisiana","lincoln","nonmetropolitan  ",31,0,3,2,26,242,90,127,25,0
+"789","louisiana","madison","nonmetropolitan  ",77,0,1,1,75,157,42,100,15,1
+"790","louisiana","morehouse","nonmetropolitan  ",30,2,2,5,21,544,82,429,33,2
+"791","louisiana","natchitoches","nonmetropolitan  ",111,0,3,4,104,408,96,278,34,1
+"792","louisiana","red river","nonmetropolitan  ",19,0,1,0,18,90,20,63,7,0
+"793","louisiana","richland","nonmetropolitan  ",8,0,1,0,7,173,30,127,16,0
+"794","louisiana","sabine","nonmetropolitan  ",34,1,0,2,31,322,96,202,24,0
+"795","louisiana","st. james","nonmetropolitan  ",172,2,2,6,162,628,159,429,40,3
+"796","louisiana","st. mary","nonmetropolitan  ",228,2,14,47,165,918,213,654,51,1
+"797","louisiana","tangipahoa","nonmetropolitan  ",1042,3,25,73,941,4583,1851,2594,138,1
+"798","louisiana","vermilion","nonmetropolitan  ",278,3,10,2,263,265,54,211,0,0
+"799","louisiana","washington","nonmetropolitan  ",134,5,9,15,105,687,202,435,50,0
+"800","louisiana","webster","nonmetropolitan  ",45,0,4,0,41,202,97,79,26,1
+"801","louisiana","west carroll","nonmetropolitan  ",28,3,0,0,25,264,72,176,16,4
+"802","maine","androscoggin","metropolitan  ",6,0,2,0,4,229,66,155,8,1
+"803","maine","cumberland","metropolitan  ",28,0,5,4,19,567,251,279,37,3
+"804","maine","penobscot","metropolitan  ",6,0,0,1,5,711,206,461,44,0
+"805","maine","sagadahoc","metropolitan  ",5,0,2,1,2,149,57,86,6,1
+"806","maine","york","metropolitan  ",23,0,7,1,15,512,183,294,35,0
+"807","maine","aroostook","nonmetropolitan  ",2,0,0,0,2,74,20,50,4,0
+"808","maine","franklin","nonmetropolitan  ",2,0,0,0,2,117,68,46,3,0
+"809","maine","hancock","nonmetropolitan  ",5,0,1,1,3,241,50,183,8,0
+"810","maine","kennebec","nonmetropolitan  ",8,0,7,0,1,299,63,218,18,3
+"811","maine","knox","nonmetropolitan  ",10,0,1,0,9,225,63,150,12,0
+"812","maine","lincoln","nonmetropolitan  ",13,0,5,0,8,235,74,152,9,3
+"813","maine","oxford","nonmetropolitan  ",18,0,10,0,8,270,101,157,12,1
+"814","maine","piscataquis","nonmetropolitan  ",4,0,3,0,1,110,40,58,12,1
+"815","maine","somerset","nonmetropolitan  ",13,0,8,1,4,376,126,217,33,1
+"816","maine","waldo","nonmetropolitan  ",7,0,0,0,7,138,79,48,11,1
+"817","maine","washington","nonmetropolitan  ",43,0,1,1,41,200,61,128,11,0
+"818","maryland","allegany","metropolitan  ",2,0,0,0,2,77,16,61,0,0
+"819","maryland","anne arundel","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"820","maryland","anne arundel county police department","metropolitan  ",2603,10,101,680,1812,17627,3124,13105,1398,132
+"821","maryland","baltimore county","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"822","maryland","baltimore county police department","metropolitan  ",4901,30,148,1725,2998,26611,4393,19340,2878,333
+"823","maryland","calvert","metropolitan  ",294,1,6,15,272,1495,352,1051,92,1
+"824","maryland","carroll","metropolitan  ",70,0,19,6,45,375,87,276,12,3
+"825","maryland","cecil","metropolitan  ",92,2,7,19,64,1223,510,600,113,1
+"826","maryland","charles","metropolitan  ",741,10,26,173,532,4016,725,2922,369,0
+"827","maryland","frederick","metropolitan  ",238,1,8,16,213,1599,252,1282,65,21
+"828","maryland","harford","metropolitan  ",433,3,54,128,248,2966,770,1945,251,20
+"829","maryland","howard","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"830","maryland","howard county police department","metropolitan  ",703,4,36,259,404,8205,1376,6317,512,82
+"831","maryland","montgomery","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"832","maryland","montgomery county police department","metropolitan  ",2087,21,131,1100,835,24888,3603,19027,2258,252
+"833","maryland","prince george's","metropolitan  ",93,0,0,0,93,0,0,0,0,0
+"834","maryland","prince george's county police department","metropolitan  ",5966,102,215,2954,2695,34856,6636,20046,8174,355
+"835","maryland","queen anne's","metropolitan  ",101,1,10,11,79,707,149,521,37,3
+"836","maryland","somerset","metropolitan  ",0,0,0,0,0,46,8,37,1,0
+"837","maryland","washington","metropolitan  ",165,0,12,23,130,1349,335,924,90,0
+"838","maryland","wicomico","metropolitan  ",136,1,13,29,93,881,287,534,60,4
+"839","maryland","caroline","nonmetropolitan  ",39,1,4,7,27,393,156,225,12,0
+"840","maryland","dorchester","nonmetropolitan  ",26,0,4,3,19,324,117,189,18,0
+"841","maryland","garrett","nonmetropolitan  ",29,0,0,1,28,301,97,193,11,0
+"842","maryland","kent","nonmetropolitan  ",21,0,1,3,17,163,73,88,2,1
+"843","maryland","st. mary's","nonmetropolitan  ",268,2,8,40,218,1946,466,1364,116,5
+"844","maryland","talbot","nonmetropolitan  ",18,0,3,0,15,288,60,221,7,0
+"845","maryland","worcester","nonmetropolitan  ",55,2,1,0,52,163,41,110,12,0
+"846","michigan","barry","metropolitan  ",29,0,13,1,15,420,83,315,22,3
+"847","michigan","bay","metropolitan  ",51,0,12,12,27,648,97,525,26,1
+"848","michigan","berrien","metropolitan  ",126,0,24,10,92,876,264,570,42,4
+"849","michigan","cass","metropolitan  ",44,2,19,0,23,713,230,441,42,3
+"850","michigan","ingham","metropolitan  ",107,0,16,13,78,1023,234,740,49,5
+"851","michigan","ionia2","metropolitan  ",61,1,15,3,42,381,131,229,21,4
+"852","michigan","jackson","metropolitan  ",101,1,18,3,79,481,132,323,26,4
+"853","michigan","kalamazoo","metropolitan  ",236,1,37,58,140,2520,736,1672,112,23
+"854","michigan","kent","metropolitan  ",336,1,58,46,231,3852,956,2730,166,26
+"855","michigan","lapeer","metropolitan  ",47,0,9,0,38,472,106,339,27,1
+"856","michigan","livingston","metropolitan  ",55,0,5,2,48,847,174,619,54,5
+"857","michigan","macomb","metropolitan  ",370,0,65,50,255,2671,527,1937,207,17
+"858","michigan","monroe2","metropolitan  ",240,2,56,37,145,2658,658,1861,139,48
+"859","michigan","newaygo","metropolitan  ",58,0,5,0,53,410,164,235,11,2
+"860","michigan","oakland","metropolitan  ",285,3,45,44,193,4105,868,3042,195,61
+"861","michigan","ottawa","metropolitan  ",268,3,87,29,149,2962,682,2182,98,22
+"862","michigan","saginaw","metropolitan  ",134,1,5,13,115,642,165,436,41,1
+"863","michigan","st. clair","metropolitan  ",206,2,29,15,160,1783,434,1214,135,17
+"864","michigan","van buren","metropolitan  ",103,2,28,5,68,677,141,451,85,7
+"865","michigan","washtenaw","metropolitan  ",520,5,55,109,351,2419,895,1307,217,30
+"866","michigan","wayne","metropolitan  ",13,0,0,9,4,17,2,13,2,0
+"867","michigan","alcona","nonmetropolitan  ",9,0,0,0,9,165,55,107,3,1
+"868","michigan","alger","nonmetropolitan  ",0,0,0,0,0,3,2,1,0,0
+"869","michigan","allegan","nonmetropolitan  ",90,1,27,9,53,730,170,510,50,2
+"870","michigan","benzie","nonmetropolitan  ",30,0,5,3,22,186,58,118,10,2
+"871","michigan","charlevoix","nonmetropolitan  ",12,0,4,0,8,156,49,105,2,5
+"872","michigan","cheboygan","nonmetropolitan  ",8,1,3,0,4,97,41,53,3,0
+"873","michigan","chippewa","nonmetropolitan  ",7,0,0,0,7,93,33,59,1,0
+"874","michigan","crawford","nonmetropolitan  ",23,0,6,1,16,186,62,107,17,0
+"875","michigan","delta","nonmetropolitan  ",5,0,1,0,4,51,12,36,3,2
+"876","michigan","gladwin","nonmetropolitan  ",23,0,3,1,19,146,52,83,11,3
+"877","michigan","gratiot","nonmetropolitan  ",16,0,8,1,7,189,43,137,9,0
+"878","michigan","hillsdale","nonmetropolitan  ",34,0,10,0,24,226,66,143,17,0
+"879","michigan","huron","nonmetropolitan  ",16,1,3,0,12,195,79,111,5,5
+"880","michigan","iosco","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"881","michigan","iron","nonmetropolitan  ",6,0,4,0,2,30,6,23,1,0
+"882","michigan","isabella","nonmetropolitan  ",43,0,14,3,26,530,171,328,31,5
+"883","michigan","kalkaska","nonmetropolitan  ",24,0,1,1,22,249,79,160,10,2
+"884","michigan","keweenaw","nonmetropolitan  ",1,0,1,0,0,39,5,34,0,2
+"885","michigan","lake","nonmetropolitan  ",24,1,2,1,20,256,117,129,10,4
+"886","michigan","luce","nonmetropolitan  ",6,0,0,0,6,97,54,42,1,0
+"887","michigan","mackinac","nonmetropolitan  ",2,0,0,1,1,60,22,38,0,1
+"888","michigan","manistee","nonmetropolitan  ",14,0,4,0,10,129,20,104,5,0
+"889","michigan","marquette","nonmetropolitan  ",3,0,0,0,3,167,19,146,2,0
+"890","michigan","mason","nonmetropolitan  ",42,0,8,1,33,521,87,425,9,2
+"891","michigan","mecosta","nonmetropolitan  ",56,0,5,1,50,496,134,345,17,4
+"892","michigan","menominee","nonmetropolitan  ",4,0,1,0,3,57,27,29,1,0
+"893","michigan","midland","nonmetropolitan  ",60,0,22,1,37,424,77,323,24,4
+"894","michigan","missaukee","nonmetropolitan  ",0,0,0,0,0,22,8,14,0,0
+"895","michigan","montcalm","nonmetropolitan  ",56,1,28,2,25,506,153,325,28,7
+"896","michigan","montmorency","nonmetropolitan  ",11,0,1,0,10,57,24,25,8,0
+"897","michigan","oceana","nonmetropolitan  ",26,1,11,0,14,331,110,210,11,1
+"898","michigan","ogemaw","nonmetropolitan  ",13,0,2,0,11,215,91,117,7,3
+"899","michigan","ontonagon","nonmetropolitan  ",2,0,0,0,2,18,6,12,0,0
+"900","michigan","osceola","nonmetropolitan  ",31,0,6,0,25,235,80,151,4,1
+"901","michigan","otsego","nonmetropolitan  ",9,0,0,0,9,80,24,53,3,0
+"902","michigan","roscommon","nonmetropolitan  ",17,0,4,1,12,205,47,129,29,0
+"903","michigan","sanilac","nonmetropolitan  ",22,2,4,1,15,194,62,121,11,1
+"904","michigan","schoolcraft","nonmetropolitan  ",0,0,0,0,0,1,0,1,0,0
+"905","michigan","st. joseph","nonmetropolitan  ",39,0,9,0,30,317,109,196,12,2
+"906","michigan","tuscola","nonmetropolitan  ",24,0,6,0,18,368,144,192,32,4
+"907","michigan","wexford","nonmetropolitan  ",26,1,5,0,20,392,69,309,14,3
+"908","minnesota","anoka","metropolitan  6",NA,2,NA,4,54,1870,381,1393,96,14
+"909","minnesota","benton","metropolitan  6",NA,0,NA,1,9,308,54,219,35,7
+"910","minnesota","blue earth","metropolitan  6",NA,0,NA,0,3,181,52,114,15,5
+"911","minnesota","carlton","metropolitan  6",NA,0,NA,0,8,335,75,244,16,0
+"912","minnesota","carver","metropolitan  6",NA,0,NA,3,18,994,118,837,39,5
+"913","minnesota","chisago","metropolitan  6",NA,0,NA,1,13,517,100,386,31,1
+"914","minnesota","clay5","metropolitan  6",NA,0,NA,1,3,NA,NA,43,7,0
+"915","minnesota","dakota","metropolitan  6",NA,0,NA,1,19,211,55,136,20,4
+"916","minnesota","dodge5","metropolitan  6",NA,1,NA,0,NA,250,44,197,9,3
+"917","minnesota","hennepin","metropolitan  6",NA,0,NA,2,16,136,17,110,9,4
+"918","minnesota","houston","metropolitan  6",NA,0,NA,0,5,113,33,74,6,0
+"919","minnesota","isanti","metropolitan  6",NA,0,NA,1,10,438,120,282,36,3
+"920","minnesota","nicollet","metropolitan  6",NA,0,NA,0,5,90,25,59,6,1
+"921","minnesota","olmsted","metropolitan  6",NA,0,NA,2,19,408,112,257,39,7
+"922","minnesota","polk","metropolitan  6",NA,1,NA,0,28,223,55,158,10,2
+"923","minnesota","scott","metropolitan  6",NA,0,NA,0,9,166,37,112,17,1
+"924","minnesota","sherburne","metropolitan  6",NA,1,NA,2,27,627,116,478,33,1
+"925","minnesota","stearns","metropolitan  6",NA,1,NA,1,30,466,82,363,21,2
+"926","minnesota","st. louis","metropolitan  6",NA,0,NA,5,39,788,242,449,97,6
+"927","minnesota","washington","metropolitan  6",NA,0,NA,10,21,1151,253,853,45,6
+"928","minnesota","wright","metropolitan  6",NA,0,NA,6,50,2021,212,1716,93,6
+"929","minnesota","aitkin","nonmetropolitan  6",NA,2,NA,1,16,412,138,246,28,2
+"930","minnesota","becker","nonmetropolitan  6",NA,0,NA,1,20,181,85,74,22,1
+"931","minnesota","beltrami","nonmetropolitan  6",NA,0,NA,2,38,413,89,269,55,6
+"932","minnesota","brown","nonmetropolitan  6",NA,0,NA,0,0,3,1,0,2,2
+"933","minnesota","cass","nonmetropolitan  6",NA,0,NA,1,21,446,128,253,65,2
+"934","minnesota","chippewa","nonmetropolitan  6",NA,0,NA,1,8,69,2,63,4,0
+"935","minnesota","clearwater","nonmetropolitan  6",NA,0,NA,0,19,118,29,84,5,4
+"936","minnesota","cook","nonmetropolitan  6",NA,0,NA,1,9,122,24,87,11,1
+"937","minnesota","cottonwood","nonmetropolitan  6",NA,0,NA,0,2,47,22,22,3,0
+"938","minnesota","crow wing","nonmetropolitan  6",NA,0,NA,0,31,387,93,259,35,2
+"939","minnesota","douglas","nonmetropolitan  6",NA,0,NA,0,4,342,75,250,17,6
+"940","minnesota","faribault","nonmetropolitan  6",NA,0,NA,0,0,69,38,28,3,2
+"941","minnesota","fillmore","nonmetropolitan  6",NA,0,NA,0,3,111,34,68,9,2
+"942","minnesota","freeborn","nonmetropolitan  6",NA,0,NA,2,6,117,14,90,13,0
+"943","minnesota","goodhue","nonmetropolitan  6",NA,0,NA,2,8,207,60,126,21,2
+"944","minnesota","grant","nonmetropolitan  6",NA,0,NA,0,8,110,32,70,8,0
+"945","minnesota","hubbard","nonmetropolitan  6",NA,1,NA,0,3,310,120,169,21,1
+"946","minnesota","itasca","nonmetropolitan  6",NA,0,NA,0,17,375,101,253,21,3
+"947","minnesota","jackson","nonmetropolitan  6",NA,0,NA,0,0,38,7,28,3,0
+"948","minnesota","kanabec","nonmetropolitan  6",NA,0,NA,2,17,257,94,144,19,7
+"949","minnesota","kandiyohi","nonmetropolitan  6",NA,0,NA,3,13,320,47,261,12,1
+"950","minnesota","kittson","nonmetropolitan  6",NA,0,NA,0,0,78,15,62,1,0
+"951","minnesota","koochiching","nonmetropolitan  6",NA,0,NA,0,8,141,42,89,10,1
+"952","minnesota","lac qui parle","nonmetropolitan  6",NA,0,NA,0,3,50,7,42,1,1
+"953","minnesota","lake","nonmetropolitan  6",NA,1,NA,0,4,86,40,46,0,0
+"954","minnesota","lake of the woods","nonmetropolitan  6",NA,0,NA,0,5,51,14,33,4,0
+"955","minnesota","le sueur5","nonmetropolitan  6",NA,0,NA,0,10,NA,NA,109,6,2
+"956","minnesota","lincoln","nonmetropolitan  6",NA,0,NA,0,1,5,0,5,0,0
+"957","minnesota","lyon","nonmetropolitan  6",NA,0,NA,0,4,55,22,29,4,2
+"958","minnesota","marshall","nonmetropolitan  6",NA,0,NA,0,5,108,8,98,2,0
+"959","minnesota","martin","nonmetropolitan  6",NA,0,NA,0,5,57,17,38,2,1
+"960","minnesota","mcleod","nonmetropolitan  6",NA,1,NA,0,10,107,40,61,6,0
+"961","minnesota","meeker","nonmetropolitan  6",NA,0,NA,0,9,205,48,145,12,0
+"962","minnesota","mille lacs","nonmetropolitan  6",NA,0,NA,0,24,373,90,252,31,2
+"963","minnesota","morrison","nonmetropolitan  6",NA,1,NA,0,10,360,73,269,18,1
+"964","minnesota","mower","nonmetropolitan  6",NA,0,NA,1,11,202,58,117,27,1
+"965","minnesota","murray","nonmetropolitan  6",NA,0,NA,0,0,63,25,33,5,2
+"966","minnesota","nobles","nonmetropolitan  6",NA,0,NA,0,3,40,22,17,1,0
+"967","minnesota","norman","nonmetropolitan  6",NA,0,NA,0,3,43,14,26,3,0
+"968","minnesota","otter tail","nonmetropolitan  6",NA,0,NA,1,7,489,154,305,30,3
+"969","minnesota","pennington","nonmetropolitan  6",NA,0,NA,0,1,52,13,34,5,0
+"970","minnesota","pine","nonmetropolitan  6",NA,0,NA,3,27,851,300,486,65,9
+"971","minnesota","pipestone","nonmetropolitan  6",NA,0,NA,0,4,77,17,58,2,0
+"972","minnesota","pope","nonmetropolitan  6",NA,0,NA,0,2,58,21,32,5,0
+"973","minnesota","red lake","nonmetropolitan  6",NA,0,NA,0,0,11,2,7,2,0
+"974","minnesota","redwood","nonmetropolitan  6",NA,0,NA,0,5,108,33,70,5,3
+"975","minnesota","renville","nonmetropolitan  6",NA,0,NA,1,4,94,24,65,5,2
+"976","minnesota","roseau","nonmetropolitan  6",NA,0,NA,0,4,96,18,74,4,1
+"977","minnesota","steele","nonmetropolitan  6",NA,1,NA,0,4,115,32,74,9,2
+"978","minnesota","stevens","nonmetropolitan  6",NA,0,NA,0,3,21,9,11,1,0
+"979","minnesota","swift","nonmetropolitan  6",NA,0,NA,0,3,47,21,22,4,0
+"980","minnesota","todd","nonmetropolitan  6",NA,0,NA,0,9,227,77,141,9,0
+"981","minnesota","traverse","nonmetropolitan  6",NA,0,NA,0,4,23,6,16,1,0
+"982","minnesota","wadena","nonmetropolitan  6",NA,0,NA,2,9,74,32,40,2,1
+"983","minnesota","waseca","nonmetropolitan  6",NA,0,NA,0,2,89,35,43,11,4
+"984","minnesota","watonwan","nonmetropolitan  6",NA,0,NA,0,4,67,20,44,3,0
+"985","minnesota","wilkin","nonmetropolitan  6",NA,0,NA,0,0,37,10,25,2,0
+"986","minnesota","winona","nonmetropolitan  6",NA,0,NA,0,3,100,28,62,10,5
+"987","mississippi","desoto","metropolitan  ",30,1,4,8,17,736,91,541,104,3
+"988","mississippi","forrest","metropolitan  ",10,0,1,1,8,71,39,27,5,0
+"989","mississippi","harrison","metropolitan  ",44,7,10,19,8,1700,396,1128,176,7
+"990","mississippi","jackson","metropolitan  ",122,2,26,12,82,1819,478,1121,220,0
+"991","mississippi","lamar","metropolitan  ",68,2,20,15,31,690,229,412,49,4
+"992","mississippi","madison","metropolitan  ",40,4,7,6,23,410,119,250,41,2
+"993","mississippi","marshall","metropolitan  ",75,0,2,13,60,603,230,315,58,NA
+"994","mississippi","rankin","metropolitan  ",40,0,3,5,32,784,216,538,30,4
+"995","mississippi","tate","metropolitan  ",11,0,1,1,9,295,109,136,50,0
+"996","mississippi","adams","nonmetropolitan  ",51,1,3,3,44,575,149,378,48,6
+"997","mississippi","bolivar","nonmetropolitan  ",2,1,0,1,0,1,0,1,0,1
+"998","mississippi","choctaw","nonmetropolitan  ",11,0,3,0,8,86,34,45,7,0
+"999","mississippi","claiborne5","nonmetropolitan  ",NA,1,2,11,NA,116,55,57,4,0
+"1000","mississippi","coahoma","nonmetropolitan  ",10,1,0,2,7,128,62,53,13,3
+"1001","mississippi","greene","nonmetropolitan  ",9,2,1,2,4,24,15,8,1,1
+"1002","mississippi","grenada","nonmetropolitan  ",15,0,2,2,11,164,74,73,17,0
+"1003","mississippi","jefferson","nonmetropolitan  ",38,0,1,1,36,50,17,33,0,2
+"1004","mississippi","lauderdale","nonmetropolitan  ",38,1,11,12,14,524,236,252,36,3
+"1005","mississippi","leake","nonmetropolitan  ",0,0,0,0,0,24,14,10,0,1
+"1006","mississippi","lee","nonmetropolitan  ",64,0,5,7,52,670,265,372,33,8
+"1007","mississippi","leflore","nonmetropolitan  ",104,1,6,7,90,505,234,261,10,2
+"1008","mississippi","lincoln","nonmetropolitan  ",16,1,0,0,15,340,88,225,27,0
+"1009","mississippi","lowndes","nonmetropolitan  ",75,3,20,10,42,476,151,296,29,7
+"1010","mississippi","oktibbeha","nonmetropolitan  ",61,3,2,5,51,184,82,92,10,2
+"1011","mississippi","panola","nonmetropolitan  ",46,1,1,2,42,498,243,231,24,0
+"1012","mississippi","pearl river","nonmetropolitan  ",37,0,15,8,14,705,283,365,57,5
+"1013","mississippi","pike","nonmetropolitan  ",23,2,1,3,17,469,189,246,34,NA
+"1014","mississippi","sunflower","nonmetropolitan  ",160,2,16,75,67,101,82,12,7,0
+"1015","mississippi","union","nonmetropolitan  ",4,1,0,1,2,199,87,96,16,10
+"1016","mississippi","warren","nonmetropolitan  ",21,2,5,4,10,305,104,171,30,1
+"1017","mississippi","washington","nonmetropolitan  ",13,0,3,4,6,425,169,224,32,9
+"1018","mississippi","winston","nonmetropolitan  ",8,0,0,2,6,13,8,3,2,0
+"1019","missouri","andrew","metropolitan  ",17,0,0,1,16,107,33,69,5,0
+"1020","missouri","bates","metropolitan  ",34,1,5,0,28,155,62,84,9,0
+"1021","missouri","bollinger","metropolitan  ",9,1,1,1,6,83,30,51,2,1
+"1022","missouri","boone","metropolitan  ",111,1,5,11,94,794,236,508,50,11
+"1023","missouri","buchanan","metropolitan  ",20,0,1,2,17,226,75,137,14,2
+"1024","missouri","caldwell","metropolitan  ",9,0,1,0,8,70,20,38,12,2
+"1025","missouri","callaway","metropolitan  ",25,2,4,2,17,807,199,566,42,3
+"1026","missouri","cape girardeau","metropolitan  ",117,0,1,4,112,281,116,151,14,0
+"1027","missouri","cass","metropolitan  ",71,0,6,3,62,347,128,188,31,1
+"1028","missouri","christian","metropolitan  ",108,0,2,0,106,293,98,173,22,1
+"1029","missouri","clay","metropolitan  ",21,0,2,2,17,216,98,99,19,6
+"1030","missouri","clinton","metropolitan  ",13,0,3,0,10,93,24,53,16,1
+"1031","missouri","cole","metropolitan  ",46,0,3,3,40,496,152,327,17,3
+"1032","missouri","dallas4","metropolitan  ",NA,0,0,1,NA,146,47,90,9,1
+"1033","missouri","de kalb","metropolitan  ",11,0,4,1,6,92,34,50,8,2
+"1034","missouri","franklin","metropolitan  ",63,2,8,3,50,845,174,623,48,2
+"1035","missouri","greene","metropolitan  ",87,0,16,21,50,1440,337,954,149,16
+"1036","missouri","howard","metropolitan  ",3,1,0,0,2,54,14,40,0,0
+"1037","missouri","jackson","metropolitan  ",60,3,4,14,39,602,186,341,75,2
+"1038","missouri","jasper","metropolitan  ",103,2,12,4,85,618,204,368,46,8
+"1039","missouri","jefferson","metropolitan  ",434,1,49,25,359,3507,431,2884,192,35
+"1040","missouri","lafayette","metropolitan  ",19,1,0,0,18,158,54,93,11,0
+"1041","missouri","lincoln","metropolitan  ",57,0,0,0,57,286,100,147,39,5
+"1042","missouri","mcdonald","metropolitan  ",76,1,7,1,67,389,91,256,42,7
+"1043","missouri","moniteau","metropolitan  ",9,0,2,0,7,67,28,29,10,0
+"1044","missouri","newton","metropolitan  ",86,2,9,1,74,789,207,496,86,13
+"1045","missouri","osage","metropolitan  ",7,0,1,2,4,153,46,97,10,1
+"1046","missouri","platte","metropolitan  ",41,0,2,2,37,337,81,248,8,3
+"1047","missouri","polk","metropolitan  ",31,0,4,0,27,318,145,155,18,0
+"1048","missouri","ray2","metropolitan  ",19,0,0,0,19,98,42,49,7,0
+"1049","missouri","st. charles","metropolitan  ",203,1,6,17,179,1293,301,920,72,13
+"1050","missouri","st. louis county police department","metropolitan  ",1165,15,83,328,739,11407,2530,7767,1110,75
+"1051","missouri","warren","metropolitan  ",110,0,2,3,105,232,72,138,22,5
+"1052","missouri","washington","metropolitan  ",34,2,0,0,32,189,48,105,36,0
+"1053","missouri","webster","metropolitan  ",45,0,0,0,45,240,77,144,19,2
+"1054","missouri","adair","nonmetropolitan  ",14,0,2,0,12,12,8,2,2,0
+"1055","missouri","atchison","nonmetropolitan  ",0,0,0,0,0,26,7,17,2,0
+"1056","missouri","audrain","nonmetropolitan  ",12,0,0,2,10,160,58,96,6,0
+"1057","missouri","barry","nonmetropolitan  ",83,0,4,0,79,361,107,245,9,0
+"1058","missouri","barton","nonmetropolitan  ",13,0,3,1,9,83,25,58,0,4
+"1059","missouri","benton","nonmetropolitan  ",53,0,4,1,48,190,56,129,5,0
+"1060","missouri","butler","nonmetropolitan  ",53,0,0,2,51,545,149,355,41,0
+"1061","missouri","camden","nonmetropolitan  ",39,0,0,0,39,459,123,301,35,2
+"1062","missouri","carroll","nonmetropolitan  ",6,0,2,1,3,43,7,25,11,0
+"1063","missouri","carter","nonmetropolitan  ",0,0,0,0,0,33,11,16,6,0
+"1064","missouri","cedar","nonmetropolitan  ",3,0,0,0,3,82,24,57,1,0
+"1065","missouri","clark","nonmetropolitan  ",9,0,1,1,7,50,25,20,5,0
+"1066","missouri","cooper","nonmetropolitan  ",8,0,1,0,7,184,69,100,15,1
+"1067","missouri","crawford","nonmetropolitan  ",5,0,0,0,5,127,43,74,10,0
+"1068","missouri","dade","nonmetropolitan  ",3,0,0,0,3,58,12,33,13,0
+"1069","missouri","daviess","nonmetropolitan  ",2,0,0,0,2,66,33,27,6,0
+"1070","missouri","dent","nonmetropolitan  ",9,1,0,0,8,110,44,61,5,1
+"1071","missouri","douglas4","nonmetropolitan  ",NA,2,0,0,NA,97,40,39,18,2
+"1072","missouri","dunklin","nonmetropolitan  ",24,0,1,1,22,245,58,173,14,1
+"1073","missouri","gasconade","nonmetropolitan  ",5,0,0,0,5,141,49,81,11,0
+"1074","missouri","gentry","nonmetropolitan  ",3,0,1,1,1,48,21,25,2,2
+"1075","missouri","grundy","nonmetropolitan  ",4,0,1,0,3,42,18,20,4,0
+"1076","missouri","harrison","nonmetropolitan  ",4,0,0,0,4,53,23,29,1,0
+"1077","missouri","henry","nonmetropolitan  ",40,0,6,0,34,277,95,155,27,1
+"1078","missouri","hickory","nonmetropolitan  ",3,1,0,0,2,121,43,65,13,0
+"1079","missouri","holt","nonmetropolitan  ",9,0,0,1,8,64,28,32,4,0
+"1080","missouri","howell","nonmetropolitan  ",57,2,4,0,51,394,130,235,29,3
+"1081","missouri","iron","nonmetropolitan  ",20,0,0,0,20,73,20,39,14,0
+"1082","missouri","johnson","nonmetropolitan  ",34,0,0,0,34,307,100,180,27,0
+"1083","missouri","knox","nonmetropolitan  ",4,0,0,0,4,105,18,87,0,0
+"1084","missouri","laclede","nonmetropolitan  ",33,1,5,0,27,305,88,177,40,5
+"1085","missouri","lawrence","nonmetropolitan  ",48,0,1,2,45,307,107,175,25,3
+"1086","missouri","lewis","nonmetropolitan  ",6,0,0,1,5,56,15,39,2,0
+"1087","missouri","linn","nonmetropolitan  ",17,0,0,0,17,65,34,24,7,2
+"1088","missouri","livingston","nonmetropolitan  ",1,0,0,0,1,61,28,31,2,0
+"1089","missouri","macon4","nonmetropolitan  ",NA,0,0,0,NA,55,25,27,3,0
+"1090","missouri","madison","nonmetropolitan  ",12,0,1,0,11,61,22,31,8,0
+"1091","missouri","maries","nonmetropolitan  ",8,0,0,1,7,65,31,29,5,0
+"1092","missouri","marion","nonmetropolitan  ",4,0,0,0,4,70,14,53,3,1
+"1093","missouri","mercer","nonmetropolitan  ",3,0,0,0,3,28,18,7,3,1
+"1094","missouri","miller","nonmetropolitan  ",62,2,4,0,56,223,67,130,26,0
+"1095","missouri","mississippi","nonmetropolitan  ",19,1,0,0,18,57,17,38,2,0
+"1096","missouri","monroe","nonmetropolitan  ",15,0,1,1,13,80,38,38,4,0
+"1097","missouri","montgomery","nonmetropolitan  ",13,1,0,0,12,99,54,38,7,0
+"1098","missouri","morgan","nonmetropolitan  ",73,0,1,1,71,267,117,135,15,0
+"1099","missouri","new madrid","nonmetropolitan  ",38,3,0,1,34,56,17,33,6,1
+"1100","missouri","nodaway","nonmetropolitan  ",12,1,0,0,11,146,55,78,13,0
+"1101","missouri","oregon","nonmetropolitan  ",22,1,0,1,20,35,4,29,2,1
+"1102","missouri","ozark4","nonmetropolitan  ",NA,4,2,1,NA,152,78,67,7,0
+"1103","missouri","pemiscot","nonmetropolitan  ",12,2,3,2,5,109,33,69,7,0
+"1104","missouri","perry","nonmetropolitan  ",9,0,0,0,9,88,20,61,7,1
+"1105","missouri","pettis","nonmetropolitan  ",37,0,0,0,37,249,63,171,15,1
+"1106","missouri","phelps","nonmetropolitan  ",52,0,3,1,48,323,85,219,19,2
+"1107","missouri","pike","nonmetropolitan  ",12,0,0,0,12,101,39,44,18,4
+"1108","missouri","pulaski","nonmetropolitan  ",103,2,15,4,82,298,119,160,19,1
+"1109","missouri","putnam","nonmetropolitan  ",1,0,0,0,1,12,9,3,0,0
+"1110","missouri","ralls","nonmetropolitan  ",23,0,3,0,20,116,45,63,8,3
+"1111","missouri","randolph2","nonmetropolitan  ",7,0,0,0,7,82,32,44,6,0
+"1112","missouri","reynolds","nonmetropolitan  ",6,0,1,0,5,18,12,1,5,0
+"1113","missouri","ripley","nonmetropolitan  ",23,1,1,2,19,207,62,135,10,2
+"1114","missouri","saline","nonmetropolitan  ",14,0,4,0,10,125,44,66,15,0
+"1115","missouri","schuyler","nonmetropolitan  ",5,0,2,0,3,9,1,5,3,1
+"1116","missouri","scotland","nonmetropolitan  ",1,1,0,0,0,26,9,15,2,1
+"1117","missouri","scott","nonmetropolitan  ",24,0,1,2,21,145,35,102,8,1
+"1118","missouri","shannon","nonmetropolitan  ",11,0,1,0,10,40,14,23,3,0
+"1119","missouri","shelby","nonmetropolitan  ",0,0,0,0,0,66,32,32,2,0
+"1120","missouri","st. clair","nonmetropolitan  ",6,2,0,1,3,138,50,86,2,0
+"1121","missouri","ste. genevieve","nonmetropolitan  ",22,1,0,0,21,163,50,96,17,4
+"1122","missouri","st. francois","nonmetropolitan  ",76,0,4,2,70,607,191,361,55,5
+"1123","missouri","stoddard","nonmetropolitan  ",23,0,1,2,20,143,76,66,1,0
+"1124","missouri","stone","nonmetropolitan  ",104,1,2,3,98,604,189,347,68,2
+"1125","missouri","sullivan","nonmetropolitan  ",11,0,2,0,9,71,27,31,13,1
+"1126","missouri","taney","nonmetropolitan  ",98,0,8,1,89,584,147,390,47,0
+"1127","missouri","texas","nonmetropolitan  ",20,0,3,0,17,188,50,123,15,4
+"1128","missouri","vernon","nonmetropolitan  ",34,0,3,1,30,238,58,153,27,4
+"1129","missouri","wayne","nonmetropolitan  ",27,0,0,0,27,94,35,49,10,0
+"1130","missouri","worth","nonmetropolitan  ",6,0,0,0,6,22,8,13,1,0
+"1131","missouri","wright","nonmetropolitan  ",24,1,0,1,22,95,34,54,7,0
+"1132","montana","cascade","metropolitan  ",48,1,3,1,43,327,48,254,25,2
+"1133","montana","missoula","metropolitan  ",114,1,14,2,97,659,136,470,53,9
+"1134","montana","yellowstone","metropolitan  ",60,0,10,0,50,596,120,424,52,3
+"1135","montana","beaverhead","nonmetropolitan  ",14,0,0,0,14,49,10,36,3,0
+"1136","montana","big horn","nonmetropolitan  ",58,0,1,1,56,166,8,138,20,1
+"1137","montana","blaine","nonmetropolitan  ",4,0,1,0,3,27,7,18,2,0
+"1138","montana","broadwater","nonmetropolitan  ",10,1,4,0,5,91,2,87,2,1
+"1139","montana","carter","nonmetropolitan  ",0,0,0,0,0,2,1,1,0,0
+"1140","montana","chouteau","nonmetropolitan  ",1,0,0,0,1,20,2,14,4,2
+"1141","montana","dawson","nonmetropolitan  ",6,0,4,0,2,83,6,73,4,0
+"1142","montana","deer lodge","nonmetropolitan  ",27,0,1,0,26,135,18,97,20,1
+"1143","montana","fallon","nonmetropolitan  ",0,0,0,0,0,7,0,7,0,0
+"1144","montana","fergus","nonmetropolitan  ",7,0,0,0,7,30,8,19,3,0
+"1145","montana","flathead","nonmetropolitan  ",197,3,18,7,169,1201,211,896,94,6
+"1146","montana","gallatin","nonmetropolitan  ",49,0,19,1,29,423,71,309,43,5
+"1147","montana","garfield","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1148","montana","glacier","nonmetropolitan  ",9,0,1,0,8,40,3,32,5,0
+"1149","montana","granite","nonmetropolitan  ",0,0,0,0,0,33,4,27,2,0
+"1150","montana","hill","nonmetropolitan  ",32,1,4,2,25,145,9,125,11,2
+"1151","montana","jefferson","nonmetropolitan  ",15,0,3,0,12,48,12,31,5,1
+"1152","montana","judith basin","nonmetropolitan  ",3,0,0,0,3,13,4,9,0,0
+"1153","montana","lake","nonmetropolitan  ",53,1,7,0,45,291,66,188,37,6
+"1154","montana","lewis and clark","nonmetropolitan  ",36,0,3,0,33,270,65,178,27,4
+"1155","montana","lincoln","nonmetropolitan  ",25,1,5,0,19,239,51,169,19,1
+"1156","montana","madison","nonmetropolitan  ",13,1,1,0,11,83,23,55,5,2
+"1157","montana","mccone","nonmetropolitan  ",1,0,0,0,1,18,2,9,7,0
+"1158","montana","meagher","nonmetropolitan  ",4,0,1,0,3,14,1,13,0,0
+"1159","montana","mineral","nonmetropolitan  ",13,0,0,1,12,11,4,5,2,0
+"1160","montana","musselshell","nonmetropolitan  ",9,0,0,0,9,58,2,56,0,1
+"1161","montana","park","nonmetropolitan  ",29,1,4,0,24,74,25,42,7,2
+"1162","montana","phillips","nonmetropolitan  ",5,0,0,0,5,56,18,34,4,0
+"1163","montana","pondera","nonmetropolitan  ",1,0,1,0,0,11,1,9,1,0
+"1164","montana","powell","nonmetropolitan  ",25,0,0,1,24,123,20,100,3,1
+"1165","montana","ravalli","nonmetropolitan  ",41,0,6,0,35,345,68,265,12,3
+"1166","montana","roosevelt","nonmetropolitan  ",18,0,0,0,18,29,7,19,3,0
+"1167","montana","rosebud","nonmetropolitan  ",14,0,1,1,12,67,7,54,6,0
+"1168","montana","sanders","nonmetropolitan  ",27,2,4,1,20,122,10,101,11,1
+"1169","montana","sheridan","nonmetropolitan  ",8,0,1,0,7,74,16,53,5,0
+"1170","montana","silver bow","nonmetropolitan  ",148,0,8,4,136,1473,196,1139,138,5
+"1171","montana","stillwater","nonmetropolitan  ",8,0,0,0,8,42,16,22,4,0
+"1172","montana","sweet grass","nonmetropolitan  ",12,0,1,0,11,22,3,16,3,0
+"1173","montana","teton","nonmetropolitan  ",2,0,0,0,2,56,10,45,1,0
+"1174","montana","toole","nonmetropolitan  ",15,0,2,0,13,86,10,72,4,2
+"1175","montana","valley","nonmetropolitan  ",3,0,0,0,3,26,4,19,3,0
+"1176","montana","wibaux","nonmetropolitan  ",0,0,0,0,0,3,0,3,0,0
+"1177","nebraska","cass","metropolitan  ",10,0,1,1,8,245,72,162,11,2
+"1178","nebraska","dakota","metropolitan  ",8,0,0,1,7,27,9,14,4,0
+"1179","nebraska","dixon","metropolitan  ",4,0,2,0,2,76,25,44,7,0
+"1180","nebraska","douglas","metropolitan  ",165,0,5,9,151,1151,273,795,83,0
+"1181","nebraska","lancaster","metropolitan  ",22,2,3,1,16,347,82,255,10,3
+"1182","nebraska","sarpy","metropolitan  ",21,0,12,1,8,767,124,593,50,3
+"1183","nebraska","saunders","metropolitan  ",6,0,0,0,6,75,29,45,1,0
+"1184","nebraska","washington","metropolitan  ",1,0,0,1,0,119,22,86,11,2
+"1185","nebraska","adams","nonmetropolitan  ",3,0,1,2,0,149,44,101,4,2
+"1186","nebraska","antelope","nonmetropolitan  ",1,0,0,0,1,24,8,15,1,0
+"1187","nebraska","arthur","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1188","nebraska","box butte","nonmetropolitan  ",1,0,0,0,1,7,2,4,1,0
+"1189","nebraska","boyd","nonmetropolitan  ",1,0,0,0,1,13,6,7,0,0
+"1190","nebraska","brown","nonmetropolitan  ",1,0,0,0,1,51,9,40,2,0
+"1191","nebraska","buffalo","nonmetropolitan  ",12,0,5,0,7,126,25,89,12,1
+"1192","nebraska","burt","nonmetropolitan  ",7,0,1,0,6,37,15,22,0,0
+"1193","nebraska","butler","nonmetropolitan  ",9,0,1,4,4,22,4,18,0,0
+"1194","nebraska","cedar","nonmetropolitan  ",0,0,0,0,0,1,0,1,0,0
+"1195","nebraska","chase","nonmetropolitan  ",1,0,0,0,1,14,4,9,1,0
+"1196","nebraska","cherry","nonmetropolitan  ",3,0,0,0,3,8,3,4,1,0
+"1197","nebraska","colfax","nonmetropolitan  ",9,0,0,0,9,45,5,37,3,0
+"1198","nebraska","cuming","nonmetropolitan  ",0,0,0,0,0,10,1,9,0,0
+"1199","nebraska","custer","nonmetropolitan  ",3,0,1,0,2,51,8,37,6,0
+"1200","nebraska","dawes","nonmetropolitan  ",1,0,0,0,1,11,4,7,0,0
+"1201","nebraska","dawson","nonmetropolitan  ",10,1,3,0,6,83,17,54,12,0
+"1202","nebraska","deuel","nonmetropolitan  ",0,0,0,0,0,31,6,21,4,1
+"1203","nebraska","dodge","nonmetropolitan  ",9,0,0,2,7,175,44,120,11,0
+"1204","nebraska","franklin","nonmetropolitan  ",0,0,0,0,0,19,1,15,3,0
+"1205","nebraska","frontier","nonmetropolitan  ",0,0,0,0,0,27,5,20,2,0
+"1206","nebraska","furnas","nonmetropolitan  ",2,0,0,0,2,33,5,22,6,0
+"1207","nebraska","gosper","nonmetropolitan  ",0,0,0,0,0,13,1,12,0,0
+"1208","nebraska","hall","nonmetropolitan  ",12,0,1,2,9,225,57,152,16,2
+"1209","nebraska","hamilton","nonmetropolitan  ",2,0,1,1,0,50,8,40,2,0
+"1210","nebraska","harlan","nonmetropolitan  ",2,0,2,0,0,4,1,0,3,0
+"1211","nebraska","hitchcock","nonmetropolitan  ",1,0,0,0,1,4,4,0,0,0
+"1212","nebraska","hooker","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1213","nebraska","jefferson","nonmetropolitan  ",0,0,0,0,0,87,21,61,5,0
+"1214","nebraska","kearney","nonmetropolitan  ",3,0,1,0,2,59,7,49,3,0
+"1215","nebraska","keith","nonmetropolitan  ",0,0,0,0,0,56,12,42,2,0
+"1216","nebraska","keya paha","nonmetropolitan  ",1,0,0,0,1,9,3,6,0,0
+"1217","nebraska","knox","nonmetropolitan  ",0,0,0,0,0,37,15,22,0,0
+"1218","nebraska","lincoln","nonmetropolitan  ",18,1,2,1,14,191,30,159,2,0
+"1219","nebraska","madison","nonmetropolitan  ",7,0,2,1,4,74,15,52,7,3
+"1220","nebraska","merrick","nonmetropolitan  ",8,0,0,0,8,54,14,36,4,0
+"1221","nebraska","morrill","nonmetropolitan  ",2,0,0,0,2,29,4,22,3,0
+"1222","nebraska","nance","nonmetropolitan  ",4,0,0,0,4,11,1,10,0,0
+"1223","nebraska","otoe","nonmetropolitan  ",3,1,0,1,1,64,11,47,6,1
+"1224","nebraska","pawnee","nonmetropolitan  ",2,0,0,0,2,57,10,38,9,0
+"1225","nebraska","perkins","nonmetropolitan  ",2,0,1,0,1,36,16,16,4,0
+"1226","nebraska","phelps","nonmetropolitan  ",0,0,0,0,0,33,2,26,5,1
+"1227","nebraska","platte","nonmetropolitan  ",4,0,0,0,4,161,51,103,7,1
+"1228","nebraska","polk","nonmetropolitan  ",0,0,0,0,0,60,7,52,1,0
+"1229","nebraska","red willow","nonmetropolitan  ",0,0,0,0,0,35,7,25,3,0
+"1230","nebraska","richardson","nonmetropolitan  ",3,0,0,0,3,98,28,64,6,0
+"1231","nebraska","rock","nonmetropolitan  ",0,0,0,0,0,9,3,6,0,0
+"1232","nebraska","saline","nonmetropolitan  ",3,0,1,0,2,66,31,29,6,1
+"1233","nebraska","scotts bluff","nonmetropolitan  ",9,1,4,0,4,104,21,74,9,0
+"1234","nebraska","sheridan","nonmetropolitan  ",3,0,0,0,3,50,13,35,2,0
+"1235","nebraska","sherman","nonmetropolitan  ",2,0,0,0,2,12,3,8,1,0
+"1236","nebraska","sioux","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1237","nebraska","stanton","nonmetropolitan  ",3,0,0,0,3,42,9,31,2,0
+"1238","nebraska","thayer","nonmetropolitan  ",2,0,0,0,2,96,21,69,6,1
+"1239","nebraska","wayne","nonmetropolitan  ",2,0,0,0,2,14,3,10,1,0
+"1240","nebraska","webster","nonmetropolitan  ",2,0,0,0,2,34,9,21,4,0
+"1241","nebraska","wheeler","nonmetropolitan  ",1,0,0,0,1,5,1,4,0,0
+"1242","nebraska","york","nonmetropolitan  ",2,0,1,0,1,54,7,41,6,0
+"1243","nevada","carson city","metropolitan  ",231,0,0,24,207,1265,291,874,100,8
+"1244","nevada","storey","metropolitan  ",12,0,0,2,10,64,23,37,4,0
+"1245","nevada","washoe","metropolitan  ",239,0,1,14,224,1516,530,824,162,8
+"1246","nevada","churchill","nonmetropolitan  ",20,1,3,1,15,205,68,119,18,1
+"1247","nevada","douglas","nonmetropolitan  ",62,1,7,5,49,747,193,509,45,7
+"1248","nevada","elko","nonmetropolitan  ",24,0,9,1,14,188,91,80,17,4
+"1249","nevada","esmeralda","nonmetropolitan  ",3,0,0,0,3,10,5,3,2,1
+"1250","nevada","eureka","nonmetropolitan  ",6,0,1,0,5,17,6,9,2,0
+"1251","nevada","humboldt","nonmetropolitan  ",59,0,0,1,58,48,27,18,3,4
+"1252","nevada","lander","nonmetropolitan  ",49,0,10,2,37,118,28,78,12,0
+"1253","nevada","lincoln","nonmetropolitan  ",6,1,0,1,4,34,7,22,5,2
+"1254","nevada","lyon","nonmetropolitan  ",83,0,1,5,77,781,253,455,73,4
+"1255","nevada","mineral","nonmetropolitan  ",15,0,0,0,15,24,14,7,3,0
+"1256","nevada","nye","nonmetropolitan  ",124,4,23,20,77,892,275,507,110,14
+"1257","nevada","pershing","nonmetropolitan  ",33,0,4,2,27,51,25,23,3,0
+"1258","nevada","white pine","nonmetropolitan  ",20,2,1,3,14,111,45,55,11,0
+"1259","new hampshire","rockingham","metropolitan  ",44,0,0,0,44,1,0,1,0,0
+"1260","new hampshire","carroll","nonmetropolitan  ",3,0,1,0,2,33,11,17,5,1
+"1261","new hampshire","cheshire","nonmetropolitan  ",2,0,0,0,2,8,0,8,0,0
+"1262","new hampshire","merrimack","nonmetropolitan  ",6,0,1,0,5,4,0,4,0,1
+"1263","new mexico","bernalillo","metropolitan  ",942,10,54,137,741,2733,940,1369,424,60
+"1264","new mexico","dona ana","metropolitan  ",304,5,26,8,265,1348,431,757,160,21
+"1265","new mexico","sandoval","metropolitan  ",36,0,2,1,33,183,120,62,1,0
+"1266","new mexico","san juan","metropolitan  ",258,4,35,6,213,920,266,559,95,3
+"1267","new mexico","santa fe","metropolitan  ",179,3,27,13,136,778,551,210,17,11
+"1268","new mexico","valencia","metropolitan  ",108,5,13,12,78,991,458,306,227,27
+"1269","new mexico","catron","nonmetropolitan  ",2,0,0,0,2,19,9,10,0,0
+"1270","new mexico","chaves","nonmetropolitan  ",56,2,11,3,40,417,227,149,41,1
+"1271","new mexico","cibola","nonmetropolitan  ",14,0,0,0,14,85,48,29,8,0
+"1272","new mexico","colfax","nonmetropolitan  ",4,0,0,0,4,12,6,6,0,0
+"1273","new mexico","curry7","nonmetropolitan  ",17,0,0,2,15,NA,56,NA,16,2
+"1274","new mexico","eddy","nonmetropolitan  ",67,0,19,5,43,445,165,259,21,0
+"1275","new mexico","grant","nonmetropolitan  ",13,2,0,0,11,70,38,32,0,0
+"1276","new mexico","lincoln","nonmetropolitan  ",52,0,0,0,52,131,57,71,3,0
+"1277","new mexico","luna","nonmetropolitan  ",77,2,2,1,72,328,153,133,42,0
+"1278","new mexico","otero5","nonmetropolitan  ",NA,1,8,3,NA,243,124,106,13,0
+"1279","new mexico","quay","nonmetropolitan  ",4,0,0,0,4,16,10,5,1,0
+"1280","new mexico","roosevelt","nonmetropolitan  ",7,0,2,0,5,67,30,31,6,0
+"1281","new mexico","socorro","nonmetropolitan  ",21,0,0,2,19,79,41,33,5,1
+"1282","new york","albany","metropolitan  ",33,0,4,3,26,103,28,74,1,0
+"1283","new york","broome","metropolitan  ",56,1,9,7,39,1001,197,780,24,3
+"1284","new york","chemung","metropolitan  ",15,1,3,1,10,339,77,251,11,3
+"1285","new york","dutchess","metropolitan  ",60,0,2,4,54,815,195,584,36,2
+"1286","new york","erie","metropolitan  ",128,1,15,10,102,966,197,735,34,5
+"1287","new york","herkimer","metropolitan  ",0,0,0,0,0,5,0,5,0,0
+"1288","new york","livingston","metropolitan  ",34,0,6,1,27,482,90,385,7,3
+"1289","new york","madison","metropolitan  ",12,0,3,0,9,274,79,191,4,3
+"1290","new york","monroe","metropolitan  ",195,3,16,51,125,3779,588,3054,137,8
+"1291","new york","nassau","metropolitan  ",1602,14,58,748,782,14847,1929,11900,1018,NA
+"1292","new york","niagara","metropolitan  ",78,2,9,8,59,1387,378,960,49,6
+"1293","new york","oneida","metropolitan  ",26,1,4,2,19,421,133,276,12,5
+"1294","new york","onondaga","metropolitan  ",188,1,27,40,120,1873,360,1427,86,10
+"1295","new york","ontario","metropolitan  ",44,0,10,6,28,970,187,760,23,1
+"1296","new york","orange","metropolitan  ",11,0,1,1,9,47,23,22,2,1
+"1297","new york","orleans","metropolitan  ",17,1,2,2,12,292,88,182,22,2
+"1298","new york","oswego","metropolitan  ",36,1,8,6,21,385,123,232,30,0
+"1299","new york","putnam","metropolitan  ",33,1,2,8,22,345,84,251,10,4
+"1300","new york","rockland","metropolitan  ",9,0,1,1,7,44,2,41,1,0
+"1301","new york","saratoga","metropolitan  ",49,0,8,6,35,1281,238,1009,34,7
+"1302","new york","schenectady","metropolitan  ",3,0,0,1,2,47,2,44,1,0
+"1303","new york","schoharie","metropolitan  ",2,0,0,0,2,105,34,70,1,2
+"1304","new york","suffolk","metropolitan  ",122,0,0,2,120,4,0,4,0,0
+"1305","new york","suffolk county police department","metropolitan  ",2166,39,91,890,1146,26235,3805,20490,1940,265
+"1306","new york","tioga","metropolitan  ",15,0,4,1,10,253,60,183,10,4
+"1307","new york","tompkins","metropolitan  ",28,1,6,2,19,407,83,307,17,0
+"1308","new york","warren","metropolitan  ",51,0,7,8,36,738,89,640,9,4
+"1309","new york","washington","metropolitan  ",31,2,9,2,18,355,78,270,7,1
+"1310","new york","wayne","metropolitan  ",50,0,7,7,36,618,149,443,26,8
+"1311","new york","westchester public safety","metropolitan  ",41,0,1,1,39,136,9,125,2,0
+"1312","new york","allegany","nonmetropolitan  ",0,0,0,0,0,1,0,1,0,0
+"1313","new york","cattaraugus","nonmetropolitan  ",44,2,3,2,37,552,173,348,31,2
+"1314","new york","cayuga","nonmetropolitan  ",25,0,2,1,22,354,74,274,6,0
+"1315","new york","chautauqua","nonmetropolitan  ",30,2,10,2,16,823,251,550,22,7
+"1316","new york","chenango","nonmetropolitan  ",4,1,0,1,2,322,61,251,10,1
+"1317","new york","clinton","nonmetropolitan  ",4,0,0,0,4,9,1,8,0,0
+"1318","new york","columbia","nonmetropolitan  ",25,1,2,0,22,320,83,230,7,0
+"1319","new york","cortland","nonmetropolitan  ",12,1,8,1,2,300,47,239,14,0
+"1320","new york","delaware","nonmetropolitan  ",11,0,3,1,7,110,53,53,4,0
+"1321","new york","essex","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1322","new york","franklin","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1323","new york","fulton","nonmetropolitan  ",13,0,0,2,11,324,87,224,13,0
+"1324","new york","genesee","nonmetropolitan  ",48,1,10,2,35,663,135,501,27,0
+"1325","new york","greene","nonmetropolitan  ",11,0,0,0,11,78,43,27,8,0
+"1326","new york","lewis","nonmetropolitan  ",12,0,1,0,11,188,89,89,10,2
+"1327","new york","montgomery","nonmetropolitan  ",25,0,0,4,21,404,65,327,12,1
+"1328","new york","otsego","nonmetropolitan  ",12,0,2,0,10,216,87,123,6,1
+"1329","new york","schuyler","nonmetropolitan  ",8,0,1,0,7,87,26,60,1,0
+"1330","new york","seneca","nonmetropolitan  ",13,0,3,1,9,203,38,151,14,2
+"1331","new york","steuben","nonmetropolitan  ",6,0,2,0,4,69,9,60,0,0
+"1332","new york","st. lawrence","nonmetropolitan  ",13,0,1,1,11,52,16,34,2,0
+"1333","new york","sullivan","nonmetropolitan  ",28,1,1,4,22,477,134,325,18,10
+"1334","new york","wyoming","nonmetropolitan  ",13,0,0,0,13,217,55,154,8,0
+"1335","new york","yates","nonmetropolitan  ",6,0,0,2,4,152,55,96,1,0
+"1336","north carolina","alamance","metropolitan  ",161,1,5,16,139,1275,493,712,70,5
+"1337","north carolina","alexander","metropolitan  ",78,3,9,10,56,758,298,418,42,7
+"1338","north carolina","anson","metropolitan  ",83,4,4,15,60,608,247,300,61,1
+"1339","north carolina","brunswick","metropolitan  ",162,2,21,27,112,2147,961,1036,150,32
+"1340","north carolina","buncombe","metropolitan  ",194,5,24,50,115,2462,877,1356,229,7
+"1341","north carolina","burke","metropolitan  ",100,3,7,18,72,1295,545,649,101,3
+"1342","north carolina","cabarrus","metropolitan  ",73,4,11,16,42,1160,519,583,58,7
+"1343","north carolina","caldwell","metropolitan  ",63,3,2,12,46,1472,519,856,97,17
+"1344","north carolina","cumberland","metropolitan  ",740,13,34,182,511,4852,1335,3164,353,41
+"1345","north carolina","currituck","metropolitan  ",44,1,4,2,37,514,170,325,19,2
+"1346","north carolina","davie","metropolitan  ",43,1,4,7,31,671,259,380,32,2
+"1347","north carolina","durham","metropolitan  ",60,1,1,19,39,922,309,542,71,2
+"1348","north carolina","edgecombe","metropolitan  ",71,4,8,13,46,586,292,229,65,7
+"1349","north carolina","franklin5","metropolitan  ",NA,1,5,14,NA,868,382,387,99,6
+"1350","north carolina","gaston","metropolitan  ",16,0,0,0,16,4,0,3,1,0
+"1351","north carolina","guilford","metropolitan  ",216,2,22,41,151,2154,870,1117,167,33
+"1352","north carolina","haywood","metropolitan  ",98,0,6,4,88,958,390,517,51,5
+"1353","north carolina","henderson","metropolitan  ",71,0,12,17,42,1582,626,816,140,1
+"1354","north carolina","hoke","metropolitan  ",26,2,1,16,7,789,558,193,38,1
+"1355","north carolina","johnston","metropolitan  ",187,3,25,35,124,2691,1001,1436,254,11
+"1356","north carolina","madison","metropolitan  ",4,0,2,0,2,217,91,113,13,1
+"1357","north carolina","nash","metropolitan  ",79,2,7,25,45,842,374,319,149,17
+"1358","north carolina","new hanover","metropolitan  ",184,1,25,50,108,2635,676,1823,136,11
+"1359","north carolina","onslow","metropolitan  ",289,6,31,49,203,3148,1127,1812,209,22
+"1360","north carolina","orange","metropolitan  ",50,5,5,29,11,822,427,345,50,3
+"1361","north carolina","person","metropolitan  ",67,2,5,6,54,626,231,351,44,1
+"1362","north carolina","pitt","metropolitan  ",255,1,10,36,208,1835,736,984,115,6
+"1363","north carolina","randolph","metropolitan  ",124,1,3,22,98,2208,647,1411,150,8
+"1364","north carolina","rockingham","metropolitan  ",72,1,3,18,50,1517,532,864,121,1
+"1365","north carolina","stokes","metropolitan  ",101,1,4,7,89,973,336,557,80,4
+"1366","north carolina","union","metropolitan  ",311,5,17,22,267,2104,894,1087,123,11
+"1367","north carolina","wake","metropolitan  ",165,3,15,34,113,1903,677,1010,216,13
+"1368","north carolina","wayne","metropolitan  ",171,4,1,32,134,2101,819,1066,216,2
+"1369","north carolina","yadkin","metropolitan  ",103,0,13,5,85,621,235,325,61,7
+"1370","north carolina","alleghany","nonmetropolitan  ",1,0,0,1,0,28,2,26,0,0
+"1371","north carolina","ashe","nonmetropolitan  ",23,0,4,2,17,413,206,180,27,NA
+"1372","north carolina","avery","nonmetropolitan  ",20,0,4,0,16,195,64,120,11,1
+"1373","north carolina","beaufort","nonmetropolitan  ",130,1,8,13,108,778,325,391,62,14
+"1374","north carolina","bertie","nonmetropolitan  ",26,1,5,6,14,289,132,131,26,2
+"1375","north carolina","bladen","nonmetropolitan  ",139,2,1,19,117,1074,381,637,56,11
+"1376","north carolina","camden","nonmetropolitan  ",9,0,2,1,6,98,30,65,3,1
+"1377","north carolina","cherokee","nonmetropolitan  ",39,0,2,1,36,549,171,366,12,3
+"1378","north carolina","chowan","nonmetropolitan  ",24,0,1,2,21,170,75,91,4,3
+"1379","north carolina","clay","nonmetropolitan  ",11,0,0,0,11,153,35,106,12,1
+"1380","north carolina","cleveland","nonmetropolitan  ",52,0,27,21,4,1537,665,691,181,2
+"1381","north carolina","columbus","nonmetropolitan  ",161,3,3,36,119,1705,767,758,180,5
+"1382","north carolina","dare","nonmetropolitan  ",41,0,6,2,33,706,179,491,36,4
+"1383","north carolina","gates","nonmetropolitan  ",9,0,3,1,5,227,62,145,20,2
+"1384","north carolina","granville","nonmetropolitan  ",60,0,7,12,41,891,336,482,73,8
+"1385","north carolina","halifax","nonmetropolitan  ",161,3,8,30,120,1103,563,432,108,16
+"1386","north carolina","hertford","nonmetropolitan  ",30,3,2,9,16,398,166,192,40,2
+"1387","north carolina","iredell","nonmetropolitan  ",225,3,25,20,177,1914,705,1058,151,10
+"1388","north carolina","lee","nonmetropolitan  ",41,3,3,9,26,734,287,364,83,12
+"1389","north carolina","lenoir","nonmetropolitan  ",170,0,2,14,154,1051,359,638,54,13
+"1390","north carolina","lincoln","nonmetropolitan  ",98,1,14,10,73,1819,681,1060,78,8
+"1391","north carolina","martin5","nonmetropolitan  ",NA,1,3,6,NA,448,202,195,51,9
+"1392","north carolina","mcdowell","nonmetropolitan  ",54,5,2,12,35,661,266,345,50,5
+"1393","north carolina","montgomery","nonmetropolitan  ",64,2,3,6,53,482,172,266,44,1
+"1394","north carolina","moore","nonmetropolitan  ",56,2,12,5,37,866,395,385,86,12
+"1395","north carolina","pasquotank","nonmetropolitan  ",76,1,8,14,53,344,143,187,14,3
+"1396","north carolina","perquimans","nonmetropolitan  ",4,0,2,0,2,146,73,69,4,1
+"1397","north carolina","richmond","nonmetropolitan  ",150,5,2,31,112,1160,478,606,76,13
+"1398","north carolina","robeson","nonmetropolitan  ",628,17,18,139,454,4085,2137,1524,424,34
+"1399","north carolina","rowan","nonmetropolitan  ",199,3,16,26,154,1468,493,882,93,13
+"1400","north carolina","rutherford","nonmetropolitan  ",157,0,11,23,123,1373,480,783,110,20
+"1401","north carolina","sampson","nonmetropolitan  ",144,6,14,35,89,1434,739,554,141,9
+"1402","north carolina","scotland","nonmetropolitan  ",55,6,2,12,35,754,445,259,50,19
+"1403","north carolina","stanly","nonmetropolitan  ",36,2,7,6,21,549,243,281,25,4
+"1404","north carolina","transylvania","nonmetropolitan  ",36,0,2,1,33,385,169,186,30,5
+"1405","north carolina","tyrrell","nonmetropolitan  ",7,0,2,1,4,64,3,58,3,1
+"1406","north carolina","vance","nonmetropolitan  ",83,5,1,17,60,1398,721,594,83,8
+"1407","north carolina","warren","nonmetropolitan  ",39,1,6,10,22,553,240,270,43,5
+"1408","north carolina","watauga","nonmetropolitan  ",22,1,0,3,18,497,185,288,24,1
+"1409","north carolina","wilkes","nonmetropolitan  ",174,2,3,18,151,1332,555,689,88,4
+"1410","north carolina","wilson","nonmetropolitan  ",98,1,1,15,81,777,245,457,75,9
+"1411","north carolina","yancey","nonmetropolitan  ",14,0,0,1,13,144,71,65,8,1
+"1412","north dakota","burleigh","metropolitan  ",22,0,9,0,13,157,46,101,10,1
+"1413","north dakota","cass","metropolitan  ",4,0,1,0,3,185,57,112,16,2
+"1414","north dakota","grand forks","metropolitan  ",6,0,0,0,6,69,18,39,12,0
+"1415","north dakota","morton","metropolitan  ",11,0,6,0,5,78,14,59,5,0
+"1416","north dakota","barnes","nonmetropolitan  ",1,0,0,0,1,28,8,17,3,0
+"1417","north dakota","bottineau","nonmetropolitan  ",0,0,0,0,0,21,9,11,1,0
+"1418","north dakota","burke","nonmetropolitan  ",0,0,0,0,0,21,10,10,1,0
+"1419","north dakota","cavalier","nonmetropolitan  ",2,0,0,0,2,37,3,30,4,0
+"1420","north dakota","dickey","nonmetropolitan  ",0,0,0,0,0,16,2,13,1,0
+"1421","north dakota","eddy","nonmetropolitan  ",1,0,0,0,1,9,4,5,0,0
+"1422","north dakota","emmons","nonmetropolitan  ",1,0,0,0,1,29,14,14,1,0
+"1423","north dakota","griggs","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1424","north dakota","hettinger","nonmetropolitan  ",0,0,0,0,0,9,1,6,2,0
+"1425","north dakota","kidder","nonmetropolitan  ",0,0,0,0,0,2,1,1,0,0
+"1426","north dakota","lamoure","nonmetropolitan  ",2,0,0,0,2,4,1,2,1,0
+"1427","north dakota","logan","nonmetropolitan  ",0,0,0,0,0,4,0,4,0,0
+"1428","north dakota","mchenry","nonmetropolitan  ",0,0,0,0,0,24,5,16,3,0
+"1429","north dakota","mcintosh","nonmetropolitan  ",1,0,0,0,1,5,0,5,0,0
+"1430","north dakota","mckenzie","nonmetropolitan  ",0,0,0,0,0,31,4,24,3,0
+"1431","north dakota","mclean","nonmetropolitan  ",14,0,4,0,10,125,39,80,6,0
+"1432","north dakota","mercer","nonmetropolitan  ",2,0,0,0,2,19,7,8,4,0
+"1433","north dakota","mountrail","nonmetropolitan  ",3,0,0,0,3,56,10,41,5,0
+"1434","north dakota","nelson","nonmetropolitan  ",2,0,0,0,2,21,4,10,7,0
+"1435","north dakota","oliver","nonmetropolitan  ",0,0,0,0,0,4,0,4,0,0
+"1436","north dakota","pembina","nonmetropolitan  ",3,0,0,0,3,27,6,15,6,0
+"1437","north dakota","pierce","nonmetropolitan  ",0,0,0,0,0,1,1,0,0,0
+"1438","north dakota","ramsey","nonmetropolitan  ",1,0,0,0,1,32,5,20,7,0
+"1439","north dakota","renville","nonmetropolitan  ",0,0,0,0,0,6,1,5,0,0
+"1440","north dakota","richland","nonmetropolitan  ",14,0,1,1,12,84,25,54,5,0
+"1441","north dakota","sargent","nonmetropolitan  ",1,0,0,0,1,25,0,25,0,0
+"1442","north dakota","sheridan","nonmetropolitan  ",0,0,0,0,0,9,2,6,1,0
+"1443","north dakota","stark","nonmetropolitan  ",6,0,1,0,5,78,4,54,20,1
+"1444","north dakota","stutsman","nonmetropolitan  ",3,0,3,0,0,52,13,35,4,2
+"1445","north dakota","towner","nonmetropolitan  ",0,0,0,0,0,24,11,13,0,0
+"1446","north dakota","traill","nonmetropolitan  ",0,0,0,0,0,29,7,13,9,2
+"1447","north dakota","walsh","nonmetropolitan  ",5,0,3,0,2,110,44,51,15,1
+"1448","north dakota","ward","nonmetropolitan  ",17,0,4,0,13,111,39,61,11,1
+"1449","north dakota","wells","nonmetropolitan  ",0,0,0,0,0,36,23,13,0,0
+"1450","north dakota","williams","nonmetropolitan  ",12,0,2,0,10,105,41,52,12,2
+"1451","ohio","allen","metropolitan  ",55,0,12,22,21,1273,270,969,34,2
+"1452","ohio","belmont","metropolitan  ",28,0,12,6,10,562,162,350,50,6
+"1453","ohio","brown","metropolitan  ",9,0,3,2,4,471,174,281,16,2
+"1454","ohio","carroll","metropolitan  ",1,0,1,0,0,90,25,58,7,2
+"1455","ohio","clark","metropolitan  ",19,1,4,5,9,1359,346,948,65,7
+"1456","ohio","clermont","metropolitan  ",61,1,28,13,19,1788,492,1203,93,12
+"1457","ohio","erie","metropolitan  ",33,1,2,5,25,593,177,377,39,1
+"1458","ohio","fairfield","metropolitan  ",26,1,8,10,7,1202,309,846,47,4
+"1459","ohio","fulton","metropolitan  ",18,0,8,2,8,360,111,225,24,2
+"1460","ohio","geauga","metropolitan  ",6,1,1,1,3,224,50,166,8,1
+"1461","ohio","greene","metropolitan  ",22,0,7,3,12,425,157,247,21,6
+"1462","ohio","hamilton","metropolitan  ",317,3,51,185,78,6621,1110,5292,219,50
+"1463","ohio","jefferson","metropolitan  ",25,0,3,1,21,408,109,274,25,3
+"1464","ohio","licking","metropolitan  ",23,0,1,10,12,1107,321,688,98,4
+"1465","ohio","lorain","metropolitan  ",39,0,13,14,12,789,417,353,19,19
+"1466","ohio","lucas","metropolitan  ",85,0,13,16,56,1409,338,957,114,12
+"1467","ohio","mahoning","metropolitan  ",10,0,0,3,7,252,60,182,10,0
+"1468","ohio","miami","metropolitan  ",5,0,4,0,1,561,155,372,34,9
+"1469","ohio","morrow","metropolitan  ",4,0,1,2,1,255,94,146,15,0
+"1470","ohio","ottawa","metropolitan  ",5,0,4,1,0,352,68,274,10,0
+"1471","ohio","pickaway","metropolitan  ",45,0,6,4,35,1093,408,658,27,11
+"1472","ohio","portage","metropolitan  ",27,0,8,14,5,1799,516,1177,106,11
+"1473","ohio","preble","metropolitan  ",22,0,5,1,16,428,152,256,20,5
+"1474","ohio","richland","metropolitan  ",41,0,15,5,21,1249,403,789,57,12
+"1475","ohio","summit","metropolitan  ",41,3,9,14,15,1161,247,838,76,9
+"1476","ohio","trumbull","metropolitan  ",27,2,6,1,18,505,147,295,63,2
+"1477","ohio","union","metropolitan  ",11,0,2,0,9,352,98,244,10,2
+"1478","ohio","washington","metropolitan  ",75,2,14,1,58,396,121,256,19,1
+"1479","ohio","wood","metropolitan  ",2,0,0,2,0,471,183,268,20,3
+"1480","ohio","adams","nonmetropolitan  ",7,1,2,1,3,441,172,255,14,2
+"1481","ohio","ashland","nonmetropolitan  ",10,0,1,0,9,271,113,145,13,4
+"1482","ohio","athens","nonmetropolitan  ",11,0,2,0,9,46,10,36,0,2
+"1483","ohio","auglaize","nonmetropolitan  ",5,0,3,0,2,294,67,222,5,0
+"1484","ohio","champaign","nonmetropolitan  ",13,0,7,0,6,426,139,244,43,8
+"1485","ohio","coshocton","nonmetropolitan  ",18,2,5,1,10,783,183,578,22,11
+"1486","ohio","crawford","nonmetropolitan  ",5,0,1,1,3,245,71,165,9,0
+"1487","ohio","darke","nonmetropolitan  ",49,0,13,2,34,391,142,236,13,5
+"1488","ohio","fayette","nonmetropolitan  ",18,0,8,5,5,576,128,434,14,2
+"1489","ohio","guernsey","nonmetropolitan  ",14,0,10,0,4,366,153,199,14,3
+"1490","ohio","hancock","nonmetropolitan  ",7,0,2,0,5,325,111,205,9,7
+"1491","ohio","hardin","nonmetropolitan  ",5,0,1,2,2,336,119,209,8,0
+"1492","ohio","harrison","nonmetropolitan  ",7,0,1,1,5,125,40,68,17,2
+"1493","ohio","highland","nonmetropolitan  ",11,0,1,0,10,404,144,245,15,2
+"1494","ohio","hocking","nonmetropolitan  ",10,0,3,1,6,417,193,206,18,7
+"1495","ohio","holmes","nonmetropolitan  ",9,1,3,1,4,220,59,144,17,0
+"1496","ohio","huron","nonmetropolitan  ",12,0,1,0,11,454,156,255,43,1
+"1497","ohio","marion","nonmetropolitan  ",12,0,3,5,4,716,118,588,10,0
+"1498","ohio","meigs","nonmetropolitan  ",14,0,5,5,4,362,177,165,20,2
+"1499","ohio","mercer","nonmetropolitan  ",13,5,2,1,5,237,44,180,13,1
+"1500","ohio","morgan","nonmetropolitan  ",6,1,1,0,4,221,88,116,17,2
+"1501","ohio","muskingum","nonmetropolitan  ",57,2,34,13,8,1290,322,884,84,10
+"1502","ohio","paulding","nonmetropolitan  ",10,0,2,0,8,202,68,134,0,3
+"1503","ohio","pike","nonmetropolitan  ",8,0,2,3,3,303,77,204,22,3
+"1504","ohio","ross","nonmetropolitan  ",38,1,15,11,11,1860,506,1237,117,13
+"1505","ohio","van wert","nonmetropolitan  ",2,0,1,0,1,259,93,163,3,0
+"1506","ohio","wayne","nonmetropolitan  ",34,0,13,2,19,686,344,321,21,6
+"1507","ohio","williams","nonmetropolitan  ",12,0,8,1,3,291,44,214,33,6
+"1508","oklahoma","canadian","metropolitan  ",42,0,9,1,32,76,39,26,11,0
+"1509","oklahoma","cleveland","metropolitan  ",47,1,7,0,39,291,112,136,43,6
+"1510","oklahoma","comanche","metropolitan  ",13,0,2,2,9,149,78,62,9,0
+"1511","oklahoma","creek","metropolitan  ",47,1,11,4,31,547,223,290,34,10
+"1512","oklahoma","grady","metropolitan  ",10,1,2,1,6,311,86,191,34,6
+"1513","oklahoma","le flore","metropolitan  ",63,1,5,0,57,244,88,103,53,5
+"1514","oklahoma","lincoln","metropolitan  ",38,2,7,0,29,265,79,145,41,4
+"1515","oklahoma","logan","metropolitan  ",47,1,9,0,37,240,67,151,22,8
+"1516","oklahoma","mcclain","metropolitan  ",14,0,4,0,10,164,48,91,25,2
+"1517","oklahoma","oklahoma","metropolitan  ",33,3,1,2,27,278,89,140,49,0
+"1518","oklahoma","okmulgee","metropolitan  ",13,0,1,2,10,116,53,49,14,6
+"1519","oklahoma","pawnee","metropolitan  ",26,1,1,1,23,133,45,78,10,1
+"1520","oklahoma","rogers","metropolitan  ",5,1,1,0,3,291,121,128,42,1
+"1521","oklahoma","sequoyah","metropolitan  ",214,2,16,6,190,278,119,122,37,6
+"1522","oklahoma","tulsa","metropolitan  ",311,5,16,15,275,1066,380,601,85,6
+"1523","oklahoma","wagoner","metropolitan  ",36,1,6,1,28,387,146,183,58,4
+"1524","oklahoma","adair5","nonmetropolitan  ",NA,4,1,0,NA,141,57,51,33,12
+"1525","oklahoma","alfalfa","nonmetropolitan  ",1,0,0,0,1,40,6,26,8,3
+"1526","oklahoma","atoka","nonmetropolitan  ",24,0,6,0,18,149,52,76,21,9
+"1527","oklahoma","beaver","nonmetropolitan  ",1,0,0,1,0,31,5,24,2,0
+"1528","oklahoma","beckham","nonmetropolitan  ",11,1,3,0,7,72,16,44,12,1
+"1529","oklahoma","blaine","nonmetropolitan  ",12,1,2,0,9,58,11,42,5,0
+"1530","oklahoma","bryan","nonmetropolitan  ",41,0,5,2,34,354,150,161,43,11
+"1531","oklahoma","carter","nonmetropolitan  ",39,0,4,1,34,177,66,93,18,5
+"1532","oklahoma","cherokee","nonmetropolitan  ",99,1,2,0,96,502,224,223,55,2
+"1533","oklahoma","choctaw","nonmetropolitan  ",22,2,0,3,17,170,58,93,19,4
+"1534","oklahoma","cimarron","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1535","oklahoma","coal","nonmetropolitan  ",12,1,0,0,11,112,13,89,10,2
+"1536","oklahoma","cotton","nonmetropolitan  ",1,0,0,0,1,6,2,3,1,0
+"1537","oklahoma","craig","nonmetropolitan  ",4,2,0,1,1,122,51,64,7,1
+"1538","oklahoma","custer","nonmetropolitan  ",11,0,1,1,9,67,14,53,0,5
+"1539","oklahoma","delaware","nonmetropolitan  ",84,0,15,1,68,457,229,197,31,9
+"1540","oklahoma","dewey","nonmetropolitan  ",0,0,0,0,0,19,6,13,0,0
+"1541","oklahoma","ellis","nonmetropolitan  ",3,0,0,0,3,19,8,8,3,1
+"1542","oklahoma","garfield","nonmetropolitan  ",3,0,0,1,2,102,22,65,15,2
+"1543","oklahoma","garvin","nonmetropolitan  ",26,0,5,2,19,160,37,113,10,6
+"1544","oklahoma","grant","nonmetropolitan  ",3,0,0,0,3,53,11,41,1,0
+"1545","oklahoma","harmon","nonmetropolitan  ",0,0,0,0,0,16,9,7,0,0
+"1546","oklahoma","harper","nonmetropolitan  ",4,0,0,0,4,23,4,14,5,0
+"1547","oklahoma","hughes","nonmetropolitan  ",1,1,0,0,0,134,41,67,26,1
+"1548","oklahoma","jackson","nonmetropolitan  ",5,1,0,0,4,69,30,32,7,1
+"1549","oklahoma","jefferson","nonmetropolitan  ",10,0,1,0,9,26,11,14,1,0
+"1550","oklahoma","johnston","nonmetropolitan  ",13,1,0,0,12,8,6,2,0,1
+"1551","oklahoma","kingfisher","nonmetropolitan  ",11,0,0,0,11,89,29,48,12,2
+"1552","oklahoma","kiowa","nonmetropolitan  ",14,0,0,0,14,49,18,28,3,1
+"1553","oklahoma","latimer","nonmetropolitan  ",21,1,0,1,19,84,22,37,25,3
+"1554","oklahoma","love","nonmetropolitan  ",7,0,1,0,6,86,21,47,18,1
+"1555","oklahoma","major","nonmetropolitan  ",1,0,0,0,1,34,5,28,1,0
+"1556","oklahoma","marshall","nonmetropolitan  ",41,0,3,0,38,109,30,61,18,3
+"1557","oklahoma","mayes","nonmetropolitan  ",16,0,1,0,15,217,89,115,13,0
+"1558","oklahoma","mcintosh","nonmetropolitan  ",35,0,6,2,27,339,132,187,20,7
+"1559","oklahoma","murray","nonmetropolitan  ",11,0,1,0,10,46,21,23,2,2
+"1560","oklahoma","muskogee","nonmetropolitan  ",67,0,5,4,58,300,108,143,49,15
+"1561","oklahoma","noble","nonmetropolitan  ",4,0,1,0,3,84,21,56,7,1
+"1562","oklahoma","nowata","nonmetropolitan  ",28,0,1,0,27,75,31,33,11,1
+"1563","oklahoma","okfuskee","nonmetropolitan  ",17,2,2,1,12,58,27,23,8,4
+"1564","oklahoma","payne","nonmetropolitan  ",28,0,2,1,25,202,87,94,21,10
+"1565","oklahoma","pittsburg5","nonmetropolitan  ",NA,2,3,1,NA,474,192,260,22,23
+"1566","oklahoma","pontotoc5","nonmetropolitan  ",NA,0,2,1,NA,210,80,115,15,7
+"1567","oklahoma","pottawatomie","nonmetropolitan  ",56,1,7,0,48,558,203,300,55,6
+"1568","oklahoma","pushmataha","nonmetropolitan  ",4,0,1,0,3,111,55,36,20,5
+"1569","oklahoma","roger mills","nonmetropolitan  ",2,0,0,0,2,51,11,38,2,2
+"1570","oklahoma","seminole","nonmetropolitan  ",46,1,1,2,42,266,71,184,11,13
+"1571","oklahoma","stephens","nonmetropolitan  ",44,0,7,0,37,134,39,78,17,11
+"1572","oklahoma","texas","nonmetropolitan  ",5,0,2,0,3,50,12,36,2,0
+"1573","oklahoma","tillman","nonmetropolitan  ",1,0,1,0,0,32,18,13,1,4
+"1574","oklahoma","washita","nonmetropolitan  ",13,1,5,0,7,46,13,25,8,4
+"1575","oklahoma","woods","nonmetropolitan  ",5,1,2,0,2,28,3,22,3,2
+"1576","oklahoma","woodward","nonmetropolitan  ",13,0,0,1,12,101,36,51,14,1
+"1577","oregon","benton","metropolitan  ",27,1,6,0,20,281,90,177,14,5
+"1578","oregon","clackamas","metropolitan  ",237,4,39,108,86,5548,849,4215,484,21
+"1579","oregon","deschutes","metropolitan  ",87,0,18,3,66,903,222,627,54,11
+"1580","oregon","jackson","metropolitan  ",122,2,13,13,94,868,195,609,64,8
+"1581","oregon","lane","metropolitan  ",300,4,25,21,250,1485,567,708,210,17
+"1582","oregon","marion","metropolitan  ",92,0,15,36,41,2663,615,1748,300,5
+"1583","oregon","multnomah","metropolitan  ",39,1,3,8,27,920,127,722,71,5
+"1584","oregon","polk","metropolitan  ",31,0,4,1,26,335,85,222,28,10
+"1585","oregon","washington","metropolitan  ",270,1,73,68,128,3341,699,2369,273,31
+"1586","oregon","yamhill","metropolitan  ",33,0,7,3,23,563,121,389,53,7
+"1587","oregon","clatsop","nonmetropolitan  ",14,0,2,1,11,187,46,128,13,1
+"1588","oregon","crook","nonmetropolitan  ",25,0,7,1,17,137,57,75,5,4
+"1589","oregon","curry","nonmetropolitan  ",32,1,1,1,29,191,38,141,12,1
+"1590","oregon","douglas","nonmetropolitan  ",41,0,14,5,22,949,259,641,49,17
+"1591","oregon","gilliam","nonmetropolitan  ",0,0,0,0,0,46,7,32,7,1
+"1592","oregon","grant","nonmetropolitan  ",0,0,0,0,0,70,10,58,2,1
+"1593","oregon","harney","nonmetropolitan  ",0,0,0,0,0,21,3,15,3,0
+"1594","oregon","hood river","nonmetropolitan  ",13,0,0,3,10,261,71,178,12,1
+"1595","oregon","jefferson","nonmetropolitan  ",6,0,1,2,3,225,50,143,32,3
+"1596","oregon","klamath","nonmetropolitan  ",61,0,9,8,44,648,172,418,58,4
+"1597","oregon","lake","nonmetropolitan  ",0,0,0,0,0,47,7,36,4,0
+"1598","oregon","lincoln","nonmetropolitan  ",25,0,4,1,20,433,146,266,21,3
+"1599","oregon","linn","nonmetropolitan  ",11,2,1,4,4,979,315,594,70,6
+"1600","oregon","malheur","nonmetropolitan  ",8,0,3,0,5,169,50,106,13,4
+"1601","oregon","morrow","nonmetropolitan  ",23,0,1,0,22,194,39,142,13,3
+"1602","oregon","sherman","nonmetropolitan  ",1,0,0,0,1,45,11,32,2,1
+"1603","oregon","tillamook","nonmetropolitan  ",12,0,2,1,9,258,94,145,19,4
+"1604","oregon","umatilla","nonmetropolitan  ",38,1,8,1,28,355,109,178,68,6
+"1605","oregon","union","nonmetropolitan  ",5,0,0,0,5,129,32,88,9,0
+"1606","oregon","wallowa","nonmetropolitan  ",0,0,0,0,0,53,10,36,7,1
+"1607","oregon","wasco","nonmetropolitan  ",6,0,0,1,5,176,42,114,20,0
+"1608","pennsylvania","allegheny county police department","metropolitan  ",46,0,7,1,38,218,5,193,20,92
+"1609","pennsylvania","beaver","metropolitan  ",0,0,0,0,0,5,0,5,0,0
+"1610","pennsylvania","cumberland","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1611","pennsylvania","luzerne","metropolitan  ",2,0,0,0,2,8,0,8,0,0
+"1612","pennsylvania","montgomery","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1613","pennsylvania","pike","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1614","pennsylvania","washington","metropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1615","pennsylvania","york","metropolitan  ",2,0,0,1,1,2,1,1,0,0
+"1616","pennsylvania","bradford","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1617","pennsylvania","clarion","nonmetropolitan  ",0,0,0,0,0,4,2,2,0,0
+"1618","pennsylvania","elk","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1619","pennsylvania","franklin","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1620","pennsylvania","greene","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1621","pennsylvania","jefferson","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1622","pennsylvania","snyder","nonmetropolitan  ",0,0,0,0,0,3,1,1,1,0
+"1623","pennsylvania","tioga","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1624","south carolina","aiken","metropolitan  ",432,4,49,108,271,3431,1096,1911,424,16
+"1625","south carolina","anderson5","metropolitan  ",895,13,38,121,723,NA,NA,4069,800,23
+"1626","south carolina","berkeley","metropolitan  ",597,9,41,107,440,3599,1041,2101,457,12
+"1627","south carolina","calhoun","metropolitan  ",39,0,1,3,35,352,100,178,74,6
+"1628","south carolina","dorchester","metropolitan  ",433,4,12,95,322,2276,711,1331,234,13
+"1629","south carolina","edgefield","metropolitan  ",28,1,4,4,19,376,78,260,38,1
+"1630","south carolina","fairfield","metropolitan  ",216,3,9,15,189,581,153,344,84,0
+"1631","south carolina","florence","metropolitan  ",580,5,30,120,425,2971,721,1944,306,18
+"1632","south carolina","greenville","metropolitan  ",2242,28,108,518,1588,10891,2945,6708,1238,32
+"1633","south carolina","horry","metropolitan  ",0,0,0,0,0,41,0,41,0,0
+"1634","south carolina","horry county police department","metropolitan  ",1245,12,44,151,1038,8153,2045,5145,963,37
+"1635","south carolina","kershaw","metropolitan  ",214,2,13,23,176,1369,405,802,162,14
+"1636","south carolina","laurens","metropolitan  ",316,2,22,31,261,1430,444,752,234,12
+"1637","south carolina","pickens","metropolitan  ",248,0,24,12,212,1751,489,1049,213,13
+"1638","south carolina","richland","metropolitan  ",2438,15,77,496,1850,9785,2414,6050,1321,35
+"1639","south carolina","saluda","metropolitan  ",50,0,12,5,33,226,58,153,15,2
+"1640","south carolina","spartanburg","metropolitan  ",908,12,88,197,611,7098,1838,4569,691,65
+"1641","south carolina","york","metropolitan  ",552,4,47,57,444,3192,938,2021,233,11
+"1642","south carolina","abbeville","nonmetropolitan  ",53,1,4,3,45,340,77,234,29,4
+"1643","south carolina","bamberg","nonmetropolitan  ",40,0,2,2,36,288,90,156,42,4
+"1644","south carolina","barnwell","nonmetropolitan  ",128,0,4,5,119,428,125,273,30,3
+"1645","south carolina","beaufort","nonmetropolitan  ",710,6,17,130,557,4286,1236,2780,270,21
+"1646","south carolina","cherokee","nonmetropolitan  ",118,4,0,24,90,1312,436,765,111,5
+"1647","south carolina","chester","nonmetropolitan  ",211,2,9,29,171,920,307,558,55,9
+"1648","south carolina","chesterfield","nonmetropolitan  ",157,0,7,7,143,897,252,577,68,3
+"1649","south carolina","clarendon","nonmetropolitan  ",182,1,11,29,141,1013,250,623,140,1
+"1650","south carolina","dillon","nonmetropolitan  ",329,2,11,56,260,1073,328,645,100,7
+"1651","south carolina","georgetown","nonmetropolitan  ",296,2,20,25,249,1704,476,1113,115,6
+"1652","south carolina","greenwood","nonmetropolitan  ",301,2,11,9,279,1600,347,1150,103,4
+"1653","south carolina","hampton","nonmetropolitan  ",104,1,5,7,91,343,118,201,24,0
+"1654","south carolina","jasper","nonmetropolitan  ",134,5,11,23,95,791,211,481,99,9
+"1655","south carolina","lancaster","nonmetropolitan  ",269,2,27,32,208,2064,751,1168,145,8
+"1656","south carolina","lee","nonmetropolitan  ",89,2,5,7,75,545,165,301,79,5
+"1657","south carolina","marion","nonmetropolitan  ",161,0,2,11,148,837,257,501,79,5
+"1658","south carolina","marlboro","nonmetropolitan  ",156,2,6,9,139,694,211,421,62,5
+"1659","south carolina","mccormick","nonmetropolitan  ",44,1,6,2,35,97,22,61,14,2
+"1660","south carolina","newberry","nonmetropolitan  ",68,0,3,5,60,461,72,364,25,0
+"1661","south carolina","oconee","nonmetropolitan  ",279,2,23,18,236,1419,447,875,97,7
+"1662","south carolina","orangeburg","nonmetropolitan  ",456,7,32,84,333,3905,1337,2013,555,7
+"1663","south carolina","union","nonmetropolitan  ",101,2,3,11,85,460,146,277,37,7
+"1664","south carolina","williamsburg","nonmetropolitan  ",168,5,5,40,118,877,287,479,111,18
+"1665","south dakota","lincoln","metropolitan  ",4,0,1,0,3,75,23,44,8,0
+"1666","south dakota","minnehaha","metropolitan  ",36,1,13,1,21,333,104,192,37,1
+"1667","south dakota","pennington","metropolitan  ",105,1,56,2,46,360,104,245,11,4
+"1668","south dakota","turner","metropolitan  ",9,1,0,0,8,28,6,18,4,1
+"1669","south dakota","union","metropolitan  ",2,0,1,0,1,42,12,30,0,0
+"1670","south dakota","aurora","nonmetropolitan  ",2,0,0,0,2,1,0,1,0,0
+"1671","south dakota","beadle","nonmetropolitan  ",1,0,0,0,1,25,2,23,0,1
+"1672","south dakota","bennett","nonmetropolitan  ",9,0,0,0,9,21,8,9,4,1
+"1673","south dakota","bon homme","nonmetropolitan  ",0,0,0,0,0,3,0,3,0,0
+"1674","south dakota","brookings","nonmetropolitan  ",7,0,3,0,4,79,16,60,3,0
+"1675","south dakota","brown","nonmetropolitan  ",5,0,2,0,3,43,16,27,0,0
+"1676","south dakota","butte","nonmetropolitan  ",4,0,2,0,2,22,8,13,1,0
+"1677","south dakota","campbell","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1678","south dakota","charles mix","nonmetropolitan  ",13,0,2,0,11,51,29,11,11,1
+"1679","south dakota","clay","nonmetropolitan  ",0,0,0,0,0,17,5,12,0,0
+"1680","south dakota","codington","nonmetropolitan  ",4,0,3,0,1,44,19,22,3,0
+"1681","south dakota","corson","nonmetropolitan  ",0,0,0,0,0,9,1,8,0,0
+"1682","south dakota","custer","nonmetropolitan  ",7,0,1,0,6,85,30,51,4,0
+"1683","south dakota","davison","nonmetropolitan  ",0,0,0,0,0,6,2,3,1,0
+"1684","south dakota","deuel","nonmetropolitan  ",1,1,0,0,0,24,12,12,0,0
+"1685","south dakota","edmunds","nonmetropolitan  ",0,0,0,0,0,3,3,0,0,0
+"1686","south dakota","faulk","nonmetropolitan  ",3,0,0,0,3,13,4,8,1,0
+"1687","south dakota","hamlin","nonmetropolitan  ",4,0,1,0,3,37,14,20,3,0
+"1688","south dakota","harding","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"1689","south dakota","hughes","nonmetropolitan  ",2,0,1,0,1,9,5,4,0,0
+"1690","south dakota","lawrence","nonmetropolitan  ",4,0,0,1,3,52,18,31,3,0
+"1691","south dakota","marshall","nonmetropolitan  ",10,0,1,0,9,50,23,25,2,0
+"1692","south dakota","moody","nonmetropolitan  ",3,0,0,0,3,29,1,26,2,0
+"1693","south dakota","potter","nonmetropolitan  ",0,0,0,0,0,1,1,0,0,0
+"1694","south dakota","roberts","nonmetropolitan  ",9,0,2,0,7,11,7,3,1,0
+"1695","south dakota","sanborn","nonmetropolitan  ",4,0,3,0,1,12,6,4,2,0
+"1696","south dakota","spink","nonmetropolitan  ",8,0,1,1,6,40,9,25,6,1
+"1697","south dakota","stanley","nonmetropolitan  ",3,0,0,0,3,40,6,32,2,0
+"1698","south dakota","sully","nonmetropolitan  ",1,0,0,0,1,2,1,0,1,0
+"1699","south dakota","tripp","nonmetropolitan  ",0,0,0,0,0,10,2,8,0,0
+"1700","south dakota","walworth","nonmetropolitan  ",2,0,0,0,2,4,2,2,0,0
+"1701","south dakota","yankton","nonmetropolitan  ",2,0,0,0,2,15,2,13,0,0
+"1702","south dakota","ziebach","nonmetropolitan  ",1,0,0,0,1,1,1,0,0,0
+"1703","tennessee","anderson","metropolitan  ",136,1,15,9,111,924,360,472,92,15
+"1704","tennessee","blount","metropolitan  ",290,2,31,15,242,1694,776,781,137,6
+"1705","tennessee","bradley","metropolitan  ",285,1,18,8,258,1075,323,675,77,5
+"1706","tennessee","cannon","metropolitan  ",27,1,0,1,25,136,63,49,24,1
+"1707","tennessee","carter","metropolitan  ",52,1,4,1,46,635,204,372,59,3
+"1708","tennessee","chester","metropolitan  ",30,0,5,0,25,152,48,88,16,1
+"1709","tennessee","dickson","metropolitan  ",121,2,9,3,107,792,300,416,76,4
+"1710","tennessee","fayette","metropolitan  ",127,2,1,11,113,581,196,316,69,4
+"1711","tennessee","hamilton","metropolitan  ",293,2,17,14,260,2082,608,1322,152,1
+"1712","tennessee","hartsville-trousdale","metropolitan  ",35,0,2,3,30,172,53,109,10,1
+"1713","tennessee","hawkins","metropolitan  ",83,0,3,12,68,1109,415,593,101,2
+"1714","tennessee","hickman","metropolitan  ",44,1,6,1,36,326,95,186,45,5
+"1715","tennessee","jefferson","metropolitan  ",89,1,10,8,70,887,388,418,81,10
+"1716","tennessee","knox","metropolitan  ",557,6,23,116,412,5604,1709,3487,408,30
+"1717","tennessee","loudon","metropolitan  ",71,1,1,7,62,607,164,398,45,6
+"1718","tennessee","madison","metropolitan  ",159,3,9,11,136,926,306,521,99,4
+"1719","tennessee","marion","metropolitan  ",54,0,2,5,47,284,82,161,41,3
+"1720","tennessee","montgomery","metropolitan  ",139,0,12,4,123,839,214,538,87,4
+"1721","tennessee","polk","metropolitan  ",39,1,1,1,36,269,80,153,36,6
+"1722","tennessee","robertson","metropolitan  ",83,0,6,7,70,490,172,280,38,1
+"1723","tennessee","rutherford","metropolitan  ",263,3,24,5,231,1329,432,757,140,9
+"1724","tennessee","sequatchie","metropolitan  ",20,1,3,0,16,106,24,52,30,3
+"1725","tennessee","shelby","metropolitan  ",488,4,38,82,364,3696,1295,2155,246,21
+"1726","tennessee","stewart","metropolitan  ",42,0,4,0,38,181,99,65,17,3
+"1727","tennessee","sullivan","metropolitan  ",269,1,44,14,210,1782,696,926,160,17
+"1728","tennessee","sumner","metropolitan  ",143,0,13,8,122,784,238,482,64,8
+"1729","tennessee","tipton","metropolitan  ",275,0,13,8,254,654,188,357,109,2
+"1730","tennessee","unicoi","metropolitan  ",9,0,0,0,9,61,12,48,1,0
+"1731","tennessee","washington","metropolitan  ",249,2,14,10,223,961,367,531,63,7
+"1732","tennessee","williamson","metropolitan  ",71,1,2,5,63,518,160,327,31,5
+"1733","tennessee","wilson","metropolitan  ",253,1,20,3,229,1158,408,653,97,6
+"1734","tennessee","bedford","nonmetropolitan  ",32,0,1,0,31,355,131,204,20,8
+"1735","tennessee","benton","nonmetropolitan  ",22,0,0,0,22,183,36,130,17,0
+"1736","tennessee","bledsoe","nonmetropolitan  ",14,0,0,0,14,93,16,66,11,0
+"1737","tennessee","campbell","nonmetropolitan  ",166,1,5,9,151,1108,432,587,89,15
+"1738","tennessee","carroll","nonmetropolitan  ",29,0,0,1,28,150,40,80,30,1
+"1739","tennessee","claiborne","nonmetropolitan  ",103,1,6,9,87,736,304,384,48,8
+"1740","tennessee","clay","nonmetropolitan  ",13,1,1,1,10,63,32,28,3,1
+"1741","tennessee","coffee","nonmetropolitan  ",55,0,0,3,52,453,50,358,45,0
+"1742","tennessee","crockett","nonmetropolitan  ",19,0,1,2,16,104,29,63,12,0
+"1743","tennessee","decatur","nonmetropolitan  ",28,0,2,0,26,201,73,113,15,5
+"1744","tennessee","dekalb","nonmetropolitan  ",38,0,5,4,29,352,142,179,31,0
+"1745","tennessee","dyer","nonmetropolitan  ",49,0,3,2,44,340,94,215,31,0
+"1746","tennessee","fentress","nonmetropolitan  ",52,0,2,1,49,386,196,164,26,3
+"1747","tennessee","franklin","nonmetropolitan  ",32,0,6,3,23,283,73,183,27,4
+"1748","tennessee","gibson","nonmetropolitan  ",43,0,3,0,40,303,86,177,40,2
+"1749","tennessee","giles","nonmetropolitan  ",54,0,0,2,52,308,123,167,18,2
+"1750","tennessee","greene","nonmetropolitan  ",221,1,14,7,199,1068,413,541,114,25
+"1751","tennessee","grundy","nonmetropolitan  ",35,2,0,0,33,169,50,85,34,5
+"1752","tennessee","hancock","nonmetropolitan  ",1,0,0,1,0,132,54,69,9,1
+"1753","tennessee","hardin","nonmetropolitan  ",109,2,2,4,101,498,181,275,42,4
+"1754","tennessee","haywood","nonmetropolitan  ",55,0,4,7,44,266,109,127,30,0
+"1755","tennessee","henderson","nonmetropolitan  ",69,0,8,2,59,305,100,181,24,2
+"1756","tennessee","henry","nonmetropolitan  ",75,1,6,2,66,510,172,315,23,2
+"1757","tennessee","houston","nonmetropolitan  ",24,1,1,0,22,165,77,78,10,1
+"1758","tennessee","humphreys","nonmetropolitan  ",17,1,1,1,14,114,47,59,8,0
+"1759","tennessee","jackson","nonmetropolitan  ",20,0,3,1,16,141,49,76,16,0
+"1760","tennessee","johnson","nonmetropolitan  ",64,0,0,0,64,176,79,80,17,0
+"1761","tennessee","lake","nonmetropolitan  ",2,0,0,0,2,37,6,28,3,0
+"1762","tennessee","lauderdale","nonmetropolitan  ",62,1,4,2,55,277,94,146,37,0
+"1763","tennessee","lawrence","nonmetropolitan  ",90,2,10,4,74,621,240,318,63,12
+"1764","tennessee","lewis","nonmetropolitan  ",36,0,3,1,32,170,65,95,10,3
+"1765","tennessee","lincoln","nonmetropolitan  ",111,1,0,2,108,485,215,246,24,2
+"1766","tennessee","marshall","nonmetropolitan  ",48,0,0,0,48,190,51,122,17,0
+"1767","tennessee","maury","nonmetropolitan  ",143,0,11,11,121,893,249,553,91,8
+"1768","tennessee","mcminn","nonmetropolitan  ",99,0,4,5,90,833,251,501,81,6
+"1769","tennessee","mcnairy","nonmetropolitan  ",40,0,4,1,35,317,127,167,23,4
+"1770","tennessee","meigs","nonmetropolitan  ",37,0,4,1,32,312,89,180,43,9
+"1771","tennessee","monroe","nonmetropolitan  ",103,2,0,1,100,625,242,317,66,10
+"1772","tennessee","moore","nonmetropolitan  ",15,1,6,0,8,102,30,60,12,0
+"1773","tennessee","obion","nonmetropolitan  ",21,0,2,0,19,219,40,165,14,4
+"1774","tennessee","overton","nonmetropolitan  ",31,1,0,4,26,292,121,164,7,4
+"1775","tennessee","perry","nonmetropolitan  ",21,0,1,2,18,177,63,100,14,0
+"1776","tennessee","pickett","nonmetropolitan  ",1,0,0,0,1,72,12,59,1,0
+"1777","tennessee","putnam","nonmetropolitan  ",82,2,5,6,69,709,185,458,66,3
+"1778","tennessee","roane","nonmetropolitan  ",53,1,2,5,45,865,227,569,69,7
+"1779","tennessee","scott","nonmetropolitan  ",97,0,7,0,90,577,212,337,28,0
+"1780","tennessee","sevier","nonmetropolitan  ",136,0,19,6,111,2111,1109,876,126,2
+"1781","tennessee","van buren","nonmetropolitan  ",6,0,0,0,6,60,13,40,7,1
+"1782","tennessee","warren","nonmetropolitan  ",49,0,1,3,45,416,158,211,47,3
+"1783","tennessee","wayne","nonmetropolitan  ",18,0,1,0,17,80,26,49,5,6
+"1784","tennessee","weakley","nonmetropolitan  ",43,3,4,2,34,223,90,112,21,1
+"1785","tennessee","white","nonmetropolitan  ",112,1,0,2,109,375,82,258,35,1
+"1786","texas","aransas","metropolitan  ",27,1,2,3,21,455,172,253,30,0
+"1787","texas","archer","metropolitan  ",10,2,0,1,7,77,24,46,7,0
+"1788","texas","armstrong","metropolitan  ",0,0,0,0,0,10,4,6,0,0
+"1789","texas","atascosa","metropolitan  ",43,4,0,7,32,312,135,150,27,1
+"1790","texas","austin","metropolitan  ",8,1,0,0,7,127,46,64,17,0
+"1791","texas","bandera","metropolitan  ",12,1,2,0,9,209,76,132,1,3
+"1792","texas","bastrop","metropolitan  ",201,2,21,7,171,870,332,446,92,5
+"1793","texas","bell","metropolitan  ",88,2,35,3,48,883,242,604,37,45
+"1794","texas","bexar","metropolitan  ",650,19,90,123,418,7303,2391,4436,476,137
+"1795","texas","bowie","metropolitan  ",128,1,9,7,111,611,221,323,67,6
+"1796","texas","brazoria","metropolitan  ",72,0,3,21,48,1320,523,697,100,0
+"1797","texas","brazos","metropolitan  ",61,0,5,1,55,463,174,264,25,2
+"1798","texas","burleson","metropolitan  ",32,2,14,0,16,164,88,60,16,3
+"1799","texas","caldwell","metropolitan  ",45,0,5,6,34,162,78,81,3,3
+"1800","texas","calhoun","metropolitan  ",21,1,3,0,17,162,61,89,12,0
+"1801","texas","callahan","metropolitan  ",4,0,0,0,4,15,8,6,1,0
+"1802","texas","cameron","metropolitan  ",352,4,39,24,285,1726,806,804,116,6
+"1803","texas","carson","metropolitan  ",11,0,1,1,9,50,19,28,3,0
+"1804","texas","chambers","metropolitan  ",70,1,4,8,57,499,224,233,42,1
+"1805","texas","clay","metropolitan  ",16,1,5,1,9,187,62,114,11,0
+"1806","texas","collin","metropolitan  ",79,2,18,2,57,840,385,385,70,0
+"1807","texas","comal","metropolitan  ",169,2,17,5,145,945,284,602,59,7
+"1808","texas","coryell","metropolitan  ",10,0,1,1,8,152,78,70,4,0
+"1809","texas","crosby","metropolitan  ",4,0,1,0,3,7,2,2,3,0
+"1810","texas","dallas","metropolitan  ",28,0,1,6,21,378,81,259,38,18
+"1811","texas","delta","metropolitan  ",8,0,0,1,7,77,48,22,7,1
+"1812","texas","denton","metropolitan  ",79,1,11,8,59,901,268,570,63,18
+"1813","texas","ector","metropolitan  ",58,3,0,14,41,1111,302,703,106,9
+"1814","texas","ellis","metropolitan  ",70,0,3,1,66,1202,441,611,150,5
+"1815","texas","el paso","metropolitan  ",224,2,27,32,163,1221,294,735,192,24
+"1816","texas","fort bend","metropolitan  ",1041,6,51,141,843,3910,1521,2071,318,10
+"1817","texas","galveston","metropolitan  ",144,5,16,19,104,982,398,506,78,19
+"1818","texas","goliad","metropolitan  ",6,0,2,2,2,49,20,27,2,1
+"1819","texas","grayson","metropolitan  ",39,1,8,5,25,705,253,406,46,4
+"1820","texas","gregg","metropolitan  ",104,4,14,13,73,715,179,430,106,7
+"1821","texas","guadalupe","metropolitan  ",88,1,5,2,80,775,304,417,54,1
+"1822","texas","hardin","metropolitan  ",43,0,6,4,33,416,126,221,69,2
+"1823","texas","harris","metropolitan  ",7924,74,351,2441,5058,47432,13017,28560,5855,424
+"1824","texas","hays","metropolitan  ",182,0,8,7,167,1165,401,760,4,2
+"1825","texas","hidalgo","metropolitan  ",887,24,72,181,610,7055,2678,3731,646,156
+"1826","texas","hunt","metropolitan  ",59,3,0,11,45,1207,449,683,75,5
+"1827","texas","irion","metropolitan  ",6,0,0,0,6,26,8,18,0,0
+"1828","texas","jefferson","metropolitan  ",33,0,2,3,28,463,150,264,49,3
+"1829","texas","johnson","metropolitan  ",225,0,0,3,222,1241,367,741,133,20
+"1830","texas","jones","metropolitan  ",6,0,2,1,3,70,23,39,8,0
+"1831","texas","kaufman","metropolitan  ",265,1,4,19,241,1648,664,833,151,13
+"1832","texas","kendall","metropolitan  ",16,1,4,3,8,163,42,113,8,2
+"1833","texas","lampasas","metropolitan  ",8,0,3,0,5,74,30,38,6,0
+"1834","texas","liberty","metropolitan  ",150,2,13,10,125,1221,444,597,180,23
+"1835","texas","lubbock","metropolitan  ",112,0,11,11,90,746,362,312,72,6
+"1836","texas","mclennan","metropolitan  ",113,1,39,8,65,799,287,441,71,12
+"1837","texas","medina","metropolitan  ",43,0,6,3,34,230,121,99,10,15
+"1838","texas","midland","metropolitan  ",90,0,5,5,80,547,209,314,24,4
+"1839","texas","montgomery","metropolitan  ",706,8,41,132,525,6957,2196,4399,362,65
+"1840","texas","nueces","metropolitan  ",81,0,10,4,67,287,120,154,13,5
+"1841","texas","orange","metropolitan  ",97,1,8,7,81,620,236,307,77,4
+"1842","texas","parker","metropolitan  ",61,1,7,1,52,1097,390,649,58,0
+"1843","texas","potter","metropolitan  ",19,2,1,1,15,226,67,142,17,3
+"1844","texas","randall","metropolitan  ",33,0,5,2,26,306,88,182,36,8
+"1845","texas","robertson","metropolitan  ",12,0,1,0,11,131,38,77,16,4
+"1846","texas","rockwall","metropolitan  ",52,0,5,2,45,331,107,193,31,0
+"1847","texas","rusk","metropolitan  ",105,2,3,2,98,642,259,302,81,4
+"1848","texas","san jacinto","metropolitan  ",55,0,1,4,50,589,226,271,92,3
+"1849","texas","san patricio","metropolitan  ",26,0,0,3,23,375,119,235,21,3
+"1850","texas","smith","metropolitan  ",309,8,29,24,248,1903,704,1013,186,17
+"1851","texas","tarrant","metropolitan  ",121,0,24,25,72,1307,410,787,110,3
+"1852","texas","taylor","metropolitan  ",19,0,4,1,14,131,69,57,5,1
+"1853","texas","tom green","metropolitan  ",21,0,5,0,16,256,73,169,14,3
+"1854","texas","travis","metropolitan  ",290,2,30,33,225,3576,1107,2271,198,13
+"1855","texas","upshur","metropolitan  ",55,0,13,4,38,632,254,322,56,0
+"1856","texas","victoria","metropolitan  ",89,0,14,3,72,608,200,371,37,2
+"1857","texas","waller","metropolitan  ",28,1,1,3,23,243,125,98,20,0
+"1858","texas","webb","metropolitan  ",78,1,4,11,62,344,140,165,39,3
+"1859","texas","wichita","metropolitan  ",16,0,2,1,13,153,72,71,10,3
+"1860","texas","williamson","metropolitan  ",188,1,32,19,136,1526,378,1063,85,10
+"1861","texas","wilson","metropolitan  ",60,2,4,1,53,208,67,123,18,0
+"1862","texas","wise","metropolitan  ",141,0,14,5,122,505,166,325,14,0
+"1863","texas","anderson","nonmetropolitan  ",50,1,5,2,42,381,186,156,39,2
+"1864","texas","andrews","nonmetropolitan  ",9,0,1,0,8,68,20,46,2,2
+"1865","texas","angelina","nonmetropolitan  ",124,0,7,5,112,287,120,148,19,0
+"1866","texas","bailey","nonmetropolitan  ",1,0,0,0,1,25,11,12,2,0
+"1867","texas","baylor","nonmetropolitan  ",0,0,0,0,0,23,17,6,0,0
+"1868","texas","bee","nonmetropolitan  ",22,0,3,2,17,166,61,92,13,1
+"1869","texas","blanco","nonmetropolitan  ",4,0,1,0,3,34,17,15,2,0
+"1870","texas","borden","nonmetropolitan  ",0,0,0,0,0,5,2,3,0,1
+"1871","texas","bosque","nonmetropolitan  ",23,1,6,2,14,82,27,53,2,0
+"1872","texas","brewster","nonmetropolitan  ",10,1,1,1,7,31,13,18,0,0
+"1873","texas","briscoe","nonmetropolitan  ",0,0,0,0,0,15,2,11,2,0
+"1874","texas","brooks","nonmetropolitan  ",0,0,0,0,0,15,6,6,3,0
+"1875","texas","brown","nonmetropolitan  ",21,2,1,1,17,154,70,82,2,5
+"1876","texas","burnet","nonmetropolitan  ",48,1,3,1,43,318,112,183,23,3
+"1877","texas","camp","nonmetropolitan  ",8,0,2,2,4,152,60,79,13,2
+"1878","texas","cass","nonmetropolitan  ",18,1,3,1,13,336,146,153,37,7
+"1879","texas","castro","nonmetropolitan  ",7,1,1,0,5,99,35,57,7,0
+"1880","texas","cherokee","nonmetropolitan  ",66,1,10,2,53,420,144,216,60,4
+"1881","texas","childress","nonmetropolitan  ",0,0,0,0,0,15,0,14,1,0
+"1882","texas","cochran","nonmetropolitan  ",7,0,1,2,4,77,30,42,5,6
+"1883","texas","coke","nonmetropolitan  ",5,0,0,0,5,5,4,1,0,1
+"1884","texas","coleman","nonmetropolitan  ",0,0,0,0,0,32,10,20,2,1
+"1885","texas","collingsworth","nonmetropolitan  ",4,0,3,1,0,3,3,0,0,0
+"1886","texas","colorado","nonmetropolitan  ",17,0,2,2,13,123,31,82,10,2
+"1887","texas","comanche","nonmetropolitan  ",4,1,2,0,1,78,31,45,2,1
+"1888","texas","concho","nonmetropolitan  ",2,0,0,0,2,16,9,6,1,0
+"1889","texas","cooke","nonmetropolitan  ",23,1,2,1,19,269,133,111,25,2
+"1890","texas","cottle","nonmetropolitan  ",2,1,0,0,1,8,8,0,0,0
+"1891","texas","crane","nonmetropolitan  ",2,1,0,0,1,33,11,21,1,3
+"1892","texas","crockett","nonmetropolitan  ",11,1,4,0,6,56,15,38,3,1
+"1893","texas","culberson","nonmetropolitan  ",1,0,0,1,0,2,2,0,0,0
+"1894","texas","dallam","nonmetropolitan  ",0,0,0,0,0,23,17,5,1,1
+"1895","texas","dawson","nonmetropolitan  ",0,0,0,0,0,32,13,17,2,0
+"1896","texas","deaf smith","nonmetropolitan  ",7,0,0,1,6,102,32,61,9,1
+"1897","texas","dewitt","nonmetropolitan  ",10,0,2,0,8,89,33,52,4,0
+"1898","texas","dickens","nonmetropolitan  ",0,0,0,0,0,2,0,2,0,0
+"1899","texas","dimmit","nonmetropolitan  ",87,0,5,5,77,278,110,160,8,3
+"1900","texas","donley","nonmetropolitan  ",4,0,0,0,4,54,13,38,3,0
+"1901","texas","duval","nonmetropolitan  ",27,1,2,2,22,120,57,59,4,1
+"1902","texas","eastland","nonmetropolitan  ",3,0,0,2,1,32,11,19,2,1
+"1903","texas","edwards","nonmetropolitan  ",3,0,0,0,3,51,27,22,2,1
+"1904","texas","erath","nonmetropolitan  ",28,0,11,0,17,169,54,95,20,3
+"1905","texas","falls","nonmetropolitan  ",9,0,1,0,8,43,9,22,12,1
+"1906","texas","fannin","nonmetropolitan  ",26,1,4,1,20,245,95,140,10,4
+"1907","texas","fayette","nonmetropolitan  ",4,1,0,0,3,161,34,119,8,2
+"1908","texas","fisher","nonmetropolitan  ",15,0,8,0,7,51,15,32,4,2
+"1909","texas","floyd","nonmetropolitan  ",4,0,0,0,4,15,2,12,1,1
+"1910","texas","foard","nonmetropolitan  ",0,0,0,0,0,5,0,5,0,0
+"1911","texas","franklin","nonmetropolitan  ",8,0,0,2,6,117,61,43,13,0
+"1912","texas","freestone","nonmetropolitan  ",8,0,0,1,7,138,40,82,16,0
+"1913","texas","frio","nonmetropolitan  ",5,0,0,0,5,43,21,22,0,1
+"1914","texas","gaines","nonmetropolitan  ",6,1,1,0,4,60,5,53,2,3
+"1915","texas","garza","nonmetropolitan  ",3,0,1,0,2,58,16,36,6,0
+"1916","texas","gillespie","nonmetropolitan  ",5,0,2,0,3,92,23,67,2,0
+"1917","texas","glasscock","nonmetropolitan  ",1,1,0,0,0,4,1,3,0,0
+"1918","texas","gonzales","nonmetropolitan  ",11,0,0,2,9,81,37,41,3,1
+"1919","texas","gray","nonmetropolitan  ",12,0,1,2,9,95,23,66,6,0
+"1920","texas","grimes","nonmetropolitan  ",24,0,4,2,18,402,140,242,20,0
+"1921","texas","hale","nonmetropolitan  ",3,0,1,1,1,81,35,44,2,0
+"1922","texas","hall","nonmetropolitan  ",3,2,0,0,1,23,14,6,3,0
+"1923","texas","hamilton","nonmetropolitan  ",18,0,0,0,18,156,58,80,18,0
+"1924","texas","hansford","nonmetropolitan  ",9,0,0,0,9,19,6,10,3,1
+"1925","texas","hardeman","nonmetropolitan  ",9,0,3,2,4,98,50,44,4,2
+"1926","texas","harrison","nonmetropolitan  ",84,1,1,7,75,789,347,402,40,0
+"1927","texas","hartley","nonmetropolitan  ",0,0,0,0,0,20,8,11,1,1
+"1928","texas","haskell","nonmetropolitan  ",0,0,0,0,0,21,3,17,1,1
+"1929","texas","hemphill","nonmetropolitan  ",12,0,2,0,10,61,13,41,7,2
+"1930","texas","henderson","nonmetropolitan  ",147,3,1,6,137,1046,441,485,120,3
+"1931","texas","hill","nonmetropolitan  ",6,0,0,2,4,320,146,156,18,3
+"1932","texas","hockley","nonmetropolitan  ",10,0,4,0,6,71,26,38,7,3
+"1933","texas","hood","nonmetropolitan  ",47,0,0,3,44,608,181,386,41,14
+"1934","texas","hopkins","nonmetropolitan  ",40,0,13,0,27,219,85,107,27,0
+"1935","texas","houston","nonmetropolitan  ",15,0,2,1,12,191,63,96,32,1
+"1936","texas","howard","nonmetropolitan  ",26,0,3,3,20,117,45,62,10,0
+"1937","texas","hudspeth","nonmetropolitan  ",3,0,0,1,2,34,18,16,0,0
+"1938","texas","hutchinson","nonmetropolitan  ",14,0,0,0,14,87,40,41,6,0
+"1939","texas","jack","nonmetropolitan  ",3,0,2,0,1,44,20,19,5,0
+"1940","texas","jackson","nonmetropolitan  ",15,0,1,0,14,93,28,59,6,0
+"1941","texas","jasper","nonmetropolitan  ",42,0,2,4,36,282,110,143,29,0
+"1942","texas","jeff davis","nonmetropolitan  ",8,0,3,0,5,11,6,5,0,0
+"1943","texas","jim hogg","nonmetropolitan  ",10,0,0,0,10,83,22,50,11,0
+"1944","texas","jim wells","nonmetropolitan  ",94,0,6,3,85,455,213,211,31,4
+"1945","texas","karnes","nonmetropolitan  ",11,1,2,0,8,72,22,41,9,0
+"1946","texas","kenedy","nonmetropolitan  ",3,0,1,1,1,9,3,4,2,0
+"1947","texas","kent","nonmetropolitan  ",7,0,1,0,6,11,2,9,0,1
+"1948","texas","kerr","nonmetropolitan  ",39,1,5,3,30,330,111,193,26,6
+"1949","texas","kimble","nonmetropolitan  ",3,0,1,0,2,6,6,0,0,0
+"1950","texas","king","nonmetropolitan  ",0,0,0,0,0,3,1,2,0,0
+"1951","texas","kinney","nonmetropolitan  ",4,0,0,0,4,28,12,16,0,0
+"1952","texas","kleberg","nonmetropolitan  ",13,0,3,0,10,414,34,377,3,1
+"1953","texas","knox","nonmetropolitan  ",2,0,1,0,1,19,3,14,2,0
+"1954","texas","la salle","nonmetropolitan  ",4,0,0,1,3,108,40,68,0,2
+"1955","texas","lamar","nonmetropolitan  ",26,0,4,1,21,317,116,181,20,0
+"1956","texas","lamb","nonmetropolitan  ",4,0,0,1,3,50,11,39,0,0
+"1957","texas","lavaca","nonmetropolitan  ",6,0,0,0,6,47,20,24,3,0
+"1958","texas","lee","nonmetropolitan  ",14,0,3,1,10,95,36,55,4,0
+"1959","texas","leon","nonmetropolitan  ",26,0,5,3,18,106,45,50,11,0
+"1960","texas","limestone","nonmetropolitan  ",35,1,17,5,12,265,91,160,14,3
+"1961","texas","lipscomb","nonmetropolitan  ",3,0,0,0,3,13,9,4,0,0
+"1962","texas","live oak","nonmetropolitan  ",2,0,0,0,2,29,16,10,3,0
+"1963","texas","llano","nonmetropolitan  ",20,0,2,0,18,267,70,187,10,0
+"1964","texas","loving","nonmetropolitan  ",0,0,0,0,0,12,0,12,0,0
+"1965","texas","lynn","nonmetropolitan  ",0,0,0,0,0,20,8,12,0,0
+"1966","texas","madison","nonmetropolitan  ",9,1,0,0,8,109,41,54,14,1
+"1967","texas","marion","nonmetropolitan  ",24,2,3,2,17,157,72,77,8,0
+"1968","texas","martin","nonmetropolitan  ",1,1,0,0,0,14,3,8,3,0
+"1969","texas","mason","nonmetropolitan  ",6,0,0,0,6,30,9,21,0,0
+"1970","texas","matagorda","nonmetropolitan  ",50,0,0,0,50,270,96,160,14,3
+"1971","texas","maverick","nonmetropolitan  ",205,1,6,7,191,722,264,427,31,2
+"1972","texas","mcculloch","nonmetropolitan  ",8,0,4,1,3,37,15,17,5,0
+"1973","texas","mcmullen","nonmetropolitan  ",1,0,0,0,1,0,0,0,0,0
+"1974","texas","menard","nonmetropolitan  ",3,0,0,0,3,8,1,7,0,0
+"1975","texas","milam","nonmetropolitan  ",5,1,0,1,3,222,59,144,19,3
+"1976","texas","mills","nonmetropolitan  ",3,0,0,0,3,34,11,22,1,0
+"1977","texas","mitchell","nonmetropolitan  ",0,0,0,0,0,24,4,18,2,0
+"1978","texas","montague","nonmetropolitan  ",10,1,0,0,9,180,66,98,16,2
+"1979","texas","moore","nonmetropolitan  ",5,0,1,0,4,75,24,42,9,3
+"1980","texas","morris","nonmetropolitan  ",25,0,2,1,22,129,63,47,19,0
+"1981","texas","motley","nonmetropolitan  ",2,0,0,0,2,10,7,2,1,3
+"1982","texas","nacogdoches","nonmetropolitan  ",109,2,9,6,92,507,173,268,66,8
+"1983","texas","navarro","nonmetropolitan  ",34,2,10,3,19,652,257,367,28,0
+"1984","texas","newton","nonmetropolitan  ",15,2,3,2,8,158,41,112,5,1
+"1985","texas","nolan","nonmetropolitan  ",9,0,0,0,9,39,12,23,4,0
+"1986","texas","ochiltree","nonmetropolitan  ",8,0,3,0,5,36,10,24,2,0
+"1987","texas","oldham","nonmetropolitan  ",4,0,0,0,4,26,11,14,1,0
+"1988","texas","palo pinto","nonmetropolitan  ",15,2,1,1,11,172,77,78,17,0
+"1989","texas","panola","nonmetropolitan  ",28,1,5,1,21,292,62,179,51,1
+"1990","texas","parmer","nonmetropolitan  ",2,0,1,0,1,55,20,35,0,0
+"1991","texas","pecos","nonmetropolitan  ",5,0,0,0,5,29,16,13,0,0
+"1992","texas","polk","nonmetropolitan  ",53,1,14,3,35,717,239,414,64,2
+"1993","texas","presidio","nonmetropolitan  ",1,0,0,0,1,3,0,3,0,0
+"1994","texas","rains","nonmetropolitan  ",22,3,6,0,13,129,41,81,7,0
+"1995","texas","reagan","nonmetropolitan  ",1,0,0,0,1,20,6,13,1,0
+"1996","texas","real","nonmetropolitan  ",2,1,0,0,1,7,4,3,0,1
+"1997","texas","red river","nonmetropolitan  ",8,0,0,1,7,78,11,58,9,1
+"1998","texas","reeves","nonmetropolitan  ",5,0,0,0,5,57,20,34,3,1
+"1999","texas","refugio","nonmetropolitan  ",13,0,0,2,11,70,20,44,6,0
+"2000","texas","roberts","nonmetropolitan  ",2,0,1,0,1,18,1,17,0,1
+"2001","texas","runnels","nonmetropolitan  ",0,0,0,0,0,10,0,10,0,0
+"2002","texas","sabine","nonmetropolitan  ",35,0,2,1,32,97,46,43,8,1
+"2003","texas","san augustine","nonmetropolitan  ",17,1,0,1,15,97,35,48,14,1
+"2004","texas","san saba","nonmetropolitan  ",1,0,0,0,1,24,13,9,2,0
+"2005","texas","schleicher","nonmetropolitan  ",1,0,0,0,1,17,8,9,0,0
+"2006","texas","scurry","nonmetropolitan  ",5,1,0,0,4,52,21,28,3,0
+"2007","texas","shackelford","nonmetropolitan  ",0,0,0,0,0,15,7,6,2,0
+"2008","texas","shelby","nonmetropolitan  ",55,1,7,3,44,272,71,176,25,1
+"2009","texas","sherman","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"2010","texas","somervell","nonmetropolitan  ",8,0,0,0,8,100,26,70,4,0
+"2011","texas","starr","nonmetropolitan  ",102,6,12,11,73,404,175,155,74,1
+"2012","texas","stephens","nonmetropolitan  ",1,0,0,0,1,36,19,15,2,0
+"2013","texas","sterling","nonmetropolitan  ",2,0,0,0,2,13,4,9,0,0
+"2014","texas","stonewall","nonmetropolitan  ",3,0,0,0,3,9,4,4,1,0
+"2015","texas","sutton","nonmetropolitan  ",4,0,1,0,3,13,0,12,1,0
+"2016","texas","swisher","nonmetropolitan  ",5,0,0,0,5,41,14,25,2,0
+"2017","texas","terrell","nonmetropolitan  ",2,0,0,0,2,17,4,9,4,0
+"2018","texas","terry","nonmetropolitan  ",1,0,0,0,1,23,9,10,4,0
+"2019","texas","throckmorton","nonmetropolitan  ",1,0,1,0,0,5,4,1,0,0
+"2020","texas","titus","nonmetropolitan  ",87,1,10,2,74,305,121,162,22,6
+"2021","texas","trinity","nonmetropolitan  ",28,0,0,1,27,112,45,52,15,5
+"2022","texas","tyler","nonmetropolitan  ",53,1,8,6,38,281,164,94,23,4
+"2023","texas","upton","nonmetropolitan  ",6,0,0,0,6,14,2,12,0,0
+"2024","texas","uvalde","nonmetropolitan  ",20,0,3,0,17,138,42,83,13,2
+"2025","texas","val verde","nonmetropolitan  ",2,1,0,0,1,121,36,75,10,0
+"2026","texas","van zandt","nonmetropolitan  ",66,3,0,5,58,800,311,415,74,1
+"2027","texas","walker","nonmetropolitan  ",47,1,6,4,36,434,176,225,33,0
+"2028","texas","ward","nonmetropolitan  ",18,0,1,0,17,100,31,66,3,1
+"2029","texas","washington","nonmetropolitan  ",33,1,2,0,30,155,70,79,6,0
+"2030","texas","wharton","nonmetropolitan  ",76,0,1,4,71,437,232,177,28,8
+"2031","texas","wheeler","nonmetropolitan  ",4,0,0,0,4,33,8,19,6,0
+"2032","texas","wilbarger","nonmetropolitan  ",1,0,1,0,0,29,13,15,1,0
+"2033","texas","willacy","nonmetropolitan  ",16,0,1,0,15,91,42,46,3,2
+"2034","texas","winkler","nonmetropolitan  ",2,0,1,0,1,45,2,41,2,0
+"2035","texas","wood","nonmetropolitan  ",73,1,1,5,66,544,176,325,43,3
+"2036","texas","yoakum","nonmetropolitan  ",5,0,1,0,4,33,6,24,3,0
+"2037","texas","young","nonmetropolitan  ",14,0,0,0,14,91,42,44,5,2
+"2038","texas","zapata","nonmetropolitan  ",46,1,1,3,41,145,75,56,14,0
+"2039","texas","zavala","nonmetropolitan  ",30,0,1,2,27,115,44,62,9,2
+"2040","utah","cache","metropolitan  ",25,1,14,0,10,495,75,408,12,1
+"2041","utah","davis","metropolitan  ",32,0,10,0,22,216,70,137,9,0
+"2042","utah","juab","metropolitan  ",5,0,0,2,3,83,31,49,3,0
+"2043","utah","morgan","metropolitan  ",1,0,0,1,0,61,13,40,8,0
+"2044","utah","salt lake","metropolitan  ",654,2,71,114,467,8300,1505,5999,796,32
+"2045","utah","summit","metropolitan  ",14,0,5,0,9,596,110,460,26,0
+"2046","utah","tooele","metropolitan  ",45,1,6,6,32,387,45,308,34,4
+"2047","utah","utah","metropolitan  ",47,0,12,3,32,392,99,263,30,6
+"2048","utah","washington","metropolitan  ",39,1,4,1,33,121,38,75,8,2
+"2049","utah","weber","metropolitan  ",41,1,8,13,19,1052,170,811,71,6
+"2050","utah","beaver","nonmetropolitan  ",9,0,0,0,9,74,16,57,1,0
+"2051","utah","box elder","nonmetropolitan  ",4,0,1,0,3,222,60,154,8,0
+"2052","utah","carbon","nonmetropolitan  ",15,0,7,1,7,131,47,70,14,2
+"2053","utah","daggett","nonmetropolitan  ",1,0,0,1,0,25,4,20,1,0
+"2054","utah","duchesne","nonmetropolitan  ",17,0,4,0,13,142,36,95,11,1
+"2055","utah","emery","nonmetropolitan  ",6,0,1,2,3,150,51,95,4,0
+"2056","utah","grand","nonmetropolitan  ",7,0,0,0,7,67,21,37,9,0
+"2057","utah","iron","nonmetropolitan  ",19,0,5,1,13,144,60,75,9,3
+"2058","utah","kane","nonmetropolitan  ",8,0,4,1,3,55,34,21,0,0
+"2059","utah","millard","nonmetropolitan  ",20,0,2,2,16,265,55,198,12,0
+"2060","utah","rich","nonmetropolitan  ",2,0,0,0,2,45,11,33,1,0
+"2061","utah","san juan","nonmetropolitan  ",12,0,2,1,9,34,11,23,0,0
+"2062","utah","sevier","nonmetropolitan  ",11,0,2,0,9,213,58,148,7,2
+"2063","utah","uintah","nonmetropolitan  ",20,0,4,0,16,240,47,164,29,5
+"2064","utah","wasatch","nonmetropolitan  ",7,0,3,0,4,143,22,109,12,1
+"2065","utah","wayne","nonmetropolitan  ",2,0,0,0,2,72,8,62,2,0
+"2066","vermont","chittenden","metropolitan  ",0,0,0,0,0,1,0,1,0,0
+"2067","vermont","franklin","metropolitan  ",17,0,3,5,9,289,62,207,20,1
+"2068","vermont","grand isle","metropolitan  ",0,0,0,0,0,84,38,42,4,1
+"2069","vermont","addison","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"2070","vermont","bennington","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"2071","vermont","caledonia","nonmetropolitan  ",1,0,0,0,1,4,1,3,0,0
+"2072","vermont","lamoille","nonmetropolitan  ",9,0,2,0,7,128,28,96,4,0
+"2073","vermont","orange","nonmetropolitan  ",0,0,0,0,0,46,9,37,0,0
+"2074","vermont","orleans","nonmetropolitan  ",0,0,0,0,0,35,7,28,0,0
+"2075","vermont","rutland","nonmetropolitan  ",3,0,0,0,3,111,12,98,1,0
+"2076","vermont","washington","nonmetropolitan  ",1,0,0,0,1,0,0,0,0,0
+"2077","vermont","windham","nonmetropolitan  ",0,0,0,0,0,1,0,1,0,0
+"2078","vermont","windsor","nonmetropolitan  ",0,0,0,0,0,0,0,0,0,0
+"2079","virginia","albemarle county police department","metropolitan  ",128,3,24,37,64,1929,239,1588,102,18
+"2080","virginia","amelia","metropolitan  ",15,0,3,0,12,156,38,95,23,2
+"2081","virginia","amherst","metropolitan  ",32,1,7,6,18,529,59,435,35,7
+"2082","virginia","appomattox","metropolitan  ",10,0,4,2,4,125,31,84,10,2
+"2083","virginia","arlington county police department","metropolitan  ",316,3,22,145,146,4818,390,4116,312,6
+"2084","virginia","bedford","metropolitan  ",51,0,18,4,29,774,119,601,54,2
+"2085","virginia","botetourt","metropolitan  ",20,0,6,1,13,357,46,294,17,3
+"2086","virginia","campbell","metropolitan  ",77,2,19,11,45,833,166,616,51,5
+"2087","virginia","caroline","metropolitan  ",66,0,12,13,41,440,87,348,5,13
+"2088","virginia","charles city","metropolitan  ",6,1,0,1,4,29,14,9,6,0
+"2089","virginia","chesterfield county police department","metropolitan  ",609,11,64,321,213,7213,1575,5172,466,93
+"2090","virginia","clarke","metropolitan  ",10,1,2,0,7,172,17,141,14,3
+"2091","virginia","cumberland","metropolitan  ",14,0,3,2,9,65,17,41,7,0
+"2092","virginia","dinwiddie","metropolitan  ",45,0,10,6,29,486,129,306,51,6
+"2093","virginia","fairfax county police department","metropolitan  ",714,19,60,333,302,18216,1375,15760,1081,105
+"2094","virginia","fauquier","metropolitan  ",39,1,9,6,23,609,80,471,58,7
+"2095","virginia","fluvanna","metropolitan  ",18,1,3,2,12,219,62,137,20,4
+"2096","virginia","franklin","metropolitan  ",36,1,7,7,21,575,119,425,31,1
+"2097","virginia","frederick","metropolitan  ",127,1,46,14,66,1589,366,1088,135,9
+"2098","virginia","giles","metropolitan  ",15,0,3,1,11,180,54,112,14,0
+"2099","virginia","gloucester","metropolitan  ",21,1,5,5,10,489,40,427,22,9
+"2100","virginia","greene","metropolitan  ",35,0,5,5,25,218,52,155,11,3
+"2101","virginia","hanover","metropolitan  ",39,1,8,10,20,1133,110,969,54,7
+"2102","virginia","henrico county police department","metropolitan  ",582,17,35,331,199,9062,1486,7005,571,93
+"2103","virginia","isle of wight","metropolitan  ",45,2,5,13,25,476,138,308,30,5
+"2104","virginia","james city county police department","metropolitan  ",71,1,13,18,39,924,200,691,33,21
+"2105","virginia","king and queen","metropolitan  ",8,0,1,0,7,41,9,31,1,1
+"2106","virginia","king william","metropolitan  ",4,0,0,3,1,79,9,55,15,1
+"2107","virginia","loudoun","metropolitan  ",269,3,47,35,184,3116,280,2657,179,42
+"2108","virginia","louisa","metropolitan  ",40,1,16,5,18,452,78,359,15,6
+"2109","virginia","mathews","metropolitan  ",5,0,2,0,3,87,23,60,4,1
+"2110","virginia","montgomery","metropolitan  ",47,1,7,2,37,547,159,337,51,8
+"2111","virginia","nelson","metropolitan  ",8,0,1,1,6,261,70,171,20,3
+"2112","virginia","new kent","metropolitan  ",33,0,3,8,22,248,51,173,24,4
+"2113","virginia","pittsylvania","metropolitan  ",73,2,12,16,43,582,229,325,28,2
+"2114","virginia","powhatan","metropolitan  ",11,4,1,3,3,318,79,211,28,0
+"2115","virginia","prince george county police department","metropolitan  ",41,0,8,13,20,438,85,325,28,3
+"2116","virginia","prince william county police department","metropolitan  ",560,12,24,261,263,7555,1081,5840,634,74
+"2117","virginia","pulaski","metropolitan  ",65,1,11,5,48,616,106,485,25,6
+"2118","virginia","roanoke county police department","metropolitan  ",116,2,15,18,81,1199,223,906,70,14
+"2119","virginia","rockingham","metropolitan  ",20,1,7,0,12,273,112,153,8,1
+"2120","virginia","scott","metropolitan  ",39,2,6,1,30,468,104,332,32,2
+"2121","virginia","spotsylvania","metropolitan  ",288,1,41,46,200,2473,297,2038,138,5
+"2122","virginia","stafford","metropolitan  ",181,2,46,40,93,1702,213,1353,136,12
+"2123","virginia","surry","metropolitan  ",16,1,0,2,13,89,41,43,5,1
+"2124","virginia","sussex","metropolitan  ",25,0,1,4,20,174,49,107,18,2
+"2125","virginia","warren","metropolitan  ",14,2,5,1,6,423,38,357,28,3
+"2126","virginia","washington","metropolitan  ",57,2,13,7,35,1143,253,842,48,9
+"2127","virginia","york","metropolitan  ",65,1,8,26,30,1277,201,1038,38,16
+"2128","virginia","accomack","nonmetropolitan  ",69,2,11,30,26,600,182,377,41,0
+"2129","virginia","alleghany","nonmetropolitan  ",9,0,1,0,8,103,28,69,6,0
+"2130","virginia","augusta","nonmetropolitan  ",82,0,9,8,65,802,148,605,49,9
+"2131","virginia","bath","nonmetropolitan  ",1,0,0,0,1,32,7,25,0,0
+"2132","virginia","bland","nonmetropolitan  ",0,0,0,0,0,51,12,36,3,1
+"2133","virginia","brunswick","nonmetropolitan  ",17,1,1,3,12,134,34,77,23,0
+"2134","virginia","buchanan","nonmetropolitan  ",44,1,6,2,35,468,147,276,45,6
+"2135","virginia","buckingham","nonmetropolitan  ",30,0,3,6,21,196,65,107,24,3
+"2136","virginia","carroll","nonmetropolitan  ",52,2,4,2,44,399,144,216,39,4
+"2137","virginia","charlotte","nonmetropolitan  ",33,2,2,7,22,170,60,97,13,3
+"2138","virginia","culpeper","nonmetropolitan  ",27,0,5,1,21,335,33,263,39,1
+"2139","virginia","dickenson","nonmetropolitan  ",27,2,5,3,17,214,63,135,16,4
+"2140","virginia","essex","nonmetropolitan  ",13,0,5,3,5,87,11,60,16,2
+"2141","virginia","floyd","nonmetropolitan  ",8,1,1,0,6,155,38,104,13,2
+"2142","virginia","grayson","nonmetropolitan  ",20,5,2,1,12,144,49,77,18,1
+"2143","virginia","greensville","nonmetropolitan  ",15,1,3,6,5,199,67,121,11,1
+"2144","virginia","halifax","nonmetropolitan  ",35,1,5,6,23,414,142,236,36,4
+"2145","virginia","henry","nonmetropolitan  ",158,6,9,35,108,1211,366,762,83,8
+"2146","virginia","highland","nonmetropolitan  ",0,0,0,0,0,15,7,8,0,0
+"2147","virginia","king george","nonmetropolitan  ",33,0,9,4,20,416,78,317,21,3
+"2148","virginia","lancaster","nonmetropolitan  ",10,1,1,0,8,116,30,75,11,0
+"2149","virginia","lee","nonmetropolitan  ",20,1,2,2,15,368,100,253,15,0
+"2150","virginia","lunenburg","nonmetropolitan  ",13,0,1,2,10,105,38,50,17,3
+"2151","virginia","mecklenburg","nonmetropolitan  ",32,1,4,5,22,433,125,278,30,8
+"2152","virginia","northampton","nonmetropolitan  ",17,0,1,6,10,229,76,134,19,0
+"2153","virginia","northumberland","nonmetropolitan  ",12,0,2,2,8,181,67,105,9,0
+"2154","virginia","nottoway","nonmetropolitan  ",19,0,1,1,17,56,17,36,3,1
+"2155","virginia","orange","nonmetropolitan  ",15,1,3,1,10,254,51,179,24,5
+"2156","virginia","page","nonmetropolitan  ",19,0,6,0,13,254,84,157,13,3
+"2157","virginia","patrick","nonmetropolitan  ",18,0,4,2,12,406,109,252,45,2
+"2158","virginia","prince edward","nonmetropolitan  ",15,0,2,3,10,79,33,39,7,0
+"2159","virginia","rappahannock","nonmetropolitan  ",4,0,2,0,2,47,10,33,4,1
+"2160","virginia","richmond","nonmetropolitan  ",7,1,3,0,3,47,6,37,4,0
+"2161","virginia","rockbridge","nonmetropolitan  ",19,0,9,1,9,254,57,185,12,3
+"2162","virginia","russell","nonmetropolitan  ",27,0,3,3,21,289,79,190,20,7
+"2163","virginia","shenandoah","nonmetropolitan  ",39,0,6,2,31,330,91,215,24,0
+"2164","virginia","smyth","nonmetropolitan  ",32,5,4,0,23,320,63,241,16,4
+"2165","virginia","southampton","nonmetropolitan  ",30,1,2,14,13,381,96,254,31,0
+"2166","virginia","tazewell","nonmetropolitan  ",42,2,4,4,32,541,134,378,29,2
+"2167","virginia","westmoreland","nonmetropolitan  ",8,1,0,1,6,157,31,117,9,1
+"2168","virginia","wise","nonmetropolitan  ",46,0,7,3,36,366,118,221,27,13
+"2169","virginia","wythe","nonmetropolitan  ",25,2,7,2,14,129,22,103,4,0
+"2170","washington","asotin","metropolitan  ",14,1,2,0,11,192,39,148,5,0
+"2171","washington","benton","metropolitan  ",68,0,9,5,54,551,206,310,35,4
+"2172","washington","chelan","metropolitan  ",35,2,15,3,15,878,120,698,60,2
+"2173","washington","clark","metropolitan  ",276,2,66,47,161,4396,813,2919,664,37
+"2174","washington","cowlitz","metropolitan  ",50,1,25,2,22,710,240,407,63,5
+"2175","washington","douglas","metropolitan  ",48,0,7,6,35,420,119,272,29,4
+"2176","washington","franklin","metropolitan  ",13,0,1,1,11,163,52,95,16,1
+"2177","washington","king","metropolitan  ",549,8,107,181,253,7040,2407,3729,904,104
+"2178","washington","kitsap","metropolitan  ",674,2,123,44,505,3760,1045,2538,177,29
+"2179","washington","pierce","metropolitan  ",1147,10,107,204,826,10037,2535,6077,1425,63
+"2180","washington","skagit","metropolitan  ",80,7,18,11,44,1491,461,906,124,10
+"2181","washington","skamania","metropolitan  ",11,0,3,1,7,196,55,124,17,0
+"2182","washington","spokane","metropolitan  ",247,4,9,25,209,2473,646,1599,228,13
+"2183","washington","thurston","metropolitan  ",320,0,32,30,258,3282,865,2239,178,23
+"2184","washington","whatcom","metropolitan  ",131,0,35,5,91,1376,493,761,122,5
+"2185","washington","yakima","metropolitan  ",132,6,17,42,67,2509,943,1157,409,67
+"2186","washington","adams","nonmetropolitan  ",27,0,5,1,21,302,93,173,36,2
+"2187","washington","clallam","nonmetropolitan  ",51,2,17,2,30,585,166,380,39,7
+"2188","washington","columbia","nonmetropolitan  ",2,0,0,0,2,206,29,170,7,0
+"2189","washington","ferry","nonmetropolitan  ",7,1,0,0,6,20,11,8,1,0
+"2190","washington","garfield","nonmetropolitan  ",2,0,0,0,2,56,20,34,2,0
+"2191","washington","grant","nonmetropolitan  ",81,4,8,17,52,1480,529,817,134,15
+"2192","washington","grays harbor","nonmetropolitan  ",32,2,4,4,22,370,138,192,40,1
+"2193","washington","island","nonmetropolitan  ",39,0,13,4,22,1130,456,643,31,1
+"2194","washington","jefferson","nonmetropolitan  ",34,0,7,0,27,431,164,255,12,1
+"2195","washington","kittitas","nonmetropolitan  ",19,0,2,1,16,487,134,311,42,0
+"2196","washington","klickitat","nonmetropolitan  ",10,0,0,1,9,151,103,16,32,0
+"2197","washington","lewis","nonmetropolitan  ",70,0,14,3,53,851,264,528,59,8
+"2198","washington","lincoln","nonmetropolitan  ",8,0,5,1,2,160,43,114,3,2
+"2199","washington","mason","nonmetropolitan  ",140,0,31,11,98,1639,641,844,154,9
+"2200","washington","okanogan","nonmetropolitan  ",13,0,3,2,8,470,171,269,30,0
+"2201","washington","pacific","nonmetropolitan  ",22,0,4,1,17,380,158,204,18,3
+"2202","washington","pend oreille","nonmetropolitan  ",7,0,1,2,4,394,107,257,30,0
+"2203","washington","san juan","nonmetropolitan  ",6,1,0,0,5,259,86,153,20,1
+"2204","washington","stevens","nonmetropolitan  ",37,1,15,3,18,633,243,331,59,3
+"2205","washington","wahkiakum","nonmetropolitan  ",6,0,0,1,5,50,19,28,3,0
+"2206","washington","walla walla","nonmetropolitan  ",19,0,8,1,10,336,83,238,15,0
+"2207","washington","whitman","nonmetropolitan  ",5,0,2,0,3,73,27,38,8,1
+"2208","west virginia","berkeley","metropolitan  ",53,2,0,21,30,1208,351,792,65,12
+"2209","west virginia","boone","metropolitan  ",14,0,0,1,13,87,23,39,25,2
+"2210","west virginia","brooke","metropolitan  ",9,0,0,1,8,116,43,62,11,1
+"2211","west virginia","cabell","metropolitan  ",61,1,9,22,29,846,211,571,64,6
+"2212","west virginia","hampshire","metropolitan  ",24,0,2,1,21,110,56,45,9,0
+"2213","west virginia","jefferson","metropolitan  ",37,0,2,12,23,471,135,312,24,8
+"2214","west virginia","kanawha","metropolitan  ",202,6,15,35,146,1474,495,845,134,21
+"2215","west virginia","marshall","metropolitan  ",18,0,4,1,13,251,63,165,23,1
+"2216","west virginia","mineral","metropolitan  ",148,4,1,1,142,64,15,46,3,1
+"2217","west virginia","morgan","metropolitan  ",7,0,1,2,4,58,19,33,6,1
+"2218","west virginia","putnam","metropolitan  ",55,0,10,5,40,922,159,688,75,7
+"2219","west virginia","wayne","metropolitan  ",2,0,0,1,1,143,60,72,11,0
+"2220","west virginia","braxton","nonmetropolitan  ",13,0,0,0,13,33,15,16,2,0
+"2221","west virginia","fayette","nonmetropolitan  ",53,2,6,5,40,274,122,116,36,3
+"2222","west virginia","greenbrier","nonmetropolitan  ",11,0,1,1,9,144,41,92,11,0
+"2223","west virginia","hardy","nonmetropolitan  ",12,0,0,1,11,57,27,27,3,0
+"2224","west virginia","harrison","nonmetropolitan  ",44,0,0,7,37,418,126,262,30,8
+"2225","west virginia","jackson","nonmetropolitan  ",13,0,1,1,11,153,45,88,20,0
+"2226","west virginia","lewis","nonmetropolitan  ",8,0,0,1,7,18,1,14,3,1
+"2227","west virginia","mason","nonmetropolitan  ",10,0,0,0,10,184,0,158,26,1
+"2228","west virginia","mercer","nonmetropolitan  ",127,5,3,8,111,535,240,243,52,8
+"2229","west virginia","monroe","nonmetropolitan  ",8,0,0,0,8,25,14,10,1,0
+"2230","west virginia","raleigh","nonmetropolitan  ",83,1,5,18,59,1046,334,647,65,11
+"2231","west virginia","randolph","nonmetropolitan  ",12,0,0,0,12,49,15,31,3,0
+"2232","west virginia","upshur","nonmetropolitan  ",6,0,3,0,3,94,15,71,8,0
+"2233","west virginia","wyoming","nonmetropolitan  ",3,0,0,1,2,231,167,59,5,0
+"2234","wisconsin","brown","metropolitan  ",46,0,14,4,28,1342,289,1011,42,4
+"2235","wisconsin","calumet","metropolitan  ",8,1,2,0,5,175,40,129,6,0
+"2236","wisconsin","chippewa","metropolitan  ",14,0,6,1,7,378,69,292,17,0
+"2237","wisconsin","columbia","metropolitan  ",38,0,7,0,31,389,134,238,17,4
+"2238","wisconsin","dane","metropolitan  ",57,1,13,7,36,1163,297,805,61,4
+"2239","wisconsin","douglas","metropolitan  ",10,0,3,2,5,230,102,117,11,2
+"2240","wisconsin","eau claire","metropolitan  ",11,1,3,2,5,259,96,158,5,0
+"2241","wisconsin","fond du lac","metropolitan  ",37,0,9,1,27,289,84,185,20,1
+"2242","wisconsin","iowa","metropolitan  ",10,1,1,3,5,171,43,123,5,1
+"2243","wisconsin","kenosha","metropolitan  ",42,1,6,8,27,807,209,552,46,4
+"2244","wisconsin","kewaunee","metropolitan  ",3,0,0,0,3,84,15,62,7,2
+"2245","wisconsin","la crosse","metropolitan  ",22,0,1,2,19,198,53,133,12,2
+"2246","wisconsin","marathon","metropolitan  ",146,0,15,2,129,464,125,323,16,1
+"2247","wisconsin","milwaukee","metropolitan  ",1,0,0,1,0,17,0,17,0,0
+"2248","wisconsin","oconto","metropolitan  ",1,0,0,0,1,468,121,303,44,0
+"2249","wisconsin","outagamie","metropolitan  ",23,0,7,0,16,461,76,360,25,1
+"2250","wisconsin","ozaukee","metropolitan  ",10,0,0,1,9,156,20,128,8,4
+"2251","wisconsin","pierce","metropolitan  ",9,0,0,0,9,160,49,96,15,0
+"2252","wisconsin","racine","metropolitan  ",15,0,3,10,2,689,85,557,47,0
+"2253","wisconsin","rock","metropolitan  ",40,0,14,2,24,496,153,319,24,3
+"2254","wisconsin","sheboygan","metropolitan  ",32,0,3,2,27,548,87,446,15,6
+"2255","wisconsin","st. croix","metropolitan  ",31,0,6,2,23,480,110,343,27,2
+"2256","wisconsin","washington","metropolitan  ",32,0,9,6,17,620,112,487,21,10
+"2257","wisconsin","waukesha","metropolitan  ",21,0,6,0,15,682,99,562,21,0
+"2258","wisconsin","winnebago","metropolitan  ",26,0,1,1,24,411,138,249,24,1
+"2259","wisconsin","adams","nonmetropolitan  ",26,0,4,1,21,479,259,205,15,0
+"2260","wisconsin","ashland","nonmetropolitan  ",11,0,0,0,11,48,10,28,10,0
+"2261","wisconsin","barron","nonmetropolitan  ",2,0,0,2,0,251,81,151,19,2
+"2262","wisconsin","bayfield","nonmetropolitan  ",21,0,0,0,21,273,91,176,6,0
+"2263","wisconsin","buffalo","nonmetropolitan  ",2,0,1,0,1,45,10,28,7,1
+"2264","wisconsin","burnett","nonmetropolitan  ",9,1,1,0,7,279,113,157,9,0
+"2265","wisconsin","clark","nonmetropolitan  ",19,0,4,0,15,379,101,265,13,1
+"2266","wisconsin","crawford","nonmetropolitan  ",20,0,8,0,12,157,35,122,0,1
+"2267","wisconsin","dodge","nonmetropolitan  ",45,1,2,1,41,263,81,160,22,3
+"2268","wisconsin","door","nonmetropolitan  ",12,0,1,2,9,224,41,173,10,0
+"2269","wisconsin","dunn","nonmetropolitan  ",38,0,4,1,33,221,72,132,17,0
+"2270","wisconsin","florence","nonmetropolitan  ",6,1,1,0,4,117,29,85,3,0
+"2271","wisconsin","forest","nonmetropolitan  ",6,0,0,1,5,122,22,94,6,1
+"2272","wisconsin","grant","nonmetropolitan  ",19,1,0,0,18,205,72,119,14,0
+"2273","wisconsin","green","nonmetropolitan  ",9,0,1,0,8,162,26,125,11,1
+"2274","wisconsin","green lake","nonmetropolitan  ",2,0,1,0,1,85,22,59,4,0
+"2275","wisconsin","iron","nonmetropolitan  ",8,0,0,1,7,55,19,36,0,0
+"2276","wisconsin","jackson","nonmetropolitan  ",8,1,5,0,2,240,79,132,29,0
+"2277","wisconsin","jefferson","nonmetropolitan  ",36,1,4,5,26,400,117,255,28,3
+"2278","wisconsin","juneau","nonmetropolitan  ",27,0,4,3,20,211,76,118,17,0
+"2279","wisconsin","lafayette","nonmetropolitan  ",1,0,1,0,0,149,34,108,7,1
+"2280","wisconsin","langlade","nonmetropolitan  ",16,0,2,0,14,248,69,166,13,1
+"2281","wisconsin","lincoln","nonmetropolitan  ",4,0,2,0,2,151,50,85,16,0
+"2282","wisconsin","manitowoc","nonmetropolitan  ",23,0,3,0,20,194,50,139,5,3
+"2283","wisconsin","marinette","nonmetropolitan  ",11,3,4,0,4,462,211,228,23,0
+"2284","wisconsin","marquette","nonmetropolitan  ",16,0,2,1,13,190,55,115,20,0
+"2285","wisconsin","menominee","nonmetropolitan  ",2,0,0,1,1,71,27,43,1,0
+"2286","wisconsin","monroe","nonmetropolitan  ",5,0,0,1,4,260,53,183,24,0
+"2287","wisconsin","oneida","nonmetropolitan  ",11,0,0,0,11,276,76,189,11,1
+"2288","wisconsin","pepin","nonmetropolitan  ",4,0,1,0,3,18,11,5,2,0
+"2289","wisconsin","polk","nonmetropolitan  ",67,1,15,0,51,393,137,223,33,2
+"2290","wisconsin","portage","nonmetropolitan  ",7,0,2,1,4,364,105,248,11,5
+"2291","wisconsin","price","nonmetropolitan  ",37,1,1,0,35,78,34,40,4,0
+"2292","wisconsin","richland","nonmetropolitan  ",13,0,0,0,13,127,51,67,9,0
+"2293","wisconsin","rusk","nonmetropolitan  ",9,0,1,0,8,157,53,96,8,1
+"2294","wisconsin","sauk","nonmetropolitan  ",30,0,7,2,21,616,129,466,21,2
+"2295","wisconsin","sawyer","nonmetropolitan  ",24,0,5,0,19,246,51,173,22,3
+"2296","wisconsin","shawano","nonmetropolitan  ",3,0,1,1,1,401,113,253,35,0
+"2297","wisconsin","taylor","nonmetropolitan  ",12,1,5,0,6,183,47,124,12,0
+"2298","wisconsin","trempealeau","nonmetropolitan  ",5,0,2,0,3,136,35,91,10,0
+"2299","wisconsin","vernon","nonmetropolitan  ",8,1,1,0,6,167,51,97,19,0
+"2300","wisconsin","vilas","nonmetropolitan  ",10,0,5,0,5,233,53,167,13,1
+"2301","wisconsin","walworth","nonmetropolitan  ",19,0,8,4,7,354,54,281,19,1
+"2302","wisconsin","washburn","nonmetropolitan  ",8,0,2,0,6,256,98,144,14,0
+"2303","wisconsin","waupaca","nonmetropolitan  ",37,0,9,1,27,463,138,291,34,7
+"2304","wisconsin","waushara","nonmetropolitan  ",7,0,1,0,6,272,48,211,13,0
+"2305","wisconsin","wood","nonmetropolitan  ",4,0,1,0,3,196,69,116,11,0
+"2306","wyoming","laramie","metropolitan  ",58,1,5,5,47,551,120,398,33,2
+"2307","wyoming","natrona","metropolitan  ",17,0,6,1,10,278,111,139,28,1
+"2308","wyoming","albany","nonmetropolitan  ",5,1,0,0,4,68,15,42,11,0
+"2309","wyoming","big horn","nonmetropolitan  ",7,0,4,0,3,22,16,4,2,0
+"2310","wyoming","campbell","nonmetropolitan  ",30,0,1,0,29,237,55,161,21,2
+"2311","wyoming","carbon","nonmetropolitan  ",9,0,0,0,9,47,7,38,2,0
+"2312","wyoming","converse","nonmetropolitan  ",3,0,0,0,3,39,4,32,3,0
+"2313","wyoming","crook","nonmetropolitan  ",1,0,1,0,0,72,15,55,2,0
+"2314","wyoming","fremont","nonmetropolitan  ",18,0,1,0,17,179,50,114,15,5
+"2315","wyoming","goshen","nonmetropolitan  ",20,0,2,0,18,67,4,60,3,1
+"2316","wyoming","hot springs","nonmetropolitan  ",1,0,0,0,1,31,7,23,1,1
+"2317","wyoming","johnson","nonmetropolitan  ",0,0,0,0,0,30,4,25,1,0
+"2318","wyoming","lincoln","nonmetropolitan  ",8,0,2,0,6,106,22,76,8,2
+"2319","wyoming","niobrara","nonmetropolitan  ",1,0,1,0,0,5,1,4,0,0
+"2320","wyoming","park","nonmetropolitan  ",28,0,5,0,23,100,23,72,5,0
+"2321","wyoming","platte","nonmetropolitan  ",1,0,0,0,1,31,7,24,0,1
+"2322","wyoming","sheridan","nonmetropolitan  ",14,0,4,0,10,60,12,47,1,0
+"2323","wyoming","sublette","nonmetropolitan  ",22,0,3,2,17,221,48,156,17,1
+"2324","wyoming","sweetwater","nonmetropolitan  ",22,0,2,0,20,141,35,91,15,1
+"2325","wyoming","teton","nonmetropolitan  ",8,1,1,0,6,122,13,103,6,1
+"2326","wyoming","uinta","nonmetropolitan  ",3,0,1,0,2,75,3,62,10,0
+"2327","wyoming","washakie","nonmetropolitan  ",7,0,0,0,7,10,0,8,2,0
+"2328","wyoming","weston","nonmetropolitan  ",0,0,0,0,0,7,4,2,1,0

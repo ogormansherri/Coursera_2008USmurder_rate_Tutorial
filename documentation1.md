@@ -1,0 +1,23 @@
+2008 Crime Data: Exploration 1
+Author: Sherri Verdugo, M.S.
+========================================================
+
+## Introduction 
+
+This is based on the shiny tutorial for reading in census data and population demographics. With minor modifications, I was able to create a crime map using US county crime data statistics.
+
+## Data folder
+
+The data folder contains the cleaner file for the crime data.
+
+## App location
+
+The app is hosted at: https://census-homicide.shinyapps.io/murder_rate/
+
+## Future Plans 
+
+Future plans include a real time application of tracking crime by county zip code as well.
+
+### Review 
+
+This was a fun experience overall.
